@@ -10,7 +10,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
-    --background-rgb: 33, 33, 33;
+    --background-rgb: 22, 22, 22;
   }
 }
 
@@ -67,7 +67,7 @@ header li span {
 .bracket {
   display: grid;
   grid-template-columns: repeat(9, 1fr);
-  grid-template-rows: repeat(94, 8px);
+  grid-template-rows: repeat(94, auto);
   grid-gap: 2px 6px;
   grid-auto-flow: column;
   margin: 20px auto;
@@ -84,7 +84,7 @@ header li span {
 .region {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(46, 8px);
+  grid-template-rows: repeat(46, auto);
   grid-gap: 2px 6px;
   grid-auto-flow: column;
 }
@@ -96,10 +96,10 @@ header li span {
 
 .final-four {
   grid-column: 4 / span 3;
-  grid-row: 45 / span 6;
+  grid-row: 42 / span 10;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(6, 8px);
+  grid-template-rows: repeat(10, auto);
   grid-gap: 2px 6px;
   grid-auto-flow: column;
 }
@@ -134,16 +134,24 @@ ul {
 .team {
   /* background-color: white; */
   font-size: 11px;
-  height: 18px;
-  line-height: 18px;
-  padding: 0 5px;
+  /* height: 18px; */
+  line-height: 1;
+  padding: 0 ;
+width:100%
+}
+.team button{
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  width: 100%;
 }
 
 .team-top {
+  background-color: #04314c;
   margin-bottom: 2px;
+}
+.team-bottom {
+  background-color: #333;
 }
 
 .winner {
@@ -154,7 +162,7 @@ ul {
 .matchup {
   grid-column: span 1;
   grid-row: span 4;
-  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.33);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.88);
 }
 
 .matchup-1,
@@ -340,11 +348,15 @@ ul {
   grid-row: 2 / span 4;
 }
 
-.championship {
+.matchup-63 {
   grid-column: 2 / span 1;
   grid-row: 1 / span 4;
 }
-.championship .team {
-  height: 28px;
-  line-height: 28px;
+.matchup-64 {
+  grid-column: 2 / span 1;
+  grid-row: 7 / span 4;
+}
+.matchup-64 .team {
+  height: 38px;
+  line-height: 38px;
 }

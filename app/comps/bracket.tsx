@@ -28,14 +28,14 @@ export default function Bracket() {
                   key={match.matchup}
                   className={`matchup matchup-${match.matchup}`}
                 >
-                  <li className="team team-top winner">
+                  <li className="team team-top">
                     <button
                       type="button"
                       onClick={() => {
                         handleChoice(match, match.tt);
                       }}
                     >
-                      {match.tt.seed} {match.tt.name}
+                      {match.tt?.seed} {match.tt?.name}
                     </button>
                   </li>
                   <li className="team team-bottom">
@@ -45,7 +45,7 @@ export default function Bracket() {
                         handleChoice(match, match.tb);
                       }}
                     >
-                      {match.tb.seed} {match.tb.name}
+                      {match.tb?.seed} {match.tb?.name}
                     </button>
                   </li>
                 </ul>
@@ -61,14 +61,14 @@ export default function Bracket() {
                   key={match.matchup}
                   className={`matchup matchup-${match.matchup}`}
                 >
-                  <li className="team team-top winner">
+                  <li className="team team-top">
                     <button
                       type="button"
                       onClick={() => {
                         handleChoice(match, match.tt);
                       }}
                     >
-                      {match.tt.seed} {match.tt.name}
+                      {match.tt?.seed} {match.tt?.name}
                     </button>
                   </li>
                   <li className="team team-bottom">
@@ -78,7 +78,7 @@ export default function Bracket() {
                         handleChoice(match, match.tb);
                       }}
                     >
-                      {match.tb.seed} {match.tb.name}
+                      {match.tb?.seed} {match.tb?.name}
                     </button>
                   </li>
                 </ul>
@@ -94,14 +94,14 @@ export default function Bracket() {
                   key={match.matchup}
                   className={`matchup matchup-${match.matchup}`}
                 >
-                  <li className="team team-top winner">
+                  <li className="team team-top">
                     <button
                       type="button"
                       onClick={() => {
                         handleChoice(match, match.tt);
                       }}
                     >
-                      {match.tt.seed} {match.tt.name}
+                      {match.tt?.seed} {match.tt?.name}
                     </button>
                   </li>
                   <li className="team team-bottom">
@@ -111,7 +111,7 @@ export default function Bracket() {
                         handleChoice(match, match.tb);
                       }}
                     >
-                      {match.tb.seed} {match.tb.name}
+                      {match.tb?.seed} {match.tb?.name}
                     </button>
                   </li>
                 </ul>
@@ -127,14 +127,14 @@ export default function Bracket() {
                   key={match.matchup}
                   className={`matchup matchup-${match.matchup}`}
                 >
-                  <li className="team team-top winner">
+                  <li className="team team-top">
                     <button
                       type="button"
                       onClick={() => {
                         handleChoice(match, match.tt);
                       }}
                     >
-                      {match.tt.seed} {match.tt.name}
+                      {match.tt?.seed} {match.tt?.name}
                     </button>
                   </li>
                   <li className="team team-bottom">
@@ -144,7 +144,7 @@ export default function Bracket() {
                         handleChoice(match, match.tb);
                       }}
                     >
-                      {match.tb.seed} {match.tb.name}
+                      {match.tb?.seed} {match.tb?.name}
                     </button>
                   </li>
                 </ul>
@@ -152,18 +152,49 @@ export default function Bracket() {
             })}
         </div>
         <div className="final-four">
-          <ul className="matchup matchup-61">
-            <li className="team team-top">_?_?_</li>
-            <li className="team team-bottom">_?_?_</li>
-          </ul>
-          <ul className="matchup matchup-62">
-            <li className="team team-top">_?_?_</li>
-            <li className="team team-bottom ">_?_?_</li>
-          </ul>
-          <ul className="matchup championship">
-            <li className="team team-top">_?_?_</li>
-            <li className="team team-bottom">_?_?_</li>
-          </ul>
+          {matchings
+            .filter((r) => r.region === 5)
+            .map((match) => {
+              return (
+                <ul
+                  key={match.matchup}
+                  className={`matchup matchup-${match.matchup}`}
+                >
+                  <li className="team team-top">
+                    <button
+                      type="button"
+                      onClick={() => {
+                        handleChoice(match, match.tt);
+                      }}
+                    >
+                      {match.tt?.seed} {match.tt?.name}
+                    </button>
+                  </li>
+                  <li className="team team-bottom">
+                    <button
+                      type="button"
+                      onClick={() => {
+                        handleChoice(match, match.tb);
+                      }}
+                    >
+                      {match.tb?.seed} {match.tb?.name}
+                    </button>
+                  </li>
+                </ul>
+              );
+            })}
+
+          {matchings
+            .filter((r) => r.region === 6)
+            .map((match) => {
+              return (
+                <ul className="matchup matchup-64" key={match.matchup}>
+                  <li className="team winner">
+                    {match.tt?.seed} {match.tt?.name}
+                  </li>
+                </ul>
+              );
+            })}
         </div>
       </div>
     </>
