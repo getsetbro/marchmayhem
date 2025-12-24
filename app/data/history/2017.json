@@ -1,0 +1,3664 @@
+[
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "The Ivy League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Ivy League",
+          "conferenceSeo": "ivy"
+        },
+        "description": "(23-6)",
+        "names": {
+          "char6": "PRINCE",
+          "full": "Princeton University",
+          "seo": "princeton",
+          "short": "Princeton"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "211",
+      "bracketRegion": "WEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "339560ee-9dfc-4b0a-94f7-ef1d40111baf",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(25-9)",
+        "names": {
+          "char6": "N DAME",
+          "full": "University of Notre Dame",
+          "seo": "notre-dame",
+          "short": "Notre Dame"
+        },
+        "rank": "14",
+        "score": "60",
+        "seed": "5",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-16-2017",
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1489680900",
+      "title": "Notre Dame Princeton",
+      "url": "/game/basketball-men/d1/2017/03/16/princeton-notre-dame",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Colonial Athletic Association",
+          "conferenceDivision": "d1",
+          "conferenceName": "CAA",
+          "conferenceSeo": "colonial"
+        },
+        "description": "(29-5)",
+        "names": {
+          "char6": "UNCW",
+          "full": "University of North Carolina Wilmington",
+          "seo": "unc-wilmington",
+          "short": "UNC Wilmington"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "203",
+      "bracketRegion": "EAST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "7b12de65-49cc-4853-b279-f51d43fbb002",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(22-10)",
+        "names": {
+          "char6": "UVA",
+          "full": "University of Virginia",
+          "seo": "virginia",
+          "short": "Virginia"
+        },
+        "rank": "24",
+        "score": "76",
+        "seed": "5",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-16-2017",
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1489682400",
+      "title": "Virginia UNC Wilmington",
+      "url": "/game/basketball-men/d1/2017/03/16/unc-wilmington-virginia",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big South Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big South",
+          "conferenceSeo": "big-south"
+        },
+        "description": "(26-6)",
+        "names": {
+          "char6": "WINTHR",
+          "full": "Winthrop University",
+          "seo": "winthrop",
+          "short": "Winthrop"
+        },
+        "rank": "",
+        "score": "64",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "228",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "0a3223f0-25a5-4a29-b531-3fe90cab289c",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(23-8)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "21",
+        "score": "76",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-16-2017",
+      "startTime": "01:30PM ET",
+      "startTimeEpoch": "1489685400",
+      "title": "Butler Winthrop",
+      "url": "/game/basketball-men/d1/2017/03/16/winthrop-butler",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "The Summit League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Summit",
+          "conferenceSeo": "summit"
+        },
+        "description": "(18-16)",
+        "names": {
+          "char6": "SDAKST",
+          "full": "South Dakota State University",
+          "seo": "south-dakota-st",
+          "short": "South Dakota St."
+        },
+        "rank": "",
+        "score": "46",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "209",
+      "bracketRegion": "WEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "d945e047-581f-4863-a087-7c1afaeb2438",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(32-1)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "2",
+        "score": "66",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-16-2017",
+      "startTime": "02:00PM ET",
+      "startTimeEpoch": "1489687200",
+      "title": "Gonzaga South Dakota St.",
+      "url": "/game/basketball-men/d1/2017/03/16/south-dakota-st-gonzaga",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Patriot League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Patriot League",
+          "conferenceSeo": "patriot"
+        },
+        "description": "(26-8)",
+        "names": {
+          "char6": "BUCKNL",
+          "full": "Bucknell University",
+          "seo": "bucknell",
+          "short": "Bucknell"
+        },
+        "rank": "",
+        "score": "80",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "212",
+      "bracketRegion": "WEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "ff45b0b0-47b4-4b70-9021-f8e7c053e7ae",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(26-8)",
+        "names": {
+          "char6": "WVU",
+          "full": "West Virginia University",
+          "seo": "west-virginia",
+          "short": "West Virginia"
+        },
+        "rank": "13",
+        "score": "86",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-16-2017",
+      "startTime": "02:54PM ET",
+      "startTimeEpoch": "1489690440",
+      "title": "West Virginia Bucknell",
+      "url": "/game/basketball-men/d1/2017/03/16/bucknell-west-virginia",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Southern",
+          "conferenceSeo": "southern"
+        },
+        "description": "(27-7)",
+        "names": {
+          "char6": "ETSU",
+          "full": "East Tennessee State University",
+          "seo": "east-tenn-st",
+          "short": "East Tenn. St."
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "204",
+      "bracketRegion": "EAST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "295789e8-cb12-4d21-a1c7-44c8d8192779",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(24-8)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "20",
+        "score": "80",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-16-2017",
+      "startTime": "03:26PM ET",
+      "startTimeEpoch": "1489692360",
+      "title": "Florida East Tenn. St.",
+      "url": "/game/basketball-men/d1/2017/03/16/east-tenn-st-florida",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Conference USA",
+          "conferenceDivision": "d1",
+          "conferenceName": "C-USA",
+          "conferenceSeo": "conference-usa"
+        },
+        "description": "(30-4)",
+        "names": {
+          "char6": "MIDTEN",
+          "full": "Middle Tennessee State University",
+          "seo": "middle-tenn",
+          "short": "Middle Tenn."
+        },
+        "rank": "",
+        "score": "81",
+        "seed": "12",
+        "winner": true
+      },
+      "bracketId": "227",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "dba18bc0-d574-4adf-a2e1-40bd22170f21",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(24-9)",
+        "names": {
+          "char6": "MINN",
+          "full": "University of Minnesota, Twin Cities",
+          "seo": "minnesota",
+          "short": "Minnesota"
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "5",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-16-2017",
+      "startTime": "04:12PM ET",
+      "startTimeEpoch": "1489695120",
+      "title": "Minnesota Middle Tenn.",
+      "url": "/game/basketball-men/d1/2017/03/16/middle-tenn-minnesota",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(19-15)",
+        "names": {
+          "char6": "VANDY",
+          "full": "Vanderbilt University",
+          "seo": "vanderbilt",
+          "short": "Vanderbilt"
+        },
+        "rank": "",
+        "score": "66",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "210",
+      "bracketRegion": "WEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "698f2492-2cd4-4623-9f15-ebecea8012f7",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(23-11)",
+        "names": {
+          "char6": "NWSTRN",
+          "full": "Northwestern University",
+          "seo": "northwestern",
+          "short": "Northwestern"
+        },
+        "rank": "",
+        "score": "68",
+        "seed": "8",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-16-2017",
+      "startTime": "04:34PM ET",
+      "startTimeEpoch": "1489696440",
+      "title": "Northwestern Vanderbilt",
+      "url": "/game/basketball-men/d1/2017/03/16/vanderbilt-northwestern",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(21-13)",
+        "names": {
+          "char6": "XAVIER",
+          "full": "Xavier University",
+          "seo": "xavier",
+          "short": "Xavier"
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "213",
+      "bracketRegion": "WEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "12eeee90-a591-4c7c-97bf-caff5a3377ab",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(24-8)",
+        "names": {
+          "char6": "MD",
+          "full": "University of Maryland, College Park",
+          "seo": "maryland",
+          "short": "Maryland"
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "6",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-16-2017",
+      "startTime": "06:50PM ET",
+      "startTimeEpoch": "1489704600",
+      "title": "Maryland Xavier",
+      "url": "/game/basketball-men/d1/2017/03/16/xavier-maryland",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Northeast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "NEC",
+          "conferenceSeo": "northeast"
+        },
+        "description": "(20-15)",
+        "names": {
+          "char6": "MTSTMY",
+          "full": "Mount St. Mary's University",
+          "seo": "mt-st-marys",
+          "short": "Mt. St. Mary's"
+        },
+        "rank": "",
+        "score": "56",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "201",
+      "bracketRegion": "EAST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "890ca96f-429d-45d1-99bc-4d31f48cb583",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(31-3)",
+        "names": {
+          "char6": "NOVA",
+          "full": "Villanova University",
+          "seo": "villanova",
+          "short": "Villanova"
+        },
+        "rank": "1",
+        "score": "76",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-16-2017",
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1489705800",
+      "title": "Villanova Mt. St. Mary's",
+      "url": "/game/basketball-men/d1/2017/03/16/mt-st-marys-villanova",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(26-8)",
+        "names": {
+          "char6": "VCU",
+          "full": "Virginia Commonwealth University",
+          "seo": "vcu",
+          "short": "VCU"
+        },
+        "rank": "",
+        "score": "77",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "215",
+      "bracketRegion": "WEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "9ccd42cb-68b2-4340-8677-fc96595ca72d",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(28-4)",
+        "names": {
+          "char6": "STMARY",
+          "full": "St. Mary's College of California",
+          "seo": "st-marys-ca",
+          "short": "St. Mary's (CA)"
+        },
+        "rank": "22",
+        "score": "85",
+        "seed": "7",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "TBS",
+      "startDate": "03-16-2017",
+      "startTime": "07:20PM ET",
+      "startTimeEpoch": "1489706400",
+      "title": "St. Mary's (CA) VCU",
+      "url": "/game/basketball-men/d1/2017/03/16/vcu-st-marys-ca",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "America East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        },
+        "description": "(29-5)",
+        "names": {
+          "char6": "VERMNT",
+          "full": "University of Vermont",
+          "seo": "vermont",
+          "short": "Vermont"
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "220",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "babb3b18-12fa-46bc-a7cd-5b126efa1086",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(25-7)",
+        "names": {
+          "char6": "PURDUE",
+          "full": "Purdue University",
+          "seo": "purdue",
+          "short": "Purdue"
+        },
+        "rank": "15",
+        "score": "80",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-16-2017",
+      "startTime": "07:27PM ET",
+      "startTimeEpoch": "1489706820",
+      "title": "Purdue Vermont",
+      "url": "/game/basketball-men/d1/2017/03/16/vermont-purdue",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Sun Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic Sun",
+          "conferenceSeo": "atlantic-sun"
+        },
+        "description": "(26-7)",
+        "names": {
+          "char6": "FGCU",
+          "full": "Florida Gulf Coast University",
+          "seo": "fgcu",
+          "short": "FGCU"
+        },
+        "rank": "",
+        "score": "80",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "214",
+      "bracketRegion": "WEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "d02e206b-3dd2-49a7-8864-27ddbdf28d9b",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(25-8)",
+        "names": {
+          "char6": "FSU",
+          "full": "Florida State University",
+          "seo": "florida-st",
+          "short": "Florida St."
+        },
+        "rank": "16",
+        "score": "86",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-16-2017",
+      "startTime": "09:34PM ET",
+      "startTimeEpoch": "1489714440",
+      "title": "Florida St. FGCU",
+      "url": "/game/basketball-men/d1/2017/03/16/fgcu-florida-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(22-10)",
+        "names": {
+          "char6": "VATECH",
+          "full": "Virginia Polytechnic Institute & State University",
+          "seo": "virginia-tech",
+          "short": "Virginia Tech"
+        },
+        "rank": "",
+        "score": "74",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "202",
+      "bracketRegion": "EAST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "9a5a93d4-e74a-483e-a1e0-3426525e0fc4",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(25-9)",
+        "names": {
+          "char6": "WISC",
+          "full": "University of Wisconsin, Madison",
+          "seo": "wisconsin",
+          "short": "Wisconsin"
+        },
+        "rank": "25",
+        "score": "84",
+        "seed": "8",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-16-2017",
+      "startTime": "09:43PM ET",
+      "startTimeEpoch": "1489714980",
+      "title": "Wisconsin Virginia Tech",
+      "url": "/game/basketball-men/d1/2017/03/16/virginia-tech-wisconsin",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mountain West Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MWC",
+          "conferenceSeo": "mountain-west"
+        },
+        "description": "(28-6)",
+        "names": {
+          "char6": "NEVADA",
+          "full": "University of Nevada",
+          "seo": "nevada",
+          "short": "Nevada"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "219",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "ab99998e-f0e7-409f-a7c9-1cca9798dc19",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(23-10)",
+        "names": {
+          "char6": "IOWAST",
+          "full": "Iowa State University",
+          "seo": "iowa-st",
+          "short": "Iowa St."
+        },
+        "rank": "17",
+        "score": "84",
+        "seed": "5",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-16-2017",
+      "startTime": "10:03PM ET",
+      "startTimeEpoch": "1489716180",
+      "title": "Iowa St. Nevada",
+      "url": "/game/basketball-men/d1/2017/03/16/nevada-iowa-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Sky Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Sky",
+          "conferenceSeo": "big-sky"
+        },
+        "description": "(22-9)",
+        "names": {
+          "char6": "NO DAK",
+          "full": "University of North Dakota",
+          "seo": "north-dakota",
+          "short": "North Dakota"
+        },
+        "rank": "",
+        "score": "82",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "216",
+      "bracketRegion": "WEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "b2fecfe0-2f00-41d3-a592-a882b1964560",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(30-4)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "4",
+        "score": "100",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-16-2017",
+      "startTime": "10:24PM ET",
+      "startTimeEpoch": "1489717440",
+      "title": "Arizona North Dakota",
+      "url": "/game/basketball-men/d1/2017/03/16/north-dakota-arizona",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(20-12)",
+        "names": {
+          "char6": "OKLAST",
+          "full": "Oklahoma State University",
+          "seo": "oklahoma-st",
+          "short": "Oklahoma St."
+        },
+        "rank": "",
+        "score": "91",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "223",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "b77fa2ee-48e0-499e-93fe-5f6f9f433d11",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(24-11)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "23",
+        "score": "92",
+        "seed": "7",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-17-2017",
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1489767300",
+      "title": "Michigan Oklahoma St.",
+      "url": "/game/basketball-men/d1/2017/03/17/oklahoma-st-michigan",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Western Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "WAC",
+          "conferenceSeo": "western-athletic"
+        },
+        "description": "(28-5)",
+        "names": {
+          "char6": "NM ST",
+          "full": "New Mexico State University",
+          "seo": "new-mexico-st",
+          "short": "New Mexico St."
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "206",
+      "bracketRegion": "EAST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "fe180bc7-980c-47d0-a599-af22cffa0495",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(25-7)",
+        "names": {
+          "char6": "BAYLOR",
+          "full": "Baylor University",
+          "seo": "baylor",
+          "short": "Baylor"
+        },
+        "rank": "12",
+        "score": "91",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-17-2017",
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1489768800",
+      "title": "Baylor New Mexico St.",
+      "url": "/game/basketball-men/d1/2017/03/17/new-mexico-st-baylor",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(21-11)",
+        "names": {
+          "char6": "SETON",
+          "full": "Seton Hall University",
+          "seo": "seton-hall",
+          "short": "Seton Hall"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "226",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "4da41586-d9de-46f7-9b87-80f9ca6d9db3",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(25-9)",
+        "names": {
+          "char6": "ARK",
+          "full": "University of Arkansas, Fayetteville",
+          "seo": "arkansas",
+          "short": "Arkansas"
+        },
+        "rank": "",
+        "score": "77",
+        "seed": "8",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-17-2017",
+      "startTime": "01:30PM ET",
+      "startTimeEpoch": "1489771800",
+      "title": "Arkansas Seton Hall",
+      "url": "/game/basketball-men/d1/2017/03/17/seton-hall-arkansas",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Metro Atlantic Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Metro Atlantic",
+          "conferenceSeo": "metro-atlantic"
+        },
+        "description": "(22-12)",
+        "names": {
+          "char6": "IONA",
+          "full": "Iona College",
+          "seo": "iona",
+          "short": "Iona"
+        },
+        "rank": "",
+        "score": "77",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "222",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "c3516ee2-aeec-4bee-8bbe-ffbcd3342461",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(29-5)",
+        "names": {
+          "char6": "OREGN",
+          "full": "University of Oregon",
+          "seo": "oregon",
+          "short": "Oregon"
+        },
+        "rank": "9",
+        "score": "93",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-17-2017",
+      "startTime": "02:00PM ET",
+      "startTimeEpoch": "1489773600",
+      "title": "Oregon Iona",
+      "url": "/game/basketball-men/d1/2017/03/17/iona-oregon",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Ohio Valley Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Ohio Valley",
+          "conferenceSeo": "ovc"
+        },
+        "description": "(20-14)",
+        "names": {
+          "char6": "JAX ST",
+          "full": "Jacksonville State University",
+          "seo": "jacksonville-st",
+          "short": "Jacksonville St."
+        },
+        "rank": "",
+        "score": "63",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "224",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "75e67f0d-7fd2-461e-b71f-94fff3e29f51",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(24-8)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "10",
+        "score": "78",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-17-2017",
+      "startTime": "03:05PM ET",
+      "startTimeEpoch": "1489777500",
+      "title": "Louisville Jacksonville St.",
+      "url": "/game/basketball-men/d1/2017/03/17/jacksonville-st-louisville",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(25-9)",
+        "names": {
+          "char6": "USC",
+          "full": "University of Southern California",
+          "seo": "southern-california",
+          "short": "Southern California"
+        },
+        "rank": "",
+        "score": "66",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "205",
+      "bracketRegion": "EAST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "6368fcce-6860-45e2-919f-cdfaff9609a3",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(30-4)",
+        "names": {
+          "char6": "SMU",
+          "full": "Southern Methodist University",
+          "seo": "smu",
+          "short": "SMU"
+        },
+        "rank": "11",
+        "score": "65",
+        "seed": "6",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-17-2017",
+      "startTime": "03:16PM ET",
+      "startTimeEpoch": "1489778160",
+      "title": "SMU Southern California",
+      "url": "/game/basketball-men/d1/2017/03/17/southern-california-smu",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southwestern Athletic Conf.",
+          "conferenceDivision": "d1",
+          "conferenceName": "SWAC",
+          "conferenceSeo": "southwestern"
+        },
+        "description": "(23-11)",
+        "names": {
+          "char6": "TX SOU",
+          "full": "Texas Southern University",
+          "seo": "texas-southern",
+          "short": "Texas Southern"
+        },
+        "rank": "",
+        "score": "64",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "225",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "24057b84-c647-4dc2-aacf-bb9b0f6a2116",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(27-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "6",
+        "score": "103",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-17-2017",
+      "startTime": "04:11PM ET",
+      "startTimeEpoch": "1489781460",
+      "title": "North Carolina Texas Southern",
+      "url": "/game/basketball-men/d1/2017/03/17/texas-southern-north-carolina",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(24-9)",
+        "names": {
+          "char6": "URI",
+          "full": "University of Rhode Island",
+          "seo": "rhode-island",
+          "short": "Rhode Island"
+        },
+        "rank": "",
+        "score": "84",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "221",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "294875fb-cc7e-4258-8eb6-e117b72977af",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(25-9)",
+        "names": {
+          "char6": "CREIGH",
+          "full": "Creighton University",
+          "seo": "creighton",
+          "short": "Creighton"
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "6",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-17-2017",
+      "startTime": "04:37PM ET",
+      "startTimeEpoch": "1489783020",
+      "title": "Creighton Rhode Island",
+      "url": "/game/basketball-men/d1/2017/03/17/rhode-island-creighton",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big West Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big West",
+          "conferenceSeo": "big-west"
+        },
+        "description": "(23-12)",
+        "names": {
+          "char6": "UC DAV",
+          "full": "University of California, Davis",
+          "seo": "uc-davis",
+          "short": "UC Davis"
+        },
+        "rank": "",
+        "score": "62",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "217",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "0d698977-79f2-4c8f-ae20-1e73c1dc1ff8",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(28-4)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "3",
+        "score": "100",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-17-2017",
+      "startTime": "06:50PM ET",
+      "startTimeEpoch": "1489791000",
+      "title": "Kansas UC Davis",
+      "url": "/game/basketball-men/d1/2017/03/17/uc-davis-kansas",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(30-4)",
+        "names": {
+          "char6": "WICHST",
+          "full": "Wichita State University",
+          "seo": "wichita-st",
+          "short": "Wichita St."
+        },
+        "rank": "19",
+        "score": "64",
+        "seed": "10",
+        "winner": true
+      },
+      "bracketId": "231",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "a139b777-f852-4582-9a5e-88474a6074d5",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(24-7)",
+        "names": {
+          "char6": "DAYTON",
+          "full": "University of Dayton",
+          "seo": "dayton",
+          "short": "Dayton"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "7",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-17-2017",
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1489792200",
+      "title": "Dayton Wichita St.",
+      "url": "/game/basketball-men/d1/2017/03/17/wichita-st-dayton",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Sun Belt Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Sun Belt",
+          "conferenceSeo": "sun-belt"
+        },
+        "description": "(22-14)",
+        "names": {
+          "char6": "TROY",
+          "full": "Troy University",
+          "seo": "troy",
+          "short": "Troy"
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "208",
+      "bracketRegion": "EAST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "b5840260-f854-4d6e-b2ab-4f0337de073f",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(27-8)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "7",
+        "score": "87",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-17-2017",
+      "startTime": "07:20PM ET",
+      "startTimeEpoch": "1489792800",
+      "title": "Duke Troy",
+      "url": "/game/basketball-men/d1/2017/03/17/troy-duke",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(21-13)",
+        "names": {
+          "char6": "KAN ST",
+          "full": "Kansas State University",
+          "seo": "kansas-st",
+          "short": "Kansas St."
+        },
+        "rank": "",
+        "score": "61",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "229",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "b66a1c1c-11a3-4429-afe3-1e21c4f1238d",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(29-5)",
+        "names": {
+          "char6": "CINCY",
+          "full": "University of Cincinnati",
+          "seo": "cincinnati",
+          "short": "Cincinnati"
+        },
+        "rank": "18",
+        "score": "75",
+        "seed": "6",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-17-2017",
+      "startTime": "07:40PM ET",
+      "startTimeEpoch": "1489794000",
+      "title": "Cincinnati Kansas St.",
+      "url": "/game/basketball-men/d1/2017/03/17/kansas-st-cincinnati",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(19-14)",
+        "names": {
+          "char6": "MICHST",
+          "full": "Michigan State University",
+          "seo": "michigan-st",
+          "short": "Michigan St."
+        },
+        "rank": "",
+        "score": "78",
+        "seed": "9",
+        "winner": true
+      },
+      "bracketId": "218",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "fa66c3db-7199-4103-8fc8-4e395d83faed",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(21-11)",
+        "names": {
+          "char6": "MIAMI",
+          "full": "University of Miami (Florida)",
+          "seo": "miami-fl",
+          "short": "Miami (FL)"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "8",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-17-2017",
+      "startTime": "09:25PM ET",
+      "startTimeEpoch": "1489800300",
+      "title": "Miami (FL) Michigan St.",
+      "url": "/game/basketball-men/d1/2017/03/17/michigan-st-miami-fl",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(19-12)",
+        "names": {
+          "char6": "MARQ",
+          "full": "Marquette University",
+          "seo": "marquette",
+          "short": "Marquette"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "207",
+      "bracketRegion": "EAST",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "4cd52181-616f-4567-a46e-9dbda0b8439d",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(22-10)",
+        "names": {
+          "char6": "S CAR",
+          "full": "University of South Carolina, Columbia",
+          "seo": "south-carolina",
+          "short": "South Carolina"
+        },
+        "rank": "",
+        "score": "93",
+        "seed": "7",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-17-2017",
+      "startTime": "09:54PM ET",
+      "startTimeEpoch": "1489802040",
+      "title": "South Carolina Marquette",
+      "url": "/game/basketball-men/d1/2017/03/17/marquette-south-carolina",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Horizon League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Horizon",
+          "conferenceSeo": "horizon"
+        },
+        "description": "(24-10)",
+        "names": {
+          "char6": "N KY",
+          "full": "Northern Kentucky University",
+          "seo": "northern-ky",
+          "short": "Northern Ky."
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "232",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "b254fe6c-9a56-422b-9560-c824ed626622",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(29-5)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "5",
+        "score": "79",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-17-2017",
+      "startTime": "10:07PM ET",
+      "startTimeEpoch": "1489802820",
+      "title": "Kentucky Northern Ky.",
+      "url": "/game/basketball-men/d1/2017/03/17/northern-ky-kentucky",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mid-American Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MAC",
+          "conferenceSeo": "mid-american"
+        },
+        "description": "(22-13)",
+        "names": {
+          "char6": "KENT",
+          "full": "Kent State University",
+          "seo": "kent-st",
+          "short": "Kent St."
+        },
+        "rank": "",
+        "score": "80",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "230",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "First Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "da3bcca3-55d3-4d70-ac64-eba81e5f4670",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(29-4)",
+        "names": {
+          "char6": "UCLA",
+          "full": "University of California, Los Angeles",
+          "seo": "ucla",
+          "short": "UCLA"
+        },
+        "rank": "8",
+        "score": "97",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-17-2017",
+      "startTime": "10:12PM ET",
+      "startTimeEpoch": "1489803120",
+      "title": "UCLA Kent St.",
+      "url": "/game/basketball-men/d1/2017/03/17/kent-st-ucla",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(26-9)",
+        "names": {
+          "char6": "N DAME",
+          "full": "University of Notre Dame",
+          "seo": "notre-dame",
+          "short": "Notre Dame"
+        },
+        "rank": "14",
+        "score": "71",
+        "seed": "5",
+        "winner": false
+      },
+      "bracketId": "306",
+      "bracketRegion": "WEST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "3b38ae1c-85b4-4938-a208-8cbaceed140c",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(27-8)",
+        "names": {
+          "char6": "WVU",
+          "full": "West Virginia University",
+          "seo": "west-virginia",
+          "short": "West Virginia"
+        },
+        "rank": "13",
+        "score": "83",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-18-2017",
+      "startTime": "12:10PM ET",
+      "startTimeEpoch": "1489853400",
+      "title": "West Virginia Notre Dame",
+      "url": "/game/basketball-men/d1/2017/03/18/notre-dame-west-virginia",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(26-9)",
+        "names": {
+          "char6": "WISC",
+          "full": "University of Wisconsin, Madison",
+          "seo": "wisconsin",
+          "short": "Wisconsin"
+        },
+        "rank": "25",
+        "score": "65",
+        "seed": "8",
+        "winner": true
+      },
+      "bracketId": "301",
+      "bracketRegion": "EAST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "09ea9e2a-a870-47a2-b82d-56a61d0fb1dc",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(32-3)",
+        "names": {
+          "char6": "NOVA",
+          "full": "Villanova University",
+          "seo": "villanova",
+          "short": "Villanova"
+        },
+        "rank": "1",
+        "score": "62",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-18-2017",
+      "startTime": "02:55PM ET",
+      "startTimeEpoch": "1489863300",
+      "title": "Villanova Wisconsin",
+      "url": "/game/basketball-men/d1/2017/03/18/wisconsin-villanova",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(24-11)",
+        "names": {
+          "char6": "NWSTRN",
+          "full": "Northwestern University",
+          "seo": "northwestern",
+          "short": "Northwestern"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "8",
+        "winner": false
+      },
+      "bracketId": "305",
+      "bracketRegion": "WEST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "ae5906fb-227a-44fb-8b09-58d85fdc8682",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(33-1)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "2",
+        "score": "79",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-18-2017",
+      "startTime": "05:25PM ET",
+      "startTimeEpoch": "1489872300",
+      "title": "Gonzaga Northwestern",
+      "url": "/game/basketball-men/d1/2017/03/18/northwestern-gonzaga",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(22-13)",
+        "names": {
+          "char6": "XAVIER",
+          "full": "Xavier University",
+          "seo": "xavier",
+          "short": "Xavier"
+        },
+        "rank": "",
+        "score": "91",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "307",
+      "bracketRegion": "WEST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "7caf19cb-ebb6-4d9d-a456-a8b277304827",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(26-8)",
+        "names": {
+          "char6": "FSU",
+          "full": "Florida State University",
+          "seo": "florida-st",
+          "short": "Florida St."
+        },
+        "rank": "16",
+        "score": "66",
+        "seed": "3",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-18-2017",
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1489875000",
+      "title": "Florida St. Xavier",
+      "url": "/game/basketball-men/d1/2017/03/18/xavier-florida-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Conference USA",
+          "conferenceDivision": "d1",
+          "conferenceName": "C-USA",
+          "conferenceSeo": "conference-usa"
+        },
+        "description": "(31-4)",
+        "names": {
+          "char6": "MIDTEN",
+          "full": "Middle Tennessee State University",
+          "seo": "middle-tenn",
+          "short": "Middle Tenn."
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "314",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "cd8ffec4-69ca-49ff-9b9c-eb2d6fca9900",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(24-8)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "21",
+        "score": "74",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-18-2017",
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1489878600",
+      "title": "Butler Middle Tenn.",
+      "url": "/game/basketball-men/d1/2017/03/18/middle-tenn-butler",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(29-4)",
+        "names": {
+          "char6": "STMARY",
+          "full": "St. Mary's College of California",
+          "seo": "st-marys-ca",
+          "short": "St. Mary's (CA)"
+        },
+        "rank": "22",
+        "score": "60",
+        "seed": "7",
+        "winner": false
+      },
+      "bracketId": "308",
+      "bracketRegion": "WEST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "e9b80587-504b-4733-be6d-7516e4184d36",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(31-4)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "4",
+        "score": "69",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-18-2017",
+      "startTime": "08:20PM ET",
+      "startTimeEpoch": "1489882800",
+      "title": "Arizona St. Mary's (CA)",
+      "url": "/game/basketball-men/d1/2017/03/18/st-marys-ca-arizona",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(23-10)",
+        "names": {
+          "char6": "UVA",
+          "full": "University of Virginia",
+          "seo": "virginia",
+          "short": "Virginia"
+        },
+        "rank": "24",
+        "score": "39",
+        "seed": "5",
+        "winner": false
+      },
+      "bracketId": "302",
+      "bracketRegion": "EAST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "94e1e9f3-8f9b-4dce-ac04-38f36b03a140",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(25-8)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "20",
+        "score": "65",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-18-2017",
+      "startTime": "08:51PM ET",
+      "startTimeEpoch": "1489884660",
+      "title": "Florida Virginia",
+      "url": "/game/basketball-men/d1/2017/03/18/virginia-florida",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(24-10)",
+        "names": {
+          "char6": "IOWAST",
+          "full": "Iowa State University",
+          "seo": "iowa-st",
+          "short": "Iowa St."
+        },
+        "rank": "17",
+        "score": "76",
+        "seed": "5",
+        "winner": false
+      },
+      "bracketId": "310",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "c70c1042-fef5-4634-b076-f57c372ccdbf",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(26-7)",
+        "names": {
+          "char6": "PURDUE",
+          "full": "Purdue University",
+          "seo": "purdue",
+          "short": "Purdue"
+        },
+        "rank": "15",
+        "score": "80",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-18-2017",
+      "startTime": "09:49PM ET",
+      "startTimeEpoch": "1489888140",
+      "title": "Purdue Iowa St.",
+      "url": "/game/basketball-men/d1/2017/03/18/iowa-st-purdue",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(25-11)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "23",
+        "score": "73",
+        "seed": "7",
+        "winner": true
+      },
+      "bracketId": "312",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "1d384145-386c-426a-a827-20e53a276b98",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(25-8)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "10",
+        "score": "69",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-19-2017",
+      "startTime": "12:10PM ET",
+      "startTimeEpoch": "1489939800",
+      "title": "Louisville Michigan",
+      "url": "/game/basketball-men/d1/2017/03/19/michigan-louisville",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(31-4)",
+        "names": {
+          "char6": "WICHST",
+          "full": "Wichita State University",
+          "seo": "wichita-st",
+          "short": "Wichita St."
+        },
+        "rank": "19",
+        "score": "62",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "316",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "5e6ecb2c-9e70-4bab-a9d2-3824f5328c2a",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(30-5)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "5",
+        "score": "65",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-19-2017",
+      "startTime": "02:55PM ET",
+      "startTimeEpoch": "1489949700",
+      "title": "Kentucky Wichita St.",
+      "url": "/game/basketball-men/d1/2017/03/19/wichita-st-kentucky",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(20-14)",
+        "names": {
+          "char6": "MICHST",
+          "full": "Michigan State University",
+          "seo": "michigan-st",
+          "short": "Michigan St."
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "309",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "f9793f79-8e88-410c-b1b2-50fc6673831a",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(29-4)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "3",
+        "score": "90",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-19-2017",
+      "startTime": "05:20PM ET",
+      "startTimeEpoch": "1489958400",
+      "title": "Kansas Michigan St.",
+      "url": "/game/basketball-men/d1/2017/03/19/michigan-st-kansas",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(26-9)",
+        "names": {
+          "char6": "ARK",
+          "full": "University of Arkansas, Fayetteville",
+          "seo": "arkansas",
+          "short": "Arkansas"
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "8",
+        "winner": false
+      },
+      "bracketId": "313",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "005c50e1-c246-474e-9838-ccc753b4f1f3",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(28-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "6",
+        "score": "72",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-19-2017",
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1489961400",
+      "title": "North Carolina Arkansas",
+      "url": "/game/basketball-men/d1/2017/03/19/arkansas-north-carolina",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(25-9)",
+        "names": {
+          "char6": "URI",
+          "full": "University of Rhode Island",
+          "seo": "rhode-island",
+          "short": "Rhode Island"
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "311",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "d9bd7446-b3e7-4f15-b49e-9271714beb9f",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(30-5)",
+        "names": {
+          "char6": "OREGN",
+          "full": "University of Oregon",
+          "seo": "oregon",
+          "short": "Oregon"
+        },
+        "rank": "9",
+        "score": "75",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-19-2017",
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1489965000",
+      "title": "Oregon Rhode Island",
+      "url": "/game/basketball-men/d1/2017/03/19/rhode-island-oregon",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(26-9)",
+        "names": {
+          "char6": "USC",
+          "full": "University of Southern California",
+          "seo": "southern-california",
+          "short": "Southern California"
+        },
+        "rank": "",
+        "score": "78",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "303",
+      "bracketRegion": "EAST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "bd4ab946-cc76-49a1-9874-707af7709fa2",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(26-7)",
+        "names": {
+          "char6": "BAYLOR",
+          "full": "Baylor University",
+          "seo": "baylor",
+          "short": "Baylor"
+        },
+        "rank": "12",
+        "score": "82",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-19-2017",
+      "startTime": "08:00PM ET",
+      "startTimeEpoch": "1489968000",
+      "title": "Baylor Southern California",
+      "url": "/game/basketball-men/d1/2017/03/19/southern-california-baylor",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(23-10)",
+        "names": {
+          "char6": "S CAR",
+          "full": "University of South Carolina, Columbia",
+          "seo": "south-carolina",
+          "short": "South Carolina"
+        },
+        "rank": "",
+        "score": "88",
+        "seed": "7",
+        "winner": true
+      },
+      "bracketId": "304",
+      "bracketRegion": "EAST",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "92945efb-b38c-4c10-9630-c6593adcc43a",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(28-8)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "7",
+        "score": "81",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-19-2017",
+      "startTime": "08:51PM ET",
+      "startTimeEpoch": "1489971060",
+      "title": "Duke South Carolina",
+      "url": "/game/basketball-men/d1/2017/03/19/south-carolina-duke",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(30-5)",
+        "names": {
+          "char6": "CINCY",
+          "full": "University of Cincinnati",
+          "seo": "cincinnati",
+          "short": "Cincinnati"
+        },
+        "rank": "18",
+        "score": "67",
+        "seed": "6",
+        "winner": false
+      },
+      "bracketId": "315",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "4894fdf3-2372-44b9-ad34-bbee8f8dd874",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(30-4)",
+        "names": {
+          "char6": "UCLA",
+          "full": "University of California, Los Angeles",
+          "seo": "ucla",
+          "short": "UCLA"
+        },
+        "rank": "8",
+        "score": "79",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-19-2017",
+      "startTime": "09:55PM ET",
+      "startTimeEpoch": "1489974900",
+      "title": "UCLA Cincinnati",
+      "url": "/game/basketball-men/d1/2017/03/19/cincinnati-ucla",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(26-11)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "23",
+        "score": "68",
+        "seed": "7",
+        "winner": false
+      },
+      "bracketId": "406",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "0b7150d0-277b-4e9e-8eb2-17fb14a77643",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(31-5)",
+        "names": {
+          "char6": "OREGN",
+          "full": "University of Oregon",
+          "seo": "oregon",
+          "short": "Oregon"
+        },
+        "rank": "9",
+        "score": "69",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-23-2017",
+      "startTime": "07:09PM ET",
+      "startTimeEpoch": "1490310540",
+      "title": "Oregon Michigan",
+      "url": "/game/basketball-men/d1/2017/03/23/michigan-oregon",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(28-8)",
+        "names": {
+          "char6": "WVU",
+          "full": "West Virginia University",
+          "seo": "west-virginia",
+          "short": "West Virginia"
+        },
+        "rank": "13",
+        "score": "58",
+        "seed": "4",
+        "winner": false
+      },
+      "bracketId": "403",
+      "bracketRegion": "WEST",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "522d98e6-62eb-4ff8-bd65-3acf7dd4c745",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(34-1)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "2",
+        "score": "61",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-23-2017",
+      "startTime": "07:39PM ET",
+      "startTimeEpoch": "1490312340",
+      "title": "Gonzaga West Virginia",
+      "url": "/game/basketball-men/d1/2017/03/23/west-virginia-gonzaga",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(27-7)",
+        "names": {
+          "char6": "PURDUE",
+          "full": "Purdue University",
+          "seo": "purdue",
+          "short": "Purdue"
+        },
+        "rank": "15",
+        "score": "66",
+        "seed": "4",
+        "winner": false
+      },
+      "bracketId": "405",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "56e10d8b-0e6b-417e-9c36-89cfaeeb4626",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(30-4)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "3",
+        "score": "98",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-23-2017",
+      "startTime": "09:35PM ET",
+      "startTimeEpoch": "1490319300",
+      "title": "Kansas Purdue",
+      "url": "/game/basketball-men/d1/2017/03/23/purdue-kansas",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(23-13)",
+        "names": {
+          "char6": "XAVIER",
+          "full": "Xavier University",
+          "seo": "xavier",
+          "short": "Xavier"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "404",
+      "bracketRegion": "WEST",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "6329ef5d-c174-42ce-8a18-8d9ec03fd46b",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(32-4)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "4",
+        "score": "71",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-23-2017",
+      "startTime": "10:43PM ET",
+      "startTimeEpoch": "1490323380",
+      "title": "Arizona Xavier",
+      "url": "/game/basketball-men/d1/2017/03/23/xavier-arizona",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(25-8)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "21",
+        "score": "80",
+        "seed": "4",
+        "winner": false
+      },
+      "bracketId": "407",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "ef1074dc-19fc-43a4-a244-8c8ef84ff101",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(29-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "6",
+        "score": "92",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-24-2017",
+      "startTime": "07:09PM ET",
+      "startTimeEpoch": "1490396940",
+      "title": "North Carolina Butler",
+      "url": "/game/basketball-men/d1/2017/03/24/butler-north-carolina",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(24-10)",
+        "names": {
+          "char6": "S CAR",
+          "full": "University of South Carolina, Columbia",
+          "seo": "south-carolina",
+          "short": "South Carolina"
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "7",
+        "winner": true
+      },
+      "bracketId": "402",
+      "bracketRegion": "EAST",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "89b4d8e2-28f7-4769-b4a1-d1759cb81b66",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(27-7)",
+        "names": {
+          "char6": "BAYLOR",
+          "full": "Baylor University",
+          "seo": "baylor",
+          "short": "Baylor"
+        },
+        "rank": "12",
+        "score": "50",
+        "seed": "3",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-24-2017",
+      "startTime": "07:29PM ET",
+      "startTimeEpoch": "1490398140",
+      "title": "Baylor South Carolina",
+      "url": "/game/basketball-men/d1/2017/03/24/south-carolina-baylor",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(31-4)",
+        "names": {
+          "char6": "UCLA",
+          "full": "University of California, Los Angeles",
+          "seo": "ucla",
+          "short": "UCLA"
+        },
+        "rank": "8",
+        "score": "75",
+        "seed": "3",
+        "winner": false
+      },
+      "bracketId": "408",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "765041fb-4803-4cd1-b70c-0347249b9515",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(31-5)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "5",
+        "score": "86",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-24-2017",
+      "startTime": "09:52PM ET",
+      "startTimeEpoch": "1490406720",
+      "title": "Kentucky UCLA",
+      "url": "/game/basketball-men/d1/2017/03/24/ucla-kentucky",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(27-9)",
+        "names": {
+          "char6": "WISC",
+          "full": "University of Wisconsin, Madison",
+          "seo": "wisconsin",
+          "short": "Wisconsin"
+        },
+        "rank": "25",
+        "score": "83",
+        "seed": "8",
+        "winner": false
+      },
+      "bracketId": "401",
+      "bracketRegion": "EAST",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final (OT)",
+      "finalMessage": "Final (OT)",
+      "gameID": "8c25a7e3-7857-45f4-8d73-0979b19291b9",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(26-8)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "20",
+        "score": "84",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-24-2017",
+      "startTime": "10:13PM ET",
+      "startTimeEpoch": "1490407980",
+      "title": "Florida Wisconsin",
+      "url": "/game/basketball-men/d1/2017/03/24/wisconsin-florida",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(24-13)",
+        "names": {
+          "char6": "XAVIER",
+          "full": "Xavier University",
+          "seo": "xavier",
+          "short": "Xavier"
+        },
+        "rank": "",
+        "score": "59",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "502",
+      "bracketRegion": "WEST",
+      "bracketRound": "Elite Eight&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "e6c55cdf-ed2b-4ddb-af55-b5b7be0aa2ca",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(35-1)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "2",
+        "score": "83",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-25-2017",
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1490479740",
+      "title": "Gonzaga Xavier",
+      "url": "/game/basketball-men/d1/2017/03/25/xavier-gonzaga",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(32-5)",
+        "names": {
+          "char6": "OREGN",
+          "full": "University of Oregon",
+          "seo": "oregon",
+          "short": "Oregon"
+        },
+        "rank": "9",
+        "score": "74",
+        "seed": "3",
+        "winner": true
+      },
+      "bracketId": "503",
+      "bracketRegion": "MIDWEST",
+      "bracketRound": "Elite Eight&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "219af151-26a5-4fa7-bb4c-9656b698208e",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(31-4)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "3",
+        "score": "60",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-25-2017",
+      "startTime": "08:49PM ET",
+      "startTimeEpoch": "1490489340",
+      "title": "Kansas Oregon",
+      "url": "/game/basketball-men/d1/2017/03/25/oregon-kansas",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(25-10)",
+        "names": {
+          "char6": "S CAR",
+          "full": "University of South Carolina, Columbia",
+          "seo": "south-carolina",
+          "short": "South Carolina"
+        },
+        "rank": "",
+        "score": "77",
+        "seed": "7",
+        "winner": true
+      },
+      "bracketId": "501",
+      "bracketRegion": "EAST",
+      "bracketRound": "Elite Eight&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "33c44d04-7e51-406f-8401-a6778c4de846",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(27-8)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "20",
+        "score": "70",
+        "seed": "4",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-26-2017",
+      "startTime": "02:20PM ET",
+      "startTimeEpoch": "1490552400",
+      "title": "Florida South Carolina",
+      "url": "/game/basketball-men/d1/2017/03/26/south-carolina-florida",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(32-5)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "5",
+        "score": "73",
+        "seed": "2",
+        "winner": false
+      },
+      "bracketId": "504",
+      "bracketRegion": "SOUTH",
+      "bracketRound": "Elite Eight&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "21da1777-113c-4199-b93d-6247bf33451e",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(30-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "6",
+        "score": "75",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-26-2017",
+      "startTime": "05:13PM ET",
+      "startTimeEpoch": "1490562780",
+      "title": "North Carolina Kentucky",
+      "url": "/game/basketball-men/d1/2017/03/26/kentucky-north-carolina",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(26-10)",
+        "names": {
+          "char6": "S CAR",
+          "full": "University of South Carolina, Columbia",
+          "seo": "south-carolina",
+          "short": "South Carolina"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "7",
+        "winner": false
+      },
+      "bracketId": "601",
+      "bracketRegion": "",
+      "bracketRound": "FINAL FOUR&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "1b44060a-587e-4a24-bede-4e28fe39c8c4",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(36-1)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "2",
+        "score": "77",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "04-01-2017",
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1491084540",
+      "title": "Gonzaga South Carolina",
+      "url": "/game/basketball-men/d1/2017/04/01/south-carolina-gonzaga",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(33-5)",
+        "names": {
+          "char6": "OREGN",
+          "full": "University of Oregon",
+          "seo": "oregon",
+          "short": "Oregon"
+        },
+        "rank": "9",
+        "score": "76",
+        "seed": "3",
+        "winner": false
+      },
+      "bracketId": "602",
+      "bracketRegion": "",
+      "bracketRound": "FINAL FOUR&#174;",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "b072ef07-9cc5-40c1-817f-c7f762569ada",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(31-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "6",
+        "score": "77",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "04-01-2017",
+      "startTime": "08:49PM ET",
+      "startTimeEpoch": "1491094140",
+      "title": "North Carolina Oregon",
+      "url": "/game/basketball-men/d1/2017/04/01/oregon-north-carolina",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "gameID": "076ee50a-f680-4ffb-a666-0325626a5fc6",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(37-1)",
+        "rank": "2",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Championship",
+      "title": "North Carolina Gonzaga",
+      "url": "/game/2433030",
+      "network": "",
+      "home": {
+        "score": "71",
+        "names": {
+          "char6": "UNC",
+          "short": "North Carolina",
+          "seo": "north-carolina",
+          "full": "University of North Carolina, Chapel Hill"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(32-7)",
+        "rank": "6",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "09:20PM ET",
+      "startTimeEpoch": "1491268800",
+      "bracketId": "701",
+      "gameState": "final",
+      "startDate": "04-03-2017",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  }
+]

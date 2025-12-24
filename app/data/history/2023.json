@@ -1,0 +1,3719 @@
+[
+  {
+    "game": {
+      "gameID": "2252411",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "WVU",
+          "short": "West Virginia",
+          "seo": "west-virginia",
+          "full": "West Virginia University"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(19-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Maryland West Virginia",
+      "contestName": "",
+      "url": "/game/6131078",
+      "network": "CBS",
+      "home": {
+        "score": "67",
+        "names": {
+          "char6": "MD",
+          "short": "Maryland",
+          "seo": "maryland",
+          "full": "University of Maryland, College Park"
+        },
+        "winner": true,
+        "seed": "8",
+        "description": "(21-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1678983300",
+      "bracketId": "202",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252407",
+      "away": {
+        "score": "68",
+        "names": {
+          "char6": "FURMAN",
+          "short": "Furman",
+          "seo": "furman",
+          "full": "Furman University"
+        },
+        "winner": true,
+        "seed": "13",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SoCon",
+            "conferenceSeo": "socon"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Virginia Furman",
+      "contestName": "",
+      "url": "/game/6131080",
+      "network": "truTV",
+      "home": {
+        "score": "67",
+        "names": {
+          "char6": "UVA",
+          "short": "Virginia",
+          "seo": "virginia",
+          "full": "University of Virginia"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(25-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1678984800",
+      "bracketId": "204",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252398",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "UT ST",
+          "short": "Utah St.",
+          "seo": "utah-st",
+          "full": "Utah State University"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Missouri Utah St.",
+      "contestName": "",
+      "url": "/game/6131083",
+      "network": "TNT",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "MIZZOU",
+          "short": "Missouri",
+          "seo": "missouri",
+          "full": "University of Missouri, Columbia"
+        },
+        "winner": true,
+        "seed": "7",
+        "description": "(24-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "01:40PM ET",
+      "startTimeEpoch": "1678988400",
+      "bracketId": "207",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252404",
+      "away": {
+        "score": "68",
+        "names": {
+          "char6": "HOWARD",
+          "short": "Howard",
+          "seo": "howard",
+          "full": "Howard University"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(22-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MEAC",
+            "conferenceSeo": "meac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Kansas Howard",
+      "contestName": "",
+      "url": "/game/6131101",
+      "network": "TBS",
+      "home": {
+        "score": "96",
+        "names": {
+          "char6": "KANSAS",
+          "short": "Kansas",
+          "seo": "kansas",
+          "full": "University of Kansas"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:00PM ET",
+      "startTimeEpoch": "1678989600",
+      "bracketId": "225",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252410",
+      "away": {
+        "score": "75",
+        "names": {
+          "char6": "TAMUCC",
+          "short": "A&M-Corpus Christi",
+          "seo": "am-corpus-chris",
+          "full": "Texas A&M University-Corpus Christi"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(24-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Southland",
+            "conferenceSeo": "southland"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Alabama A&M-Corpus Christi",
+      "contestName": "",
+      "url": "/game/6131077",
+      "network": "CBS",
+      "home": {
+        "score": "96",
+        "names": {
+          "char6": "ALA",
+          "short": "Alabama",
+          "seo": "alabama",
+          "full": "University of Alabama"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(29-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:17PM ET",
+      "startTimeEpoch": "1678994220",
+      "bracketId": "201",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252406",
+      "away": {
+        "score": "57",
+        "names": {
+          "char6": "C OF C",
+          "short": "Col. of Charleston",
+          "seo": "col-of-charleston",
+          "full": "College of Charleston (South Carolina)"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(31-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "CAA",
+            "conferenceSeo": "caa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "San Diego St. Col. of Charleston",
+      "contestName": "",
+      "url": "/game/6131079",
+      "network": "truTV",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(27-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:25PM ET",
+      "startTimeEpoch": "1678994700",
+      "bracketId": "203",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252399",
+      "away": {
+        "score": "59",
+        "names": {
+          "char6": "PRINCE",
+          "short": "Princeton",
+          "seo": "princeton",
+          "full": "Princeton University"
+        },
+        "winner": true,
+        "seed": "15",
+        "description": "(21-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Ivy League",
+            "conferenceSeo": "ivy-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Arizona Princeton",
+      "contestName": "",
+      "url": "/game/6131084",
+      "network": "TNT",
+      "home": {
+        "score": "55",
+        "names": {
+          "char6": "ARIZ",
+          "short": "Arizona",
+          "seo": "arizona",
+          "full": "University of Arizona"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(28-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:18PM ET",
+      "startTimeEpoch": "1678997880",
+      "bracketId": "208",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252405",
+      "away": {
+        "score": "63",
+        "names": {
+          "char6": "ILL",
+          "short": "Illinois",
+          "seo": "illinois",
+          "full": "University of Illinois Urbana-Champaign"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(20-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Arkansas Illinois",
+      "contestName": "",
+      "url": "/game/6131102",
+      "network": "TBS",
+      "home": {
+        "score": "73",
+        "names": {
+          "char6": "ARK",
+          "short": "Arkansas",
+          "seo": "arkansas",
+          "full": "University of Arkansas, Fayetteville"
+        },
+        "winner": true,
+        "seed": "8",
+        "description": "(20-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:34PM ET",
+      "startTimeEpoch": "1678998840",
+      "bracketId": "226",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252413",
+      "away": {
+        "score": "83",
+        "names": {
+          "char6": "AUBURN",
+          "short": "Auburn",
+          "seo": "auburn",
+          "full": "Auburn University"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(20-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Iowa Auburn",
+      "contestName": "",
+      "url": "/game/6131094",
+      "network": "TNT",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "IOWA",
+          "short": "Iowa",
+          "seo": "iowa",
+          "full": "University of Iowa"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(19-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:50PM ET",
+      "startTimeEpoch": "1679007000",
+      "bracketId": "218",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252408",
+      "away": {
+        "score": "51",
+        "names": {
+          "char6": "ORU",
+          "short": "Oral Roberts",
+          "seo": "oral-roberts",
+          "full": "Oral Roberts University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(30-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Summit League",
+            "conferenceSeo": "summit-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Duke Oral Roberts",
+      "contestName": "",
+      "url": "/game/6131087",
+      "network": "CBS",
+      "home": {
+        "score": "74",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1679008200",
+      "bracketId": "211",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252403",
+      "away": {
+        "score": "61",
+        "names": {
+          "char6": "COLGAT",
+          "short": "Colgate",
+          "seo": "colgate",
+          "full": "Colgate University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Patriot",
+            "conferenceSeo": "patriot"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Texas Colgate",
+      "contestName": "",
+      "url": "/game/6131100",
+      "network": "TBS",
+      "home": {
+        "score": "81",
+        "names": {
+          "char6": "TEXAS",
+          "short": "Texas",
+          "seo": "texas",
+          "full": "University of Texas at Austin"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:25PM ET",
+      "startTimeEpoch": "1679009100",
+      "bracketId": "224",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252400",
+      "away": {
+        "score": "67",
+        "names": {
+          "char6": "BOISE",
+          "short": "Boise St.",
+          "seo": "boise-st",
+          "full": "Boise State University"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(24-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Northwestern Boise St.",
+      "contestName": "",
+      "url": "/game/6131107",
+      "network": "truTV",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "NWSTRN",
+          "short": "Northwestern",
+          "seo": "northwestern",
+          "full": "Northwestern University"
+        },
+        "winner": true,
+        "seed": "7",
+        "description": "(21-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:35PM ET",
+      "startTimeEpoch": "1679009700",
+      "bracketId": "231",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252409",
+      "away": {
+        "score": "55",
+        "names": {
+          "char6": "LA",
+          "short": "Louisiana",
+          "seo": "la-lafayette",
+          "full": "University of Louisiana at Lafayette"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(26-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Sun Belt",
+            "conferenceSeo": "sun-belt"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Tennessee Louisiana",
+      "contestName": "",
+      "url": "/game/6131088",
+      "network": "CBS",
+      "home": {
+        "score": "58",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:33PM ET",
+      "startTimeEpoch": "1679016780",
+      "bracketId": "212",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252412",
+      "away": {
+        "score": "52",
+        "names": {
+          "char6": "N KY",
+          "short": "Northern Ky.",
+          "seo": "northern-ky",
+          "full": "Northern Kentucky University"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(22-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Horizon",
+            "conferenceSeo": "horizon"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Houston Northern Ky.",
+      "contestName": "",
+      "url": "/game/6131093",
+      "network": "TNT",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(31-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:39PM ET",
+      "startTimeEpoch": "1679017140",
+      "bracketId": "217",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252401",
+      "away": {
+        "score": "53",
+        "names": {
+          "char6": "UNC A",
+          "short": "UNC Asheville",
+          "seo": "unc-asheville",
+          "full": "University of North Carolina Asheville"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big South",
+            "conferenceSeo": "big-south"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "UCLA UNC Asheville",
+      "contestName": "",
+      "url": "/game/6131108",
+      "network": "truTV",
+      "home": {
+        "score": "86",
+        "names": {
+          "char6": "UCLA",
+          "short": "UCLA",
+          "seo": "ucla",
+          "full": "University of California, Los Angeles"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(29-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:11PM ET",
+      "startTimeEpoch": "1679019060",
+      "bracketId": "232",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252402",
+      "away": {
+        "score": "76",
+        "names": {
+          "char6": "PENNST",
+          "short": "Penn St.",
+          "seo": "penn-st",
+          "full": "Pennsylvania State University"
+        },
+        "winner": true,
+        "seed": "10",
+        "description": "(22-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Texas A&M Penn St.",
+      "contestName": "",
+      "url": "/game/6131099",
+      "network": "TBS",
+      "home": {
+        "score": "59",
+        "names": {
+          "char6": "TX A&M",
+          "short": "Texas A&M",
+          "seo": "texas-am",
+          "full": "Texas A&M University, College Station"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:16PM ET",
+      "startTimeEpoch": "1679019360",
+      "bracketId": "223",
+      "gameState": "final",
+      "startDate": "03-16-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252416",
+      "away": {
+        "score": "62",
+        "names": {
+          "char6": "USC",
+          "short": "Southern California",
+          "seo": "southern-california",
+          "full": "University of Southern California"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(22-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Michigan St. Southern California",
+      "contestName": "",
+      "url": "/game/6131091",
+      "network": "CBS",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": true,
+        "seed": "7",
+        "description": "(19-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1679069700",
+      "bracketId": "215",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252421",
+      "away": {
+        "score": "67",
+        "names": {
+          "char6": "KENSAW",
+          "short": "Kennesaw St.",
+          "seo": "kennesaw-st",
+          "full": "Kennesaw State University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ASUN",
+            "conferenceSeo": "asun"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Xavier Kennesaw St.",
+      "contestName": "",
+      "url": "/game/6131098",
+      "network": "truTV",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "XAVIER",
+          "short": "Xavier",
+          "seo": "xavier",
+          "full": "Xavier University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1679071200",
+      "bracketId": "222",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252427",
+      "away": {
+        "score": "56",
+        "names": {
+          "char6": "UCSB",
+          "short": "UC Santa Barbara",
+          "seo": "uc-santa-barbara",
+          "full": "University of California, Santa Barbara"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big West",
+            "conferenceSeo": "big-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Baylor UC Santa Barbara",
+      "contestName": "",
+      "url": "/game/6131082",
+      "network": "TNT",
+      "home": {
+        "score": "74",
+        "names": {
+          "char6": "BAYLOR",
+          "short": "Baylor",
+          "seo": "baylor",
+          "full": "Baylor University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(22-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "01:30PM ET",
+      "startTimeEpoch": "1679074200",
+      "bracketId": "206",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252424",
+      "away": {
+        "score": "51",
+        "names": {
+          "char6": "VCU",
+          "short": "VCU",
+          "seo": "vcu",
+          "full": "Virginia Commonwealth University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Saint Mary's (CA) VCU",
+      "contestName": "",
+      "url": "/game/6131103",
+      "network": "TBS",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "STMARY",
+          "short": "Saint Mary's (CA)",
+          "seo": "st-marys-ca",
+          "full": "Saint Mary's College of California"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(26-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:00PM ET",
+      "startTimeEpoch": "1679076000",
+      "bracketId": "227",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252417",
+      "away": {
+        "score": "61",
+        "names": {
+          "char6": "VERMNT",
+          "short": "Vermont",
+          "seo": "vermont",
+          "full": "University of Vermont"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "America East",
+            "conferenceSeo": "america-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Marquette Vermont",
+      "contestName": "",
+      "url": "/game/6131092",
+      "network": "CBS",
+      "home": {
+        "score": "78",
+        "names": {
+          "char6": "MARQ",
+          "short": "Marquette",
+          "seo": "marquette",
+          "full": "Marquette University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(28-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:51PM ET",
+      "startTimeEpoch": "1679079060",
+      "bracketId": "216",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252420",
+      "away": {
+        "score": "59",
+        "names": {
+          "char6": "PITT",
+          "short": "Pittsburgh",
+          "seo": "pittsburgh",
+          "full": "University of Pittsburgh"
+        },
+        "winner": true,
+        "seed": "11",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Iowa St. Pittsburgh",
+      "contestName": "",
+      "url": "/game/6131097",
+      "network": "truTV",
+      "home": {
+        "score": "41",
+        "names": {
+          "char6": "IOWAST",
+          "short": "Iowa St.",
+          "seo": "iowa-st",
+          "full": "Iowa State University"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(19-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:31PM ET",
+      "startTimeEpoch": "1679081460",
+      "bracketId": "221",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252426",
+      "away": {
+        "score": "63",
+        "names": {
+          "char6": "NC ST",
+          "short": "NC State",
+          "seo": "north-carolina-st",
+          "full": "North Carolina State University"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Creighton NC State",
+      "contestName": "",
+      "url": "/game/6131081",
+      "network": "TNT",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "CREIGH",
+          "short": "Creighton",
+          "seo": "creighton",
+          "full": "Creighton University"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(21-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:56PM ET",
+      "startTimeEpoch": "1679082960",
+      "bracketId": "205",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252425",
+      "away": {
+        "score": "63",
+        "names": {
+          "char6": "IONA",
+          "short": "Iona",
+          "seo": "iona",
+          "full": "Iona University"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MAAC",
+            "conferenceSeo": "maac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "UConn Iona",
+      "contestName": "",
+      "url": "/game/6131104",
+      "network": "TBS",
+      "home": {
+        "score": "87",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(25-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:48PM ET",
+      "startTimeEpoch": "1679086080",
+      "bracketId": "228",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252414",
+      "away": {
+        "score": "63",
+        "names": {
+          "char6": "FDU",
+          "short": "FDU",
+          "seo": "fairleigh-dickinson",
+          "full": "Fairleigh Dickinson University, Metropolitan Campus"
+        },
+        "winner": true,
+        "seed": "16",
+        "description": "(20-15)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "NEC",
+            "conferenceSeo": "nec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Purdue FDU",
+      "contestName": "",
+      "url": "/game/6131085",
+      "network": "TNT",
+      "home": {
+        "score": "58",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(29-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:50PM ET",
+      "startTimeEpoch": "1679093400",
+      "bracketId": "209",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252418",
+      "away": {
+        "score": "53",
+        "names": {
+          "char6": "PROV",
+          "short": "Providence",
+          "seo": "providence",
+          "full": "Providence College"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(21-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Kentucky Providence",
+      "contestName": "",
+      "url": "/game/6131089",
+      "network": "CBS",
+      "home": {
+        "score": "61",
+        "names": {
+          "char6": "UK",
+          "short": "Kentucky",
+          "seo": "kentucky",
+          "full": "University of Kentucky"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(21-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:13PM ET",
+      "startTimeEpoch": "1679094780",
+      "bracketId": "213",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252429",
+      "away": {
+        "score": "70",
+        "names": {
+          "char6": "GCANYN",
+          "short": "Grand Canyon",
+          "seo": "grand-canyon",
+          "full": "Grand Canyon University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WAC",
+            "conferenceSeo": "wac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Gonzaga Grand Canyon",
+      "contestName": "",
+      "url": "/game/6131106",
+      "network": "truTV",
+      "home": {
+        "score": "82",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(28-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:35PM ET",
+      "startTimeEpoch": "1679096100",
+      "bracketId": "230",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252422",
+      "away": {
+        "score": "56",
+        "names": {
+          "char6": "DRAKE",
+          "short": "Drake",
+          "seo": "drake",
+          "full": "Drake University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MVC",
+            "conferenceSeo": "mvc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Miami (FL) Drake",
+      "contestName": "",
+      "url": "/game/6131095",
+      "network": "TBS",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "MIAMI",
+          "short": "Miami (FL)",
+          "seo": "miami-fl",
+          "full": "University of Miami (Florida)"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(25-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:55PM ET",
+      "startTimeEpoch": "1679097300",
+      "bracketId": "219",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252415",
+      "away": {
+        "score": "66",
+        "names": {
+          "char6": "FAU",
+          "short": "Fla. Atlantic",
+          "seo": "fla-atlantic",
+          "full": "Florida Atlantic University"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(31-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "C-USA",
+            "conferenceSeo": "c-usa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Memphis Fla. Atlantic",
+      "contestName": "",
+      "url": "/game/6131086",
+      "network": "TNT",
+      "home": {
+        "score": "65",
+        "names": {
+          "char6": "MEM",
+          "short": "Memphis",
+          "seo": "memphis",
+          "full": "University of Memphis"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:42PM ET",
+      "startTimeEpoch": "1679103720",
+      "bracketId": "210",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252419",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "MONTST ",
+          "short": "Montana St.",
+          "seo": "montana-st",
+          "full": "Montana State University-Bozeman"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Sky",
+            "conferenceSeo": "big-sky"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Kansas St. Montana St.",
+      "contestName": "",
+      "url": "/game/6131090",
+      "network": "CBS",
+      "home": {
+        "score": "77",
+        "names": {
+          "char6": "KAN ST",
+          "short": "Kansas St.",
+          "seo": "kansas-st",
+          "full": "Kansas State University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(23-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:56PM ET",
+      "startTimeEpoch": "1679104560",
+      "bracketId": "214",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252428",
+      "away": {
+        "score": "70",
+        "names": {
+          "char6": "AZ ST",
+          "short": "Arizona St.",
+          "seo": "arizona-st",
+          "full": "Arizona State University"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(23-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "TCU Arizona St.",
+      "contestName": "",
+      "url": "/game/6131105",
+      "network": "truTV",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "TCU",
+          "short": "TCU",
+          "seo": "tcu",
+          "full": "Texas Christian University"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(21-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:05PM ET",
+      "startTimeEpoch": "1679105100",
+      "bracketId": "229",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252423",
+      "away": {
+        "score": "60",
+        "names": {
+          "char6": "KENT",
+          "short": "Kent St.",
+          "seo": "kent-st",
+          "full": "Kent State University"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(28-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MAC",
+            "conferenceSeo": "mac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FIRST ROUND",
+      "title": "Indiana Kent St.",
+      "contestName": "",
+      "url": "/game/6131096",
+      "network": "TBS",
+      "home": {
+        "score": "71",
+        "names": {
+          "char6": "IND",
+          "short": "Indiana",
+          "seo": "indiana",
+          "full": "Indiana University, Bloomington"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:36PM ET",
+      "startTimeEpoch": "1679106960",
+      "bracketId": "220",
+      "gameState": "final",
+      "startDate": "03-17-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252432",
+      "away": {
+        "score": "52",
+        "names": {
+          "char6": "FURMAN",
+          "short": "Furman",
+          "seo": "furman",
+          "full": "Furman University"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(28-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SoCon",
+            "conferenceSeo": "socon"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "San Diego St. Furman",
+      "contestName": "",
+      "url": "/game/6131110",
+      "network": "CBS",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(28-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:10PM ET",
+      "startTimeEpoch": "1679155800",
+      "bracketId": "302",
+      "gameState": "final",
+      "startDate": "03-18-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252433",
+      "away": {
+        "score": "52",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(27-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Tennessee Duke",
+      "contestName": "",
+      "url": "/game/6131114",
+      "network": "CBS",
+      "home": {
+        "score": "65",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(24-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:40PM ET",
+      "startTimeEpoch": "1679164800",
+      "bracketId": "306",
+      "gameState": "final",
+      "startDate": "03-18-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252431",
+      "away": {
+        "score": "72",
+        "names": {
+          "char6": "ARK",
+          "short": "Arkansas",
+          "seo": "arkansas",
+          "full": "University of Arkansas, Fayetteville"
+        },
+        "winner": true,
+        "seed": "8",
+        "description": "(21-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Kansas Arkansas",
+      "contestName": "",
+      "url": "/game/6131121",
+      "network": "CBS",
+      "home": {
+        "score": "71",
+        "names": {
+          "char6": "KANSAS",
+          "short": "Kansas",
+          "seo": "kansas",
+          "full": "University of Kansas"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(28-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:25PM ET",
+      "startTimeEpoch": "1679174700",
+      "bracketId": "313",
+      "gameState": "final",
+      "startDate": "03-18-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252436",
+      "away": {
+        "score": "78",
+        "names": {
+          "char6": "PRINCE",
+          "short": "Princeton",
+          "seo": "princeton",
+          "full": "Princeton University"
+        },
+        "winner": true,
+        "seed": "15",
+        "description": "(22-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Ivy League",
+            "conferenceSeo": "ivy-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Missouri Princeton",
+      "contestName": "",
+      "url": "/game/6131112",
+      "network": "TNT",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "MIZZOU",
+          "short": "Missouri",
+          "seo": "missouri",
+          "full": "University of Missouri, Columbia"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1679177400",
+      "bracketId": "304",
+      "gameState": "final",
+      "startDate": "03-18-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252435",
+      "away": {
+        "score": "64",
+        "names": {
+          "char6": "AUBURN",
+          "short": "Auburn",
+          "seo": "auburn",
+          "full": "Auburn University"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(21-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Houston Auburn",
+      "contestName": "",
+      "url": "/game/6131117",
+      "network": "TBS",
+      "home": {
+        "score": "81",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(32-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1679181000",
+      "bracketId": "309",
+      "gameState": "final",
+      "startDate": "03-18-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252430",
+      "away": {
+        "score": "66",
+        "names": {
+          "char6": "PENNST",
+          "short": "Penn St.",
+          "seo": "penn-st",
+          "full": "Pennsylvania State University"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(23-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Texas Penn St.",
+      "contestName": "",
+      "url": "/game/6131120",
+      "network": "CBS",
+      "home": {
+        "score": "71",
+        "names": {
+          "char6": "TEXAS",
+          "short": "Texas",
+          "seo": "texas",
+          "full": "University of Texas at Austin"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(27-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:17PM ET",
+      "startTimeEpoch": "1679185020",
+      "bracketId": "312",
+      "gameState": "final",
+      "startDate": "03-18-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252437",
+      "away": {
+        "score": "63",
+        "names": {
+          "char6": "NWSTRN",
+          "short": "Northwestern",
+          "seo": "northwestern",
+          "full": "Northwestern University"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "UCLA Northwestern",
+      "contestName": "",
+      "url": "/game/6131124",
+      "network": "TNT",
+      "home": {
+        "score": "68",
+        "names": {
+          "char6": "UCLA",
+          "short": "UCLA",
+          "seo": "ucla",
+          "full": "University of California, Los Angeles"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(30-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:50PM ET",
+      "startTimeEpoch": "1679187000",
+      "bracketId": "316",
+      "gameState": "final",
+      "startDate": "03-18-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252434",
+      "away": {
+        "score": "51",
+        "names": {
+          "char6": "MD",
+          "short": "Maryland",
+          "seo": "maryland",
+          "full": "University of Maryland, College Park"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(21-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Alabama Maryland",
+      "contestName": "",
+      "url": "/game/6131109",
+      "network": "TBS",
+      "home": {
+        "score": "73",
+        "names": {
+          "char6": "ALA",
+          "short": "Alabama",
+          "seo": "alabama",
+          "full": "University of Alabama"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(30-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:02PM ET",
+      "startTimeEpoch": "1679191320",
+      "bracketId": "301",
+      "gameState": "final",
+      "startDate": "03-18-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252445",
+      "away": {
+        "score": "73",
+        "names": {
+          "char6": "PITT",
+          "short": "Pittsburgh",
+          "seo": "pittsburgh",
+          "full": "University of Pittsburgh"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Xavier Pittsburgh",
+      "contestName": "",
+      "url": "/game/6131119",
+      "network": "CBS",
+      "home": {
+        "score": "84",
+        "names": {
+          "char6": "XAVIER",
+          "short": "Xavier",
+          "seo": "xavier",
+          "full": "Xavier University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(26-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:10PM ET",
+      "startTimeEpoch": "1679242200",
+      "bracketId": "311",
+      "gameState": "final",
+      "startDate": "03-19-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252444",
+      "away": {
+        "score": "69",
+        "names": {
+          "char6": "UK",
+          "short": "Kentucky",
+          "seo": "kentucky",
+          "full": "University of Kentucky"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Kansas St. Kentucky",
+      "contestName": "",
+      "url": "/game/6131115",
+      "network": "CBS",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "KAN ST",
+          "short": "Kansas St.",
+          "seo": "kansas-st",
+          "full": "Kansas State University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(24-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:55PM ET",
+      "startTimeEpoch": "1679252100",
+      "bracketId": "307",
+      "gameState": "final",
+      "startDate": "03-19-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252441",
+      "away": {
+        "score": "69",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": true,
+        "seed": "7",
+        "description": "(20-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Marquette Michigan St.",
+      "contestName": "",
+      "url": "/game/6131116",
+      "network": "CBS",
+      "home": {
+        "score": "60",
+        "names": {
+          "char6": "MARQ",
+          "short": "Marquette",
+          "seo": "marquette",
+          "full": "Marquette University"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(29-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:20PM ET",
+      "startTimeEpoch": "1679260800",
+      "bracketId": "308",
+      "gameState": "final",
+      "startDate": "03-19-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252443",
+      "away": {
+        "score": "55",
+        "names": {
+          "char6": "STMARY",
+          "short": "Saint Mary's (CA)",
+          "seo": "st-marys-ca",
+          "full": "Saint Mary's College of California"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "UConn Saint Mary's (CA)",
+      "contestName": "",
+      "url": "/game/6131122",
+      "network": "TNT",
+      "home": {
+        "score": "70",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1679263800",
+      "bracketId": "314",
+      "gameState": "final",
+      "startDate": "03-19-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252438",
+      "away": {
+        "score": "85",
+        "names": {
+          "char6": "CREIGH",
+          "short": "Creighton",
+          "seo": "creighton",
+          "full": "Creighton University"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(22-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Baylor Creighton",
+      "contestName": "",
+      "url": "/game/6131111",
+      "network": "TBS",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "BAYLOR",
+          "short": "Baylor",
+          "seo": "baylor",
+          "full": "Baylor University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1679267400",
+      "bracketId": "303",
+      "gameState": "final",
+      "startDate": "03-19-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252440",
+      "away": {
+        "score": "70",
+        "names": {
+          "char6": "FDU",
+          "short": "FDU",
+          "seo": "fairleigh-dickinson",
+          "full": "Fairleigh Dickinson University, Metropolitan Campus"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(21-15)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "NEC",
+            "conferenceSeo": "nec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Fla. Atlantic FDU",
+      "contestName": "",
+      "url": "/game/6131113",
+      "network": "truTV",
+      "home": {
+        "score": "78",
+        "names": {
+          "char6": "FAU",
+          "short": "Fla. Atlantic",
+          "seo": "fla-atlantic",
+          "full": "Florida Atlantic University"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(32-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "C-USA",
+            "conferenceSeo": "c-usa"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:06PM ET",
+      "startTimeEpoch": "1679270760",
+      "bracketId": "305",
+      "gameState": "final",
+      "startDate": "03-19-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252442",
+      "away": {
+        "score": "85",
+        "names": {
+          "char6": "MIAMI",
+          "short": "Miami (FL)",
+          "seo": "miami-fl",
+          "full": "University of Miami (Florida)"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(26-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Indiana Miami (FL)",
+      "contestName": "",
+      "url": "/game/6131118",
+      "network": "TNT",
+      "home": {
+        "score": "69",
+        "names": {
+          "char6": "IND",
+          "short": "Indiana",
+          "seo": "indiana",
+          "full": "Indiana University, Bloomington"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:47PM ET",
+      "startTimeEpoch": "1679273220",
+      "bracketId": "310",
+      "gameState": "final",
+      "startDate": "03-19-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252439",
+      "away": {
+        "score": "81",
+        "names": {
+          "char6": "TCU",
+          "short": "TCU",
+          "seo": "tcu",
+          "full": "Texas Christian University"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(22-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SECOND ROUND",
+      "title": "Gonzaga TCU",
+      "contestName": "",
+      "url": "/game/6131123",
+      "network": "TBS",
+      "home": {
+        "score": "84",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(29-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:52PM ET",
+      "startTimeEpoch": "1679277120",
+      "bracketId": "315",
+      "gameState": "final",
+      "startDate": "03-19-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252449",
+      "away": {
+        "score": "93",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(21-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "SWEET 16&#174;",
+      "title": "Kansas St. Michigan St.",
+      "contestName": "",
+      "url": "/game/6131128",
+      "network": "TBS",
+      "home": {
+        "score": "98",
+        "names": {
+          "char6": "KAN ST",
+          "short": "Kansas St.",
+          "seo": "kansas-st",
+          "full": "Kansas State University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:30PM ET",
+      "startTimeEpoch": "1679610600",
+      "bracketId": "404",
+      "gameState": "final",
+      "startDate": "03-23-2023",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252446",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "ARK",
+          "short": "Arkansas",
+          "seo": "arkansas",
+          "full": "University of Arkansas, Fayetteville"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(22-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SWEET 16&#174;",
+      "title": "UConn Arkansas",
+      "contestName": "",
+      "url": "/game/6131131",
+      "network": "CBS",
+      "home": {
+        "score": "88",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(27-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:15PM ET",
+      "startTimeEpoch": "1679613300",
+      "bracketId": "407",
+      "gameState": "final",
+      "startDate": "03-23-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252448",
+      "away": {
+        "score": "62",
+        "names": {
+          "char6": "FAU",
+          "short": "Fla. Atlantic",
+          "seo": "fla-atlantic",
+          "full": "Florida Atlantic University"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(33-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "C-USA",
+            "conferenceSeo": "c-usa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SWEET 16&#174;",
+      "title": "Tennessee Fla. Atlantic",
+      "contestName": "",
+      "url": "/game/6131127",
+      "network": "TBS",
+      "home": {
+        "score": "55",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(26-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:36PM ET",
+      "startTimeEpoch": "1679621760",
+      "bracketId": "403",
+      "gameState": "final",
+      "startDate": "03-23-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252447",
+      "away": {
+        "score": "79",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(30-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SWEET 16&#174;",
+      "title": "UCLA Gonzaga",
+      "contestName": "",
+      "url": "/game/6131132",
+      "network": "CBS",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "UCLA",
+          "short": "UCLA",
+          "seo": "ucla",
+          "full": "University of California, Los Angeles"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(31-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:04PM ET",
+      "startTimeEpoch": "1679623440",
+      "bracketId": "408",
+      "gameState": "final",
+      "startDate": "03-23-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252452",
+      "away": {
+        "score": "71",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(29-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SWEET 16&#174;",
+      "title": "Alabama San Diego St.",
+      "contestName": "",
+      "url": "/game/6131125",
+      "network": "TBS",
+      "home": {
+        "score": "64",
+        "names": {
+          "char6": "ALA",
+          "short": "Alabama",
+          "seo": "alabama",
+          "full": "University of Alabama"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(31-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:30PM ET",
+      "startTimeEpoch": "1679697000",
+      "bracketId": "401",
+      "gameState": "final",
+      "startDate": "03-24-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252450",
+      "away": {
+        "score": "89",
+        "names": {
+          "char6": "MIAMI",
+          "short": "Miami (FL)",
+          "seo": "miami-fl",
+          "full": "University of Miami (Florida)"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SWEET 16&#174;",
+      "title": "Houston Miami (FL)",
+      "contestName": "",
+      "url": "/game/6131129",
+      "network": "CBS",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(33-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:15PM ET",
+      "startTimeEpoch": "1679699700",
+      "bracketId": "405",
+      "gameState": "final",
+      "startDate": "03-24-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252453",
+      "away": {
+        "score": "75",
+        "names": {
+          "char6": "PRINCE",
+          "short": "Princeton",
+          "seo": "princeton",
+          "full": "Princeton University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(23-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Ivy League",
+            "conferenceSeo": "ivy-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SWEET 16&#174;",
+      "title": "Creighton Princeton",
+      "contestName": "",
+      "url": "/game/6131126",
+      "network": "TBS",
+      "home": {
+        "score": "86",
+        "names": {
+          "char6": "CREIGH",
+          "short": "Creighton",
+          "seo": "creighton",
+          "full": "Creighton University"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(23-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:27PM ET",
+      "startTimeEpoch": "1679707620",
+      "bracketId": "402",
+      "gameState": "final",
+      "startDate": "03-24-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252451",
+      "away": {
+        "score": "71",
+        "names": {
+          "char6": "XAVIER",
+          "short": "Xavier",
+          "seo": "xavier",
+          "full": "Xavier University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(27-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "SWEET 16&#174;",
+      "title": "Texas Xavier",
+      "contestName": "",
+      "url": "/game/6131130",
+      "network": "CBS",
+      "home": {
+        "score": "83",
+        "names": {
+          "char6": "TEXAS",
+          "short": "Texas",
+          "seo": "texas",
+          "full": "University of Texas at Austin"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(28-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:59PM ET",
+      "startTimeEpoch": "1679709540",
+      "bracketId": "406",
+      "gameState": "final",
+      "startDate": "03-24-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252454",
+      "away": {
+        "score": "79",
+        "names": {
+          "char6": "FAU",
+          "short": "Fla. Atlantic",
+          "seo": "fla-atlantic",
+          "full": "Florida Atlantic University"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(33-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "C-USA",
+            "conferenceSeo": "c-usa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "ELITE EIGHT&#174;",
+      "title": "Kansas St. Fla. Atlantic",
+      "contestName": "",
+      "url": "/game/6131134",
+      "network": "TBS",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "KAN ST",
+          "short": "Kansas St.",
+          "seo": "kansas-st",
+          "full": "Kansas State University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1679782140",
+      "bracketId": "502",
+      "gameState": "final",
+      "startDate": "03-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252455",
+      "away": {
+        "score": "82",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(28-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "ELITE EIGHT&#174;",
+      "title": "Gonzaga UConn",
+      "contestName": "",
+      "url": "/game/6131136",
+      "network": "TBS",
+      "home": {
+        "score": "54",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(30-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:59PM ET",
+      "startTimeEpoch": "1679792340",
+      "bracketId": "504",
+      "gameState": "final",
+      "startDate": "03-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252456",
+      "away": {
+        "score": "56",
+        "names": {
+          "char6": "CREIGH",
+          "short": "Creighton",
+          "seo": "creighton",
+          "full": "Creighton University"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(24-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "ELITE EIGHT&#174;",
+      "title": "San Diego St. Creighton",
+      "contestName": "",
+      "url": "/game/6131133",
+      "network": "CBS",
+      "home": {
+        "score": "57",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(30-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:20PM ET",
+      "startTimeEpoch": "1679854800",
+      "bracketId": "501",
+      "gameState": "final",
+      "startDate": "03-26-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252457",
+      "away": {
+        "score": "88",
+        "names": {
+          "char6": "MIAMI",
+          "short": "Miami (FL)",
+          "seo": "miami-fl",
+          "full": "University of Miami (Florida)"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(28-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "ELITE EIGHT&#174;",
+      "title": "Texas Miami (FL)",
+      "contestName": "",
+      "url": "/game/6131135",
+      "network": "CBS",
+      "home": {
+        "score": "81",
+        "names": {
+          "char6": "TEXAS",
+          "short": "Texas",
+          "seo": "texas",
+          "full": "University of Texas at Austin"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(29-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:10PM ET",
+      "startTimeEpoch": "1679865000",
+      "bracketId": "503",
+      "gameState": "final",
+      "startDate": "03-26-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252458",
+      "away": {
+        "score": "71",
+        "names": {
+          "char6": "FAU",
+          "short": "Fla. Atlantic",
+          "seo": "fla-atlantic",
+          "full": "Florida Atlantic University"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(33-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "C-USA",
+            "conferenceSeo": "c-usa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FINAL FOUR&#174;",
+      "title": "San Diego St. Fla. Atlantic",
+      "contestName": "",
+      "url": "/game/6131137",
+      "network": "CBS",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(31-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1680386940",
+      "bracketId": "601",
+      "gameState": "final",
+      "startDate": "04-01-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252459",
+      "away": {
+        "score": "59",
+        "names": {
+          "char6": "MIAMI",
+          "short": "Miami (FL)",
+          "seo": "miami-fl",
+          "full": "University of Miami (Florida)"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(29-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FINAL FOUR&#174;",
+      "title": "UConn Miami (FL)",
+      "contestName": "",
+      "url": "/game/6131138",
+      "network": "CBS",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(29-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:16PM ET",
+      "startTimeEpoch": "1680398160",
+      "bracketId": "602",
+      "gameState": "final",
+      "startDate": "04-01-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2252460",
+      "away": {
+        "score": "59",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(32-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "CHAMPIONSHIP",
+      "title": "UConn San Diego St.",
+      "contestName": "",
+      "url": "/game/6131139",
+      "network": "CBS",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(32-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:20PM ET",
+      "startTimeEpoch": "1680571200",
+      "bracketId": "701",
+      "gameState": "final",
+      "startDate": "04-03-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  }
+]

@@ -1,0 +1,3656 @@
+[
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big South",
+            "conferenceSeo": "big-south"
+          }
+        ],
+        "description": "(20-13)",
+        "names": {
+          "char6": "UNC A",
+          "full": "University of North Carolina Asheville",
+          "seo": "unc-asheville",
+          "short": "UNC Asheville"
+        },
+        "rank": "",
+        "score": "51",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "225",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(27-5)",
+        "names": {
+          "char6": "PITT",
+          "full": "University of Pittsburgh",
+          "seo": "pittsburgh",
+          "short": "Pittsburgh"
+        },
+        "rank": "",
+        "score": "74",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Pittsburgh UNC Asheville",
+      "url": "/game/4040463",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ],
+        "description": "(24-9)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "",
+        "score": "86",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "229",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(21-11)",
+        "names": {
+          "char6": "STJOHN",
+          "full": "St. John's University (New York)",
+          "seo": "st-johns-ny",
+          "short": "St. John's (NY)"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "6",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "St. John's (NY) Gonzaga",
+      "url": "/game/4040487",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(19-14)",
+        "names": {
+          "char6": "MICHST",
+          "full": "Michigan State University",
+          "seo": "michigan-st",
+          "short": "Michigan St."
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "231",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ],
+        "description": "(22-10)",
+        "names": {
+          "char6": "UCLA",
+          "full": "University of California, Los Angeles",
+          "seo": "ucla",
+          "short": "UCLA"
+        },
+        "rank": "",
+        "score": "78",
+        "seed": "7",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "UCLA Michigan St.",
+      "url": "/game/4040491",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Ivy League",
+            "conferenceSeo": "ivy-league"
+          }
+        ],
+        "description": "(25-6)",
+        "names": {
+          "char6": "PRINCE",
+          "full": "Princeton University",
+          "seo": "princeton",
+          "short": "Princeton"
+        },
+        "rank": "",
+        "score": "57",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "204",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(25-8)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "",
+        "score": "59",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Kentucky Princeton",
+      "url": "/game/4040469",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big West",
+            "conferenceSeo": "big-west"
+          }
+        ],
+        "description": "(18-13)",
+        "names": {
+          "char6": "UCSB",
+          "full": "University of California, Santa Barbara",
+          "seo": "uc-santa-barbara",
+          "short": "UC Santa Barbara"
+        },
+        "rank": "",
+        "score": "51",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "232",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(26-7)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "",
+        "score": "79",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Florida UC Santa Barbara",
+      "url": "/game/4040507",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Patriot",
+            "conferenceSeo": "patriot"
+          }
+        ],
+        "description": "(25-8)",
+        "names": {
+          "char6": "BUCKNL",
+          "full": "Bucknell University",
+          "seo": "bucknell",
+          "short": "Bucknell"
+        },
+        "rank": "",
+        "score": "52",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "214",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(26-9)",
+        "names": {
+          "char6": "UCONN",
+          "full": "University of Connecticut",
+          "seo": "uconn",
+          "short": "UConn"
+        },
+        "rank": "",
+        "score": "81",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "UConn Bucknell",
+      "url": "/game/4040447",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "OVC",
+            "conferenceSeo": "ovc"
+          }
+        ],
+        "description": "(30-4)",
+        "names": {
+          "char6": "BELMNT",
+          "full": "Belmont University",
+          "seo": "belmont",
+          "short": "Belmont"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "228",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(23-8)",
+        "names": {
+          "char6": "WISC",
+          "full": "University of Wisconsin-Madison",
+          "seo": "wisconsin",
+          "short": "Wisconsin"
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Wisconsin Belmont",
+      "url": "/game/4040482",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big Sky",
+            "conferenceSeo": "big-sky"
+          }
+        ],
+        "description": "(21-10)",
+        "names": {
+          "char6": "N COLO",
+          "full": "University of Northern Colorado",
+          "seo": "northern-colo",
+          "short": "Northern Colo."
+        },
+        "rank": "",
+        "score": "50",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "216",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ],
+        "description": "(32-2)",
+        "names": {
+          "char6": "SDSU",
+          "full": "San Diego State University",
+          "seo": "san-diego-st",
+          "short": "San Diego St."
+        },
+        "rank": "",
+        "score": "68",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "San Diego St. Northern Colo.",
+      "url": "/game/4040480",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(23-10)",
+        "names": {
+          "char6": "MIZZOU",
+          "full": "University of Missouri, Columbia",
+          "seo": "missouri",
+          "short": "Missouri"
+        },
+        "rank": "",
+        "score": "63",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "213",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(25-8)",
+        "names": {
+          "char6": "CINCY",
+          "full": "University of Cincinnati",
+          "seo": "cincinnati",
+          "short": "Cincinnati"
+        },
+        "rank": "",
+        "score": "78",
+        "seed": "6",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Cincinnati Missouri",
+      "url": "/game/4040441",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(22-11)",
+        "names": {
+          "char6": "CLEM",
+          "full": "Clemson University",
+          "seo": "clemson",
+          "short": "Clemson"
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "203",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(20-11)",
+        "names": {
+          "char6": "WVU",
+          "full": "West Virginia University",
+          "seo": "west-virginia",
+          "short": "West Virginia"
+        },
+        "rank": "",
+        "score": "84",
+        "seed": "5",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "West Virginia Clemson",
+      "url": "/game/4040462",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "C-USA",
+            "conferenceSeo": "c-usa"
+          }
+        ],
+        "description": "(27-6)",
+        "names": {
+          "char6": "ODU",
+          "full": "Old Dominion University",
+          "seo": "old-dominion",
+          "short": "Old Dominion"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "226",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(23-9)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "",
+        "score": "60",
+        "seed": "8",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Butler Old Dominion",
+      "url": "/game/4040484",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(19-14)",
+        "names": {
+          "char6": "PENNST",
+          "full": "Pennsylvania State University",
+          "seo": "penn-st",
+          "short": "Penn St."
+        },
+        "rank": "",
+        "score": "64",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "215",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(25-7)",
+        "names": {
+          "char6": "TEMPLE",
+          "full": "Temple University",
+          "seo": "temple",
+          "short": "Temple"
+        },
+        "rank": "",
+        "score": "66",
+        "seed": "7",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Temple Penn St.",
+      "url": "/game/4040452",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ],
+        "description": "(30-3)",
+        "names": {
+          "char6": "UT ST",
+          "full": "Utah State University",
+          "seo": "utah-st",
+          "short": "Utah St."
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "227",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(22-10)",
+        "names": {
+          "char6": "KAN ST",
+          "full": "Kansas State University",
+          "seo": "kansas-st",
+          "short": "Kansas St."
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "5",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Kansas St. Utah St.",
+      "url": "/game/4040464",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(27-7)",
+        "names": {
+          "char6": "RICH",
+          "full": "University of Richmond",
+          "seo": "richmond",
+          "short": "Richmond"
+        },
+        "rank": "",
+        "score": "69",
+        "seed": "12",
+        "winner": true
+      },
+      "bracketId": "219",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(23-10)",
+        "names": {
+          "char6": "VANDY",
+          "full": "Vanderbilt University",
+          "seo": "vanderbilt",
+          "short": "Vanderbilt"
+        },
+        "rank": "",
+        "score": "66",
+        "seed": "5",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Vanderbilt Richmond",
+      "url": "/game/4040486",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "SoCon",
+            "conferenceSeo": "socon"
+          }
+        ],
+        "description": "(21-12)",
+        "names": {
+          "char6": "WOFFRD",
+          "full": "Wofford College",
+          "seo": "wofford",
+          "short": "Wofford"
+        },
+        "rank": "",
+        "score": "66",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "230",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ],
+        "description": "(30-4)",
+        "names": {
+          "char6": "BYU",
+          "full": "Brigham Young University",
+          "seo": "byu",
+          "short": "BYU"
+        },
+        "rank": "",
+        "score": "74",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "BYU Wofford",
+      "url": "/game/4040471",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "OVC",
+            "conferenceSeo": "ovc"
+          }
+        ],
+        "description": "(24-9)",
+        "names": {
+          "char6": "MOREST",
+          "full": "Morehead State University",
+          "seo": "morehead-st",
+          "short": "Morehead St."
+        },
+        "rank": "",
+        "score": "62",
+        "seed": "13",
+        "winner": true
+      },
+      "bracketId": "220",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(25-9)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "",
+        "score": "61",
+        "seed": "4",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-17-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300352400",
+      "title": "Louisville Morehead St.",
+      "url": "/game/4040500",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "MAC",
+            "conferenceSeo": "mac"
+          }
+        ],
+        "description": "(23-12)",
+        "names": {
+          "char6": "AKRON",
+          "full": "University of Akron",
+          "seo": "akron",
+          "short": "Akron"
+        },
+        "rank": "",
+        "score": "56",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "224",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(26-6)",
+        "names": {
+          "char6": "N DAME",
+          "full": "University of Notre Dame",
+          "seo": "notre-dame",
+          "short": "Notre Dame"
+        },
+        "rank": "",
+        "score": "69",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Notre Dame Akron",
+      "url": "/game/4040481",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(21-10)",
+        "names": {
+          "char6": "FSU",
+          "full": "Florida State University",
+          "seo": "florida-st",
+          "short": "Florida St."
+        },
+        "rank": "",
+        "score": "57",
+        "seed": "10",
+        "winner": true
+      },
+      "bracketId": "223",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(24-8)",
+        "names": {
+          "char6": "TX A&M",
+          "full": "Texas A&M University, College Station",
+          "seo": "texas-am",
+          "short": "Texas A&M"
+        },
+        "rank": "",
+        "score": "50",
+        "seed": "7",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Texas A&M Florida St.",
+      "url": "/game/4040450",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "NEC",
+            "conferenceSeo": "nec"
+          }
+        ],
+        "description": "(27-5)",
+        "names": {
+          "char6": "LIU BK",
+          "full": "Long Island University",
+          "seo": "long-island",
+          "short": "LIU"
+        },
+        "rank": "",
+        "score": "87",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "208",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(26-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "",
+        "score": "102",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "North Carolina LIU",
+      "url": "/game/4040456",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Horizon",
+            "conferenceSeo": "horizon"
+          }
+        ],
+        "description": "(25-9)",
+        "names": {
+          "char6": "OAK",
+          "full": "Oakland University",
+          "seo": "oakland",
+          "short": "Oakland"
+        },
+        "rank": "",
+        "score": "81",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "212",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(27-7)",
+        "names": {
+          "char6": "TEXAS",
+          "full": "University of Texas at Austin",
+          "seo": "texas",
+          "short": "Texas"
+        },
+        "rank": "",
+        "score": "85",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Texas Oakland",
+      "url": "/game/4040497",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(20-14)",
+        "names": {
+          "char6": "MARQ",
+          "full": "Marquette University",
+          "seo": "marquette",
+          "short": "Marquette"
+        },
+        "rank": "",
+        "score": "66",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "205",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(24-7)",
+        "names": {
+          "char6": "XAVIER",
+          "full": "Xavier University",
+          "seo": "xavier",
+          "short": "Xavier"
+        },
+        "rank": "",
+        "score": "55",
+        "seed": "6",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Xavier Marquette",
+      "url": "/game/4040459",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(21-11)",
+        "names": {
+          "char6": "UGA",
+          "full": "University of Georgia",
+          "seo": "georgia",
+          "short": "Georgia"
+        },
+        "rank": "",
+        "score": "",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "207",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "",
+      "finalMessage": "",
+      "gameID": "",
+      "gameState": "pre",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ],
+        "description": "(23-10)",
+        "names": {
+          "char6": "WASH",
+          "full": "University of Washington",
+          "seo": "washington",
+          "short": "Washington"
+        },
+        "rank": "",
+        "score": "",
+        "seed": "7",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Washington Georgia",
+      "url": "/game/4040479",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "C-USA",
+            "conferenceSeo": "c-usa"
+          }
+        ],
+        "description": "(20-13)",
+        "names": {
+          "char6": "UTSA",
+          "full": "University of Texas at San Antonio",
+          "seo": "utsa",
+          "short": "UTSA"
+        },
+        "rank": "",
+        "score": "46",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "201",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(32-2)",
+        "names": {
+          "char6": "OHIOST",
+          "full": "The Ohio State University",
+          "seo": "ohio-st",
+          "short": "Ohio St."
+        },
+        "rank": "",
+        "score": "75",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Ohio St. UTSA",
+      "url": "/game/4040494",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(25-9)",
+        "names": {
+          "char6": "MEM",
+          "full": "University of Memphis",
+          "seo": "memphis",
+          "short": "Memphis"
+        },
+        "rank": "",
+        "score": "75",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "211",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ],
+        "description": "(27-7)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "",
+        "score": "77",
+        "seed": "5",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Arizona Memphis",
+      "url": "/game/4040449",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(19-14)",
+        "names": {
+          "char6": "TENN",
+          "full": "University of Tennessee, Knoxville",
+          "seo": "tennessee",
+          "short": "Tennessee"
+        },
+        "rank": "",
+        "score": "45",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "210",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(20-13)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "",
+        "score": "75",
+        "seed": "8",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Michigan Tennessee",
+      "url": "/game/4040475",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(24-11)",
+        "names": {
+          "char6": "VCU",
+          "full": "Virginia Commonwealth University",
+          "seo": "vcu",
+          "short": "VCU"
+        },
+        "rank": "",
+        "score": "74",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "221",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(21-10)",
+        "names": {
+          "char6": "GTOWN",
+          "full": "Georgetown University",
+          "seo": "georgetown",
+          "short": "Georgetown"
+        },
+        "rank": "",
+        "score": "56",
+        "seed": "6",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Georgetown VCU",
+      "url": "/game/4040495",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Patriot",
+            "conferenceSeo": "patriot"
+          }
+        ],
+        "description": "(21-13)",
+        "names": {
+          "char6": "BU",
+          "full": "Boston University",
+          "seo": "boston-u",
+          "short": "Boston U."
+        },
+        "rank": "",
+        "score": "53",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "217",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(32-2)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Kansas Boston U.",
+      "url": "/game/4040476",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "MVC",
+            "conferenceSeo": "mvc"
+          }
+        ],
+        "description": "(20-13)",
+        "names": {
+          "char6": "IND ST",
+          "full": "Indiana State University",
+          "seo": "indiana-st",
+          "short": "Indiana St."
+        },
+        "rank": "",
+        "score": "60",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "206",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(26-7)",
+        "names": {
+          "char6": "SYR",
+          "full": "Syracuse University",
+          "seo": "syracuse",
+          "short": "Syracuse"
+        },
+        "rank": "",
+        "score": "77",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Syracuse Indiana St.",
+      "url": "/game/4040485",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(21-11)",
+        "names": {
+          "char6": "NOVA",
+          "full": "Villanova University",
+          "seo": "villanova",
+          "short": "Villanova"
+        },
+        "rank": "",
+        "score": "",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "202",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "",
+      "finalMessage": "",
+      "gameID": "",
+      "gameState": "pre",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(26-6)",
+        "names": {
+          "char6": "GMU",
+          "full": "George Mason University",
+          "seo": "george-mason",
+          "short": "George Mason"
+        },
+        "rank": "",
+        "score": "",
+        "seed": "8",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "George Mason Villanova",
+      "url": "/game/4040446",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big South",
+            "conferenceSeo": "big-south"
+          }
+        ],
+        "description": "(24-8)",
+        "names": {
+          "char6": "HAMPTN",
+          "full": "Hampton University",
+          "seo": "hampton",
+          "short": "Hampton"
+        },
+        "rank": "",
+        "score": "45",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "209",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(30-4)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "",
+        "score": "87",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Duke Hampton",
+      "url": "/game/4040460",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(19-13)",
+        "names": {
+          "char6": "ILL",
+          "full": "University of Illinois Urbana-Champaign",
+          "seo": "illinois",
+          "short": "Illinois"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "9",
+        "winner": true
+      },
+      "bracketId": "218",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ],
+        "description": "(24-8)",
+        "names": {
+          "char6": "UNLV",
+          "full": "University of Nevada, Las Vegas",
+          "seo": "unlv",
+          "short": "UNLV"
+        },
+        "rank": "",
+        "score": "62",
+        "seed": "8",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "UNLV Illinois",
+      "url": "/game/4040473",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "MAAC",
+            "conferenceSeo": "maac"
+          }
+        ],
+        "description": "(20-13)",
+        "names": {
+          "char6": "ST PTR",
+          "full": "Saint Peter's University",
+          "seo": "st-peters",
+          "short": "Saint Peter's"
+        },
+        "rank": "",
+        "score": "43",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "222",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Second Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(25-7)",
+        "names": {
+          "char6": "PURDUE",
+          "full": "Purdue University",
+          "seo": "purdue",
+          "short": "Purdue"
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-18-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300438800",
+      "title": "Purdue Saint Peter's",
+      "url": "/game/4040504",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(23-10)",
+        "names": {
+          "char6": "KAN ST",
+          "full": "Kansas State University",
+          "seo": "kansas-st",
+          "short": "Kansas St."
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "5",
+        "winner": false
+      },
+      "bracketId": "314",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(24-8)",
+        "names": {
+          "char6": "WISC",
+          "full": "University of Wisconsin-Madison",
+          "seo": "wisconsin",
+          "short": "Wisconsin"
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-19-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300525200",
+      "title": "Wisconsin Kansas St.",
+      "url": "/game/4040488",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ],
+        "description": "(25-9)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "",
+        "score": "67",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "315",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ],
+        "description": "(31-4)",
+        "names": {
+          "char6": "BYU",
+          "full": "Brigham Young University",
+          "seo": "byu",
+          "short": "BYU"
+        },
+        "rank": "",
+        "score": "89",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-19-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300525200",
+      "title": "BYU Gonzaga",
+      "url": "/game/4040458",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "OVC",
+            "conferenceSeo": "ovc"
+          }
+        ],
+        "description": "(25-9)",
+        "names": {
+          "char6": "MOREST",
+          "full": "Morehead State University",
+          "seo": "morehead-st",
+          "short": "Morehead St."
+        },
+        "rank": "",
+        "score": "48",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "310",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(28-7)",
+        "names": {
+          "char6": "RICH",
+          "full": "University of Richmond",
+          "seo": "richmond",
+          "short": "Richmond"
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "12",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-19-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300525200",
+      "title": "Richmond Morehead St.",
+      "url": "/game/4040506",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(26-7)",
+        "names": {
+          "char6": "TEMPLE",
+          "full": "Temple University",
+          "seo": "temple",
+          "short": "Temple"
+        },
+        "rank": "",
+        "score": "64",
+        "seed": "7",
+        "winner": false
+      },
+      "bracketId": "308",
+      "bracketRegion": "West",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ],
+        "description": "(33-2)",
+        "names": {
+          "char6": "SDSU",
+          "full": "San Diego State University",
+          "seo": "san-diego-st",
+          "short": "San Diego St."
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-19-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300525200",
+      "title": "San Diego St. Temple",
+      "url": "/game/4040455",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(26-8)",
+        "names": {
+          "char6": "CINCY",
+          "full": "University of Cincinnati",
+          "seo": "cincinnati",
+          "short": "Cincinnati"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "6",
+        "winner": false
+      },
+      "bracketId": "307",
+      "bracketRegion": "West",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(27-9)",
+        "names": {
+          "char6": "UCONN",
+          "full": "University of Connecticut",
+          "seo": "uconn",
+          "short": "UConn"
+        },
+        "rank": "",
+        "score": "69",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-19-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300525200",
+      "title": "UConn Cincinnati",
+      "url": "/game/4040467",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(24-9)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "8",
+        "winner": true
+      },
+      "bracketId": "313",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(28-5)",
+        "names": {
+          "char6": "PITT",
+          "full": "University of Pittsburgh",
+          "seo": "pittsburgh",
+          "short": "Pittsburgh"
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-19-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300525200",
+      "title": "Pittsburgh Butler",
+      "url": "/game/4040499",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ],
+        "description": "(23-10)",
+        "names": {
+          "char6": "UCLA",
+          "full": "University of California, Los Angeles",
+          "seo": "ucla",
+          "short": "UCLA"
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "7",
+        "winner": false
+      },
+      "bracketId": "316",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(27-7)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-19-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300525200",
+      "title": "Florida UCLA",
+      "url": "/game/4040472",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(21-11)",
+        "names": {
+          "char6": "WVU",
+          "full": "West Virginia University",
+          "seo": "west-virginia",
+          "short": "West Virginia"
+        },
+        "rank": "",
+        "score": "63",
+        "seed": "5",
+        "winner": false
+      },
+      "bracketId": "302",
+      "bracketRegion": "East",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(26-8)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-19-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300525200",
+      "title": "Kentucky West Virginia",
+      "url": "/game/4040478",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(27-6)",
+        "names": {
+          "char6": "GMU",
+          "full": "George Mason University",
+          "seo": "george-mason",
+          "short": "George Mason"
+        },
+        "rank": "",
+        "score": "66",
+        "seed": "8",
+        "winner": false
+      },
+      "bracketId": "301",
+      "bracketRegion": "East",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(33-2)",
+        "names": {
+          "char6": "OHIOST",
+          "full": "The Ohio State University",
+          "seo": "ohio-st",
+          "short": "Ohio St."
+        },
+        "rank": "",
+        "score": "98",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-20-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300611600",
+      "title": "Ohio St. George Mason",
+      "url": "/game/4040442",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ],
+        "description": "(24-10)",
+        "names": {
+          "char6": "WASH",
+          "full": "University of Washington",
+          "seo": "washington",
+          "short": "Washington"
+        },
+        "rank": "",
+        "score": "83",
+        "seed": "7",
+        "winner": false
+      },
+      "bracketId": "304",
+      "bracketRegion": "East",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(27-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "",
+        "score": "86",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-20-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300611600",
+      "title": "North Carolina Washington",
+      "url": "/game/4040498",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(25-11)",
+        "names": {
+          "char6": "VCU",
+          "full": "Virginia Commonwealth University",
+          "seo": "vcu",
+          "short": "VCU"
+        },
+        "rank": "",
+        "score": "94",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "311",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(26-7)",
+        "names": {
+          "char6": "PURDUE",
+          "full": "Purdue University",
+          "seo": "purdue",
+          "short": "Purdue"
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "3",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-20-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300611600",
+      "title": "Purdue VCU",
+      "url": "/game/4040502",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ],
+        "description": "(28-7)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "5",
+        "winner": true
+      },
+      "bracketId": "306",
+      "bracketRegion": "West",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(28-7)",
+        "names": {
+          "char6": "TEXAS",
+          "full": "University of Texas at Austin",
+          "seo": "texas",
+          "short": "Texas"
+        },
+        "rank": "",
+        "score": "69",
+        "seed": "4",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-20-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300611600",
+      "title": "Texas Arizona",
+      "url": "/game/4040493",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(22-10)",
+        "names": {
+          "char6": "FSU",
+          "full": "Florida State University",
+          "seo": "florida-st",
+          "short": "Florida St."
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "10",
+        "winner": true
+      },
+      "bracketId": "312",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(27-6)",
+        "names": {
+          "char6": "N DAME",
+          "full": "University of Notre Dame",
+          "seo": "notre-dame",
+          "short": "Notre Dame"
+        },
+        "rank": "",
+        "score": "57",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-20-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300611600",
+      "title": "Notre Dame Florida St.",
+      "url": "/game/4040461",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(20-13)",
+        "names": {
+          "char6": "ILL",
+          "full": "University of Illinois Urbana-Champaign",
+          "seo": "illinois",
+          "short": "Illinois"
+        },
+        "rank": "",
+        "score": "59",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "309",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(33-2)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-20-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300611600",
+      "title": "Kansas Illinois",
+      "url": "/game/4040496",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(21-14)",
+        "names": {
+          "char6": "MARQ",
+          "full": "Marquette University",
+          "seo": "marquette",
+          "short": "Marquette"
+        },
+        "rank": "",
+        "score": "",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "303",
+      "bracketRegion": "East",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "",
+      "finalMessage": "",
+      "gameID": "",
+      "gameState": "pre",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(27-7)",
+        "names": {
+          "char6": "SYR",
+          "full": "Syracuse University",
+          "seo": "syracuse",
+          "short": "Syracuse"
+        },
+        "rank": "",
+        "score": "",
+        "seed": "6",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-20-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300611600",
+      "title": "Syracuse Marquette",
+      "url": "/game/4040448",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "8",
+        "winner": false
+      },
+      "bracketId": "305",
+      "bracketRegion": "West",
+      "bracketRound": "Third Round",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(0-0)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-20-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300611600",
+      "title": "Duke Michigan",
+      "url": "/game/4040453",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(25-9)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "",
+        "score": "61",
+        "seed": "8",
+        "winner": true
+      },
+      "bracketId": "407",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(25-8)",
+        "names": {
+          "char6": "WISC",
+          "full": "University of Wisconsin-Madison",
+          "seo": "wisconsin",
+          "short": "Wisconsin"
+        },
+        "rank": "",
+        "score": "54",
+        "seed": "4",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-24-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300957200",
+      "title": "Wisconsin Butler",
+      "url": "/game/4040489",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(28-9)",
+        "names": {
+          "char6": "UCONN",
+          "full": "University of Connecticut",
+          "seo": "uconn",
+          "short": "UConn"
+        },
+        "rank": "",
+        "score": "74",
+        "seed": "3",
+        "winner": true
+      },
+      "bracketId": "404",
+      "bracketRegion": "West",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ],
+        "description": "(34-2)",
+        "names": {
+          "char6": "SDSU",
+          "full": "San Diego State University",
+          "seo": "san-diego-st",
+          "short": "San Diego St."
+        },
+        "rank": "",
+        "score": "67",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-24-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300957200",
+      "title": "San Diego St. UConn",
+      "url": "/game/4040468",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ],
+        "description": "(32-4)",
+        "names": {
+          "char6": "BYU",
+          "full": "Brigham Young University",
+          "seo": "byu",
+          "short": "BYU"
+        },
+        "rank": "",
+        "score": "74",
+        "seed": "3",
+        "winner": false
+      },
+      "bracketId": "408",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(28-7)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "",
+        "score": "83",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-24-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300957200",
+      "title": "Florida BYU",
+      "url": "/game/4040490",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ],
+        "description": "(29-7)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "",
+        "score": "93",
+        "seed": "5",
+        "winner": true
+      },
+      "bracketId": "403",
+      "bracketRegion": "West",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(32-4)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "",
+        "score": "77",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-24-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1300957200",
+      "title": "Duke Arizona",
+      "url": "/game/4040483",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(22-14)",
+        "names": {
+          "char6": "MARQ",
+          "full": "Marquette University",
+          "seo": "marquette",
+          "short": "Marquette"
+        },
+        "rank": "",
+        "score": "63",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "402",
+      "bracketRegion": "East",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(28-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "",
+        "score": "81",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-25-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301043600",
+      "title": "North Carolina Marquette",
+      "url": "/game/4040477",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(27-8)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "",
+        "score": "62",
+        "seed": "4",
+        "winner": true
+      },
+      "bracketId": "401",
+      "bracketRegion": "East",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ],
+        "description": "(34-2)",
+        "names": {
+          "char6": "OHIOST",
+          "full": "The Ohio State University",
+          "seo": "ohio-st",
+          "short": "Ohio St."
+        },
+        "rank": "",
+        "score": "60",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-25-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301043600",
+      "title": "Ohio St. Kentucky",
+      "url": "/game/4040501",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(29-7)",
+        "names": {
+          "char6": "RICH",
+          "full": "University of Richmond",
+          "seo": "richmond",
+          "short": "Richmond"
+        },
+        "rank": "",
+        "score": "57",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "405",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(34-2)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "",
+        "score": "77",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-25-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301043600",
+      "title": "Kansas Richmond",
+      "url": "/game/4040454",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(26-11)",
+        "names": {
+          "char6": "VCU",
+          "full": "Virginia Commonwealth University",
+          "seo": "vcu",
+          "short": "VCU"
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "406",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Sweet 16&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(23-10)",
+        "names": {
+          "char6": "FSU",
+          "full": "Florida State University",
+          "seo": "florida-st",
+          "short": "Florida St."
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "10",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-25-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301043600",
+      "title": "Florida St. VCU",
+      "url": "/game/4040466",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ],
+        "description": "(30-7)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "",
+        "score": "63",
+        "seed": "5",
+        "winner": false
+      },
+      "bracketId": "502",
+      "bracketRegion": "West",
+      "bracketRound": "Elite Eight&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(29-9)",
+        "names": {
+          "char6": "UCONN",
+          "full": "University of Connecticut",
+          "seo": "uconn",
+          "short": "UConn"
+        },
+        "rank": "",
+        "score": "65",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-26-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301130000",
+      "title": "UConn Arizona",
+      "url": "/game/4040503",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(26-9)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "",
+        "score": "74",
+        "seed": "8",
+        "winner": true
+      },
+      "bracketId": "504",
+      "bracketRegion": "Southeast",
+      "bracketRound": "Elite Eight&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(29-7)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-26-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301130000",
+      "title": "Florida Butler",
+      "url": "/game/4040492",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(27-11)",
+        "names": {
+          "char6": "VCU",
+          "full": "Virginia Commonwealth University",
+          "seo": "vcu",
+          "short": "VCU"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "503",
+      "bracketRegion": "Southwest",
+      "bracketRound": "Elite Eight&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ],
+        "description": "(35-2)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "",
+        "score": "61",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-27-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301216400",
+      "title": "Kansas VCU",
+      "url": "/game/4040505",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(28-8)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "4",
+        "winner": true
+      },
+      "bracketId": "501",
+      "bracketRegion": "East",
+      "bracketRound": "Elite Eight&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ],
+        "description": "(29-7)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "",
+        "score": "69",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "03-27-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301216400",
+      "title": "North Carolina Kentucky",
+      "url": "/game/4040445",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ],
+        "description": "(28-11)",
+        "names": {
+          "char6": "VCU",
+          "full": "Virginia Commonwealth University",
+          "seo": "vcu",
+          "short": "VCU"
+        },
+        "rank": "",
+        "score": "62",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "602",
+      "bracketRegion": "",
+      "bracketRound": "FINAL FOUR&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(27-9)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "8",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "04-02-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301734800",
+      "title": "Butler VCU",
+      "url": "/game/4040451",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ],
+        "description": "(29-8)",
+        "names": {
+          "char6": "UK",
+          "full": "University of Kentucky",
+          "seo": "kentucky",
+          "short": "Kentucky"
+        },
+        "rank": "",
+        "score": "55",
+        "seed": "4",
+        "winner": false
+      },
+      "bracketId": "601",
+      "bracketRegion": "",
+      "bracketRound": "FINAL FOUR&#174;",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(30-9)",
+        "names": {
+          "char6": "UCONN",
+          "full": "University of Connecticut",
+          "seo": "uconn",
+          "short": "UConn"
+        },
+        "rank": "",
+        "score": "56",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "04-02-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301734800",
+      "title": "UConn Kentucky",
+      "url": "/game/4040444",
+      "videoState": ""
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ],
+        "description": "(28-9)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "",
+        "score": "41",
+        "seed": "8",
+        "winner": false
+      },
+      "bracketId": "701",
+      "bracketRegion": "",
+      "bracketRound": "Championship",
+      "contestClock": "",
+      "currentPeriod": "FINAL",
+      "finalMessage": "FINAL",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ],
+        "description": "(31-9)",
+        "names": {
+          "char6": "UCONN",
+          "full": "University of Connecticut",
+          "seo": "uconn",
+          "short": "UConn"
+        },
+        "rank": "",
+        "score": "53",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": false,
+      "network": "",
+      "startDate": "04-04-2011",
+      "startTime": "TBA",
+      "startTimeEpoch": "1301907600",
+      "title": "UConn Butler",
+      "url": "/game/4040443",
+      "videoState": ""
+    }
+  }
+]

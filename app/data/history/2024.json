@@ -1,0 +1,3719 @@
+[
+  {
+    "game": {
+      "gameID": "2427537",
+      "away": {
+        "score": "69",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(19-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Mississippi St. Michigan St.",
+      "contestName": "",
+      "url": "/game/6232149",
+      "network": "CBS",
+      "home": {
+        "score": "51",
+        "names": {
+          "char6": "MISSST",
+          "short": "Mississippi St.",
+          "seo": "mississippi-st",
+          "full": "Mississippi State University"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(21-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1711037700",
+      "bracketId": "210",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427532",
+      "away": {
+        "score": "71",
+        "names": {
+          "char6": "DUQSNE",
+          "short": "Duquesne",
+          "seo": "duquesne",
+          "full": "Duquesne University"
+        },
+        "winner": true,
+        "seed": "11",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "BYU Duquesne",
+      "contestName": "",
+      "url": "/game/6232144",
+      "network": "truTV",
+      "home": {
+        "score": "67",
+        "names": {
+          "char6": "BYU",
+          "short": "BYU",
+          "seo": "byu",
+          "full": "Brigham Young University"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1711039200",
+      "bracketId": "205",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427547",
+      "away": {
+        "score": "60",
+        "names": {
+          "char6": "AKRON",
+          "short": "Akron",
+          "seo": "akron",
+          "full": "University of Akron"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(24-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MAC",
+            "conferenceSeo": "mac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Creighton Akron",
+      "contestName": "",
+      "url": "/game/6232169",
+      "network": "TNT",
+      "home": {
+        "score": "77",
+        "names": {
+          "char6": "CREIGH",
+          "short": "Creighton",
+          "seo": "creighton",
+          "full": "Creighton University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(23-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "01:30PM ET",
+      "startTimeEpoch": "1711042200",
+      "bracketId": "230",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427541",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "LBSU",
+          "short": "Long Beach St.",
+          "seo": "long-beach-st",
+          "full": "Long Beach State University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(21-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big West",
+            "conferenceSeo": "big-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Arizona Long Beach St.",
+      "contestName": "",
+      "url": "/game/6232155",
+      "network": "TBS",
+      "home": {
+        "score": "85",
+        "names": {
+          "char6": "ARIZ",
+          "short": "Arizona",
+          "seo": "arizona",
+          "full": "University of Arizona"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(25-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:00PM ET",
+      "startTimeEpoch": "1711044000",
+      "bracketId": "216",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427536",
+      "away": {
+        "score": "62",
+        "names": {
+          "char6": "WAGNER",
+          "short": "Wagner",
+          "seo": "wagner",
+          "full": "Wagner College"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(17-15)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "NEC",
+            "conferenceSeo": "nec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "North Carolina Wagner",
+      "contestName": "",
+      "url": "/game/6232148",
+      "network": "CBS",
+      "home": {
+        "score": "90",
+        "names": {
+          "char6": "UNC",
+          "short": "North Carolina",
+          "seo": "north-carolina",
+          "full": "University of North Carolina, Chapel Hill"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:47PM ET",
+      "startTimeEpoch": "1711046820",
+      "bracketId": "209",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427533",
+      "away": {
+        "score": "69",
+        "names": {
+          "char6": "MOREST",
+          "short": "Morehead St.",
+          "seo": "morehead-st",
+          "full": "Morehead State University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "OVC",
+            "conferenceSeo": "ovc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Illinois Morehead St.",
+      "contestName": "",
+      "url": "/game/6232145",
+      "network": "truTV",
+      "home": {
+        "score": "85",
+        "names": {
+          "char6": "ILL",
+          "short": "Illinois",
+          "seo": "illinois",
+          "full": "University of Illinois Urbana-Champaign"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:34PM ET",
+      "startTimeEpoch": "1711049640",
+      "bracketId": "206",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427546",
+      "away": {
+        "score": "87",
+        "names": {
+          "char6": "OREGN",
+          "short": "Oregon",
+          "seo": "oregon",
+          "full": "University of Oregon"
+        },
+        "winner": true,
+        "seed": "11",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "South Carolina Oregon",
+      "contestName": "",
+      "url": "/game/6232168",
+      "network": "TNT",
+      "home": {
+        "score": "73",
+        "names": {
+          "char6": "S CAR",
+          "short": "South Carolina",
+          "seo": "south-carolina",
+          "full": "University of South Carolina, Columbia"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(26-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:09PM ET",
+      "startTimeEpoch": "1711051740",
+      "bracketId": "229",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427540",
+      "away": {
+        "score": "60",
+        "names": {
+          "char6": "NEVADA",
+          "short": "Nevada",
+          "seo": "nevada",
+          "full": "University of Nevada, Reno"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(26-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Dayton Nevada",
+      "contestName": "",
+      "url": "/game/6232154",
+      "network": "TBS",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "DAYTON",
+          "short": "Dayton",
+          "seo": "dayton",
+          "full": "University of Dayton"
+        },
+        "winner": true,
+        "seed": "7",
+        "description": "(24-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:47PM ET",
+      "startTimeEpoch": "1711054020",
+      "bracketId": "215",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427538",
+      "away": {
+        "score": "44",
+        "names": {
+          "char6": "CO ST",
+          "short": "Colorado St.",
+          "seo": "colorado-st",
+          "full": "Colorado State University"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(24-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Texas Colorado St.",
+      "contestName": "",
+      "url": "/game/6232170",
+      "network": "TNT",
+      "home": {
+        "score": "56",
+        "names": {
+          "char6": "TEXAS",
+          "short": "Texas",
+          "seo": "texas",
+          "full": "University of Texas at Austin"
+        },
+        "winner": true,
+        "seed": "7",
+        "description": "(20-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:50PM ET",
+      "startTimeEpoch": "1711061400",
+      "bracketId": "231",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427545",
+      "away": {
+        "score": "80",
+        "names": {
+          "char6": "OAK",
+          "short": "Oakland",
+          "seo": "oakland",
+          "full": "Oakland University"
+        },
+        "winner": true,
+        "seed": "14",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Horizon",
+            "conferenceSeo": "horizon"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Kentucky Oakland",
+      "contestName": "",
+      "url": "/game/6232161",
+      "network": "CBS",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "UK",
+          "short": "Kentucky",
+          "seo": "kentucky",
+          "full": "University of Kentucky"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(23-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:24PM ET",
+      "startTimeEpoch": "1711063440",
+      "bracketId": "222",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427535",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "SDAKST",
+          "short": "South Dakota St.",
+          "seo": "south-dakota-st",
+          "full": "South Dakota State University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(22-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Summit League",
+            "conferenceSeo": "summit-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Iowa St. South Dakota St.",
+      "contestName": "",
+      "url": "/game/6232147",
+      "network": "truTV",
+      "home": {
+        "score": "82",
+        "names": {
+          "char6": "IOWAST",
+          "short": "Iowa St.",
+          "seo": "iowa-st",
+          "full": "Iowa State University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:40PM ET",
+      "startTimeEpoch": "1711064400",
+      "bracketId": "208",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427542",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "MCNEES",
+          "short": "McNeese",
+          "seo": "mcneese",
+          "full": "McNeese State University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(30-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Southland",
+            "conferenceSeo": "southland"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Gonzaga McNeese",
+      "contestName": "",
+      "url": "/game/6232166",
+      "network": "TBS",
+      "home": {
+        "score": "86",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(25-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:47PM ET",
+      "startTimeEpoch": "1711064820",
+      "bracketId": "227",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427539",
+      "away": {
+        "score": "49",
+        "names": {
+          "char6": "ST PTR",
+          "short": "Saint Peter's",
+          "seo": "st-peters",
+          "full": "Saint Peter's University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(19-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MAAC",
+            "conferenceSeo": "maac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Tennessee Saint Peter's",
+      "contestName": "",
+      "url": "/game/6232171",
+      "network": "TNT",
+      "home": {
+        "score": "83",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(24-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:28PM ET",
+      "startTimeEpoch": "1711070880",
+      "bracketId": "232",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427544",
+      "away": {
+        "score": "80",
+        "names": {
+          "char6": "NC ST",
+          "short": "NC State",
+          "seo": "north-carolina-st",
+          "full": "North Carolina State University"
+        },
+        "winner": true,
+        "seed": "11",
+        "description": "(22-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Texas Tech NC State",
+      "contestName": "",
+      "url": "/game/6232160",
+      "network": "CBS",
+      "home": {
+        "score": "67",
+        "names": {
+          "char6": "TXTECH",
+          "short": "Texas Tech",
+          "seo": "texas-tech",
+          "full": "Texas Tech University"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:12PM ET",
+      "startTimeEpoch": "1711073520",
+      "bracketId": "221",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427534",
+      "away": {
+        "score": "61",
+        "names": {
+          "char6": "DRAKE",
+          "short": "Drake",
+          "seo": "drake",
+          "full": "Drake University"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(28-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MVC",
+            "conferenceSeo": "mvc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Washington St. Drake",
+      "contestName": "",
+      "url": "/game/6232146",
+      "network": "truTV",
+      "home": {
+        "score": "66",
+        "names": {
+          "char6": "WASHST",
+          "short": "Washington St.",
+          "seo": "washington-st",
+          "full": "Washington State University"
+        },
+        "winner": true,
+        "seed": "7",
+        "description": "(24-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:15PM ET",
+      "startTimeEpoch": "1711073700",
+      "bracketId": "207",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427543",
+      "away": {
+        "score": "89",
+        "names": {
+          "char6": "SAMFRD",
+          "short": "Samford",
+          "seo": "samford",
+          "full": "Samford University"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(29-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SoCon",
+            "conferenceSeo": "socon"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Kansas Samford",
+      "contestName": "",
+      "url": "/game/6232167",
+      "network": "TBS",
+      "home": {
+        "score": "93",
+        "names": {
+          "char6": "KANSAS",
+          "short": "Kansas",
+          "seo": "kansas",
+          "full": "University of Kansas"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(22-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:20PM ET",
+      "startTimeEpoch": "1711074000",
+      "bracketId": "228",
+      "gameState": "final",
+      "startDate": "03-21-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427553",
+      "away": {
+        "score": "77",
+        "names": {
+          "char6": "NW",
+          "short": "Northwestern",
+          "seo": "northwestern",
+          "full": "Northwestern University"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(21-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "First Round",
+      "title": "Fla. Atlantic Northwestern",
+      "contestName": "",
+      "url": "/game/6232141",
+      "network": "CBS",
+      "home": {
+        "score": "65",
+        "names": {
+          "char6": "FAU",
+          "short": "Fla. Atlantic",
+          "seo": "fla-atlantic",
+          "full": "Florida Atlantic University"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(25-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1711124100",
+      "bracketId": "202",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427557",
+      "away": {
+        "score": "67",
+        "names": {
+          "char6": "COLGAT",
+          "short": "Colgate",
+          "seo": "colgate",
+          "full": "Colgate University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Patriot",
+            "conferenceSeo": "patriot"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Baylor Colgate",
+      "contestName": "",
+      "url": "/game/6232153",
+      "network": "truTV",
+      "home": {
+        "score": "92",
+        "names": {
+          "char6": "BAYLOR",
+          "short": "Baylor",
+          "seo": "baylor",
+          "full": "Baylor University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1711125600",
+      "bracketId": "214",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427560",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "UAB",
+          "short": "UAB",
+          "seo": "uab",
+          "full": "University of Alabama at Birmingham"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "San Diego St. UAB",
+      "contestName": "",
+      "url": "/game/6232142",
+      "network": "TNT",
+      "home": {
+        "score": "69",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(24-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "01:45PM ET",
+      "startTimeEpoch": "1711129500",
+      "bracketId": "203",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427549",
+      "away": {
+        "score": "69",
+        "names": {
+          "char6": "W KY",
+          "short": "Western Ky.",
+          "seo": "western-ky",
+          "full": "Western Kentucky University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "CUSA",
+            "conferenceSeo": "cusa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Marquette Western Ky.",
+      "contestName": "",
+      "url": "/game/6232163",
+      "network": "TBS",
+      "home": {
+        "score": "87",
+        "names": {
+          "char6": "MARQ",
+          "short": "Marquette",
+          "seo": "marquette",
+          "full": "Marquette University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:00PM ET",
+      "startTimeEpoch": "1711130400",
+      "bracketId": "224",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427556",
+      "away": {
+        "score": "56",
+        "names": {
+          "char6": "N MEX",
+          "short": "New Mexico",
+          "seo": "new-mexico",
+          "full": "University of New Mexico"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(26-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Clemson New Mexico",
+      "contestName": "",
+      "url": "/game/6232152",
+      "network": "truTV",
+      "home": {
+        "score": "77",
+        "names": {
+          "char6": "CLEM",
+          "short": "Clemson",
+          "seo": "clemson",
+          "full": "Clemson University"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(21-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:10PM ET",
+      "startTimeEpoch": "1711134600",
+      "bracketId": "213",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427552",
+      "away": {
+        "score": "52",
+        "names": {
+          "char6": "STETSN",
+          "short": "Stetson",
+          "seo": "stetson",
+          "full": "Stetson University"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(22-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ASUN",
+            "conferenceSeo": "asun"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "UConn Stetson",
+      "contestName": "",
+      "url": "/game/6232140",
+      "network": "CBS",
+      "home": {
+        "score": "91",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(31-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:15PM ET",
+      "startTimeEpoch": "1711134900",
+      "bracketId": "201",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427561",
+      "away": {
+        "score": "78",
+        "names": {
+          "char6": "YALE",
+          "short": "Yale",
+          "seo": "yale",
+          "full": "Yale University"
+        },
+        "winner": true,
+        "seed": "13",
+        "description": "(22-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Ivy League",
+            "conferenceSeo": "ivy-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Auburn Yale",
+      "contestName": "",
+      "url": "/game/6232143",
+      "network": "TNT",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "AUBURN",
+          "short": "Auburn",
+          "seo": "auburn",
+          "full": "Auburn University"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:33PM ET",
+      "startTimeEpoch": "1711139580",
+      "bracketId": "204",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427548",
+      "away": {
+        "score": "102",
+        "names": {
+          "char6": "COLO",
+          "short": "Colorado",
+          "seo": "colorado",
+          "full": "University of Colorado, Boulder"
+        },
+        "winner": true,
+        "seed": "10",
+        "description": "(25-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Florida Colorado",
+      "contestName": "",
+      "url": "/game/6232162",
+      "network": "TBS",
+      "home": {
+        "score": "100",
+        "names": {
+          "char6": "FLA",
+          "short": "Florida",
+          "seo": "florida",
+          "full": "University of Florida"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:38PM ET",
+      "startTimeEpoch": "1711139880",
+      "bracketId": "223",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427559",
+      "away": {
+        "score": "98",
+        "names": {
+          "char6": "TX A&M",
+          "short": "Texas A&M",
+          "seo": "texas-am",
+          "full": "Texas A&M University, College Station"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(20-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Nebraska Texas A&M",
+      "contestName": "",
+      "url": "/game/6232157",
+      "network": "TNT",
+      "home": {
+        "score": "83",
+        "names": {
+          "char6": "NEB",
+          "short": "Nebraska",
+          "seo": "nebraska",
+          "full": "University of Nebraska-Lincoln"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:00PM ET",
+      "startTimeEpoch": "1711148400",
+      "bracketId": "218",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427555",
+      "away": {
+        "score": "47",
+        "names": {
+          "char6": "VERMNT",
+          "short": "Vermont",
+          "seo": "vermont",
+          "full": "University of Vermont"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(28-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "America East",
+            "conferenceSeo": "america-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Duke Vermont",
+      "contestName": "",
+      "url": "/game/6232159",
+      "network": "CBS",
+      "home": {
+        "score": "64",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(24-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1711149000",
+      "bracketId": "220",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427550",
+      "away": {
+        "score": "50",
+        "names": {
+          "char6": "GRAMB",
+          "short": "Grambling",
+          "seo": "grambling",
+          "full": "Grambling State University"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(21-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SWAC",
+            "conferenceSeo": "swac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Purdue Grambling",
+      "contestName": "",
+      "url": "/game/6232164",
+      "network": "TBS",
+      "home": {
+        "score": "78",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(29-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:59PM ET",
+      "startTimeEpoch": "1711151940",
+      "bracketId": "225",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427563",
+      "away": {
+        "score": "96",
+        "names": {
+          "char6": "C OF C",
+          "short": "Col. of Charleston",
+          "seo": "col-of-charleston",
+          "full": "College of Charleston (South Carolina)"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "CAA",
+            "conferenceSeo": "caa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Alabama Col. of Charleston",
+      "contestName": "",
+      "url": "/game/6232151",
+      "network": "truTV",
+      "home": {
+        "score": "109",
+        "names": {
+          "char6": "ALA",
+          "short": "Alabama",
+          "seo": "alabama",
+          "full": "University of Alabama"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(21-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:03PM ET",
+      "startTimeEpoch": "1711152180",
+      "bracketId": "212",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427558",
+      "away": {
+        "score": "46",
+        "names": {
+          "char6": "LONGWD",
+          "short": "Longwood",
+          "seo": "longwood",
+          "full": "Longwood University"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(21-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big South",
+            "conferenceSeo": "big-south"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Houston Longwood",
+      "contestName": "",
+      "url": "/game/6232156",
+      "network": "TNT",
+      "home": {
+        "score": "86",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(30-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:49PM ET",
+      "startTimeEpoch": "1711158540",
+      "bracketId": "217",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427554",
+      "away": {
+        "score": "72",
+        "names": {
+          "char6": "JMU",
+          "short": "James Madison",
+          "seo": "james-madison",
+          "full": "James Madison University"
+        },
+        "winner": true,
+        "seed": "12",
+        "description": "(31-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Sun Belt",
+            "conferenceSeo": "sun-belt"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Wisconsin James Madison",
+      "contestName": "",
+      "url": "/game/6232158",
+      "network": "CBS",
+      "home": {
+        "score": "61",
+        "names": {
+          "char6": "WISC",
+          "short": "Wisconsin",
+          "seo": "wisconsin",
+          "full": "University of Wisconsin-Madison"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(22-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:50PM ET",
+      "startTimeEpoch": "1711158600",
+      "bracketId": "219",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427551",
+      "away": {
+        "score": "72",
+        "names": {
+          "char6": "TCU",
+          "short": "TCU",
+          "seo": "tcu",
+          "full": "Texas Christian University"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(21-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Utah St. TCU",
+      "contestName": "",
+      "url": "/game/6232165",
+      "network": "TBS",
+      "home": {
+        "score": "88",
+        "names": {
+          "char6": "UT ST",
+          "short": "Utah St.",
+          "seo": "utah-st",
+          "full": "Utah State University"
+        },
+        "winner": true,
+        "seed": "8",
+        "description": "(27-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:30PM ET",
+      "startTimeEpoch": "1711161000",
+      "bracketId": "226",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "4e8abf66-2976-4416-841f-22a3487297a7",
+      "away": {
+        "score": "75",
+        "names": {
+          "char6": "GCANYN",
+          "short": "Grand Canyon",
+          "seo": "grand-canyon",
+          "full": "Grand Canyon University"
+        },
+        "winner": true,
+        "seed": "12",
+        "description": "(29-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WAC",
+            "conferenceSeo": "wac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Saint Mary's (CA) Grand Canyon",
+      "contestName": "",
+      "url": "/game/6232150",
+      "network": "truTV",
+      "home": {
+        "score": "66",
+        "names": {
+          "char6": "STMARY",
+          "short": "Saint Mary's (CA)",
+          "seo": "st-marys-ca",
+          "full": "Saint Mary's College of California"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(26-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:57PM ET",
+      "startTimeEpoch": "1711162620",
+      "bracketId": "211",
+      "gameState": "final",
+      "startDate": "03-22-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427570",
+      "away": {
+        "score": "68",
+        "names": {
+          "char6": "DAYTON",
+          "short": "Dayton",
+          "seo": "dayton",
+          "full": "University of Dayton"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(25-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Arizona Dayton",
+      "contestName": "",
+      "url": "/game/6232179",
+      "network": "CBS",
+      "home": {
+        "score": "78",
+        "names": {
+          "char6": "ARIZ",
+          "short": "Arizona",
+          "seo": "arizona",
+          "full": "University of Arizona"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:45PM ET",
+      "startTimeEpoch": "1711212300",
+      "bracketId": "308",
+      "gameState": "final",
+      "startDate": "03-23-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427571",
+      "away": {
+        "score": "89",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(26-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Kansas Gonzaga",
+      "contestName": "",
+      "url": "/game/6232185",
+      "network": "CBS",
+      "home": {
+        "score": "68",
+        "names": {
+          "char6": "KANSAS",
+          "short": "Kansas",
+          "seo": "kansas",
+          "full": "University of Kansas"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:33PM ET",
+      "startTimeEpoch": "1711222380",
+      "bracketId": "314",
+      "gameState": "final",
+      "startDate": "03-23-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427566",
+      "away": {
+        "score": "69",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(20-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "North Carolina Michigan St.",
+      "contestName": "",
+      "url": "/game/6232176",
+      "network": "CBS",
+      "home": {
+        "score": "85",
+        "names": {
+          "char6": "UNC",
+          "short": "North Carolina",
+          "seo": "north-carolina",
+          "full": "University of North Carolina, Chapel Hill"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(28-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:45PM ET",
+      "startTimeEpoch": "1711230300",
+      "bracketId": "305",
+      "gameState": "final",
+      "startDate": "03-23-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427565",
+      "away": {
+        "score": "56",
+        "names": {
+          "char6": "WASHST",
+          "short": "Washington St.",
+          "seo": "washington-st",
+          "full": "Washington State University"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Iowa St. Washington St.",
+      "contestName": "",
+      "url": "/game/6232175",
+      "network": "TNT",
+      "home": {
+        "score": "67",
+        "names": {
+          "char6": "IOWAST",
+          "short": "Iowa St.",
+          "seo": "iowa-st",
+          "full": "Iowa State University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(28-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:15PM ET",
+      "startTimeEpoch": "1711232100",
+      "bracketId": "304",
+      "gameState": "final",
+      "startDate": "03-23-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427568",
+      "away": {
+        "score": "73",
+        "names": {
+          "char6": "OAK",
+          "short": "Oakland",
+          "seo": "oakland",
+          "full": "Oakland University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Horizon",
+            "conferenceSeo": "horizon"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "Second Round",
+      "title": "NC State Oakland",
+      "contestName": "",
+      "url": "/game/6232182",
+      "network": "TBS",
+      "home": {
+        "score": "79",
+        "names": {
+          "char6": "NC ST",
+          "short": "NC State",
+          "seo": "north-carolina-st",
+          "full": "North Carolina State University"
+        },
+        "winner": true,
+        "seed": "11",
+        "description": "(23-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1711235400",
+      "bracketId": "311",
+      "gameState": "final",
+      "startDate": "03-23-2024",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427567",
+      "away": {
+        "score": "58",
+        "names": {
+          "char6": "TEXAS",
+          "short": "Texas",
+          "seo": "texas",
+          "full": "University of Texas at Austin"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(21-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Tennessee Texas",
+      "contestName": "",
+      "url": "/game/6232187",
+      "network": "CBS",
+      "home": {
+        "score": "62",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(25-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:25PM ET",
+      "startTimeEpoch": "1711239900",
+      "bracketId": "316",
+      "gameState": "final",
+      "startDate": "03-23-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427564",
+      "away": {
+        "score": "63",
+        "names": {
+          "char6": "DUQSNE",
+          "short": "Duquesne",
+          "seo": "duquesne",
+          "full": "Duquesne University"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(25-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Illinois Duquesne",
+      "contestName": "",
+      "url": "/game/6232174",
+      "network": "TNT",
+      "home": {
+        "score": "89",
+        "names": {
+          "char6": "ILL",
+          "short": "Illinois",
+          "seo": "illinois",
+          "full": "University of Illinois Urbana-Champaign"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(27-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:49PM ET",
+      "startTimeEpoch": "1711241340",
+      "bracketId": "303",
+      "gameState": "final",
+      "startDate": "03-23-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "06c5b447-739d-472a-82f2-1805da284778",
+      "away": {
+        "score": "73",
+        "names": {
+          "char6": "OREGN",
+          "short": "Oregon",
+          "seo": "oregon",
+          "full": "University of Oregon"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (2OT)",
+      "bracketRound": "Second Round",
+      "title": "Creighton Oregon",
+      "contestName": "",
+      "url": "/game/6232186",
+      "network": "TBS",
+      "home": {
+        "score": "86",
+        "names": {
+          "char6": "CREIGH",
+          "short": "Creighton",
+          "seo": "creighton",
+          "full": "Creighton University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(24-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:03PM ET",
+      "startTimeEpoch": "1711245780",
+      "bracketId": "315",
+      "gameState": "final",
+      "startDate": "03-23-2024",
+      "currentPeriod": "FINAL (2OT)",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427572",
+      "away": {
+        "score": "77",
+        "names": {
+          "char6": "COLO",
+          "short": "Colorado",
+          "seo": "colorado",
+          "full": "University of Colorado, Boulder"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(26-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Marquette Colorado",
+      "contestName": "",
+      "url": "/game/6232183",
+      "network": "CBS",
+      "home": {
+        "score": "81",
+        "names": {
+          "char6": "MARQ",
+          "short": "Marquette",
+          "seo": "marquette",
+          "full": "Marquette University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(26-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:10PM ET",
+      "startTimeEpoch": "1711296600",
+      "bracketId": "312",
+      "gameState": "final",
+      "startDate": "03-24-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427573",
+      "away": {
+        "score": "67",
+        "names": {
+          "char6": "UT ST",
+          "short": "Utah St.",
+          "seo": "utah-st",
+          "full": "Utah State University"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(28-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Purdue Utah St.",
+      "contestName": "",
+      "url": "/game/6232184",
+      "network": "CBS",
+      "home": {
+        "score": "106",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(30-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:47PM ET",
+      "startTimeEpoch": "1711306020",
+      "bracketId": "313",
+      "gameState": "final",
+      "startDate": "03-24-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427575",
+      "away": {
+        "score": "55",
+        "names": {
+          "char6": "JMU",
+          "short": "James Madison",
+          "seo": "james-madison",
+          "full": "James Madison University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(32-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Sun Belt",
+            "conferenceSeo": "sun-belt"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Duke James Madison",
+      "contestName": "",
+      "url": "/game/6232181",
+      "network": "CBS",
+      "home": {
+        "score": "93",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(25-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:15PM ET",
+      "startTimeEpoch": "1711314900",
+      "bracketId": "310",
+      "gameState": "final",
+      "startDate": "03-24-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427578",
+      "away": {
+        "score": "72",
+        "names": {
+          "char6": "CLEM",
+          "short": "Clemson",
+          "seo": "clemson",
+          "full": "Clemson University"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Baylor Clemson",
+      "contestName": "",
+      "url": "/game/6232178",
+      "network": "TNT",
+      "home": {
+        "score": "64",
+        "names": {
+          "char6": "BAYLOR",
+          "short": "Baylor",
+          "seo": "baylor",
+          "full": "Baylor University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(24-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1711318200",
+      "bracketId": "307",
+      "gameState": "final",
+      "startDate": "03-24-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427577",
+      "away": {
+        "score": "61",
+        "names": {
+          "char6": "GCANYN",
+          "short": "Grand Canyon",
+          "seo": "grand-canyon",
+          "full": "Grand Canyon University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(30-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WAC",
+            "conferenceSeo": "wac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Alabama Grand Canyon",
+      "contestName": "",
+      "url": "/game/6232177",
+      "network": "TBS",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "ALA",
+          "short": "Alabama",
+          "seo": "alabama",
+          "full": "University of Alabama"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1711321800",
+      "bracketId": "306",
+      "gameState": "final",
+      "startDate": "03-24-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427574",
+      "away": {
+        "score": "58",
+        "names": {
+          "char6": "NW",
+          "short": "Northwestern",
+          "seo": "northwestern",
+          "full": "Northwestern University"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "UConn Northwestern",
+      "contestName": "",
+      "url": "/game/6232172",
+      "network": "truTV",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(32-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:55PM ET",
+      "startTimeEpoch": "1711324500",
+      "bracketId": "301",
+      "gameState": "final",
+      "startDate": "03-24-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427579",
+      "away": {
+        "score": "95",
+        "names": {
+          "char6": "TX A&M",
+          "short": "Texas A&M",
+          "seo": "texas-am",
+          "full": "Texas A&M University, College Station"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(21-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "Second Round",
+      "title": "Houston Texas A&M",
+      "contestName": "",
+      "url": "/game/6232180",
+      "network": "TNT",
+      "home": {
+        "score": "100",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(31-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:55PM ET",
+      "startTimeEpoch": "1711328100",
+      "bracketId": "309",
+      "gameState": "final",
+      "startDate": "03-24-2024",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427576",
+      "away": {
+        "score": "57",
+        "names": {
+          "char6": "YALE",
+          "short": "Yale",
+          "seo": "yale",
+          "full": "Yale University"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(23-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Ivy League",
+            "conferenceSeo": "ivy-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "San Diego St. Yale",
+      "contestName": "",
+      "url": "/game/6232173",
+      "network": "TBS",
+      "home": {
+        "score": "85",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(25-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:12PM ET",
+      "startTimeEpoch": "1711332720",
+      "bracketId": "302",
+      "gameState": "final",
+      "startDate": "03-24-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427581",
+      "away": {
+        "score": "77",
+        "names": {
+          "char6": "CLEM",
+          "short": "Clemson",
+          "seo": "clemson",
+          "full": "Clemson University"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Arizona Clemson",
+      "contestName": "",
+      "url": "/game/6232191",
+      "network": "CBS",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "ARIZ",
+          "short": "Arizona",
+          "seo": "arizona",
+          "full": "University of Arizona"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(27-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:09PM ET",
+      "startTimeEpoch": "1711667340",
+      "bracketId": "404",
+      "gameState": "final",
+      "startDate": "03-28-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427582",
+      "away": {
+        "score": "52",
+        "names": {
+          "char6": "SDSU",
+          "short": "San Diego St.",
+          "seo": "san-diego-st",
+          "full": "San Diego State University"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(26-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "UConn San Diego St.",
+      "contestName": "",
+      "url": "/game/6232188",
+      "network": "TBS",
+      "home": {
+        "score": "82",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(33-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:39PM ET",
+      "startTimeEpoch": "1711669140",
+      "bracketId": "401",
+      "gameState": "final",
+      "startDate": "03-28-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427580",
+      "away": {
+        "score": "89",
+        "names": {
+          "char6": "ALA",
+          "short": "Alabama",
+          "seo": "alabama",
+          "full": "University of Alabama"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "North Carolina Alabama",
+      "contestName": "",
+      "url": "/game/6232190",
+      "network": "CBS",
+      "home": {
+        "score": "87",
+        "names": {
+          "char6": "UNC",
+          "short": "North Carolina",
+          "seo": "north-carolina",
+          "full": "University of North Carolina, Chapel Hill"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(29-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:54PM ET",
+      "startTimeEpoch": "1711677240",
+      "bracketId": "403",
+      "gameState": "final",
+      "startDate": "03-28-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "0d2ddc68-9f3a-4f11-acb1-b51ec7ce8a61",
+      "away": {
+        "score": "72",
+        "names": {
+          "char6": "ILL",
+          "short": "Illinois",
+          "seo": "illinois",
+          "full": "University of Illinois Urbana-Champaign"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(28-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Iowa St. Illinois",
+      "contestName": "",
+      "url": "/game/6232189",
+      "network": "TBS",
+      "home": {
+        "score": "69",
+        "names": {
+          "char6": "IOWAST",
+          "short": "Iowa St.",
+          "seo": "iowa-st",
+          "full": "Iowa State University"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(29-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:14PM ET",
+      "startTimeEpoch": "1711678440",
+      "bracketId": "402",
+      "gameState": "final",
+      "startDate": "03-28-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427585",
+      "away": {
+        "score": "67",
+        "names": {
+          "char6": "NC ST",
+          "short": "NC State",
+          "seo": "north-carolina-st",
+          "full": "North Carolina State University"
+        },
+        "winner": true,
+        "seed": "11",
+        "description": "(23-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Marquette NC State",
+      "contestName": "",
+      "url": "/game/6232193",
+      "network": "CBS",
+      "home": {
+        "score": "58",
+        "names": {
+          "char6": "MARQ",
+          "short": "Marquette",
+          "seo": "marquette",
+          "full": "Marquette University"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(27-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:09PM ET",
+      "startTimeEpoch": "1711753740",
+      "bracketId": "406",
+      "gameState": "final",
+      "startDate": "03-29-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427586",
+      "away": {
+        "score": "68",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(27-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Purdue Gonzaga",
+      "contestName": "",
+      "url": "/game/6232194",
+      "network": "TBS",
+      "home": {
+        "score": "80",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(31-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:39PM ET",
+      "startTimeEpoch": "1711755540",
+      "bracketId": "407",
+      "gameState": "final",
+      "startDate": "03-29-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427584",
+      "away": {
+        "score": "54",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Houston Duke",
+      "contestName": "",
+      "url": "/game/6232192",
+      "network": "CBS",
+      "home": {
+        "score": "51",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(32-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:59PM ET",
+      "startTimeEpoch": "1711763940",
+      "bracketId": "405",
+      "gameState": "final",
+      "startDate": "03-29-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427587",
+      "away": {
+        "score": "75",
+        "names": {
+          "char6": "CREIGH",
+          "short": "Creighton",
+          "seo": "creighton",
+          "full": "Creighton University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(25-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Tennessee Creighton",
+      "contestName": "",
+      "url": "/game/6232195",
+      "network": "TBS",
+      "home": {
+        "score": "82",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:10PM ET",
+      "startTimeEpoch": "1711764600",
+      "bracketId": "408",
+      "gameState": "final",
+      "startDate": "03-29-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427589",
+      "away": {
+        "score": "52",
+        "names": {
+          "char6": "ILL",
+          "short": "Illinois",
+          "seo": "illinois",
+          "full": "University of Illinois Urbana-Champaign"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(29-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Elite Eight&#174;",
+      "title": "UConn Illinois",
+      "contestName": "",
+      "url": "/game/6232196",
+      "network": "TBS",
+      "home": {
+        "score": "77",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(34-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1711836540",
+      "bracketId": "501",
+      "gameState": "final",
+      "startDate": "03-30-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "EAST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427588",
+      "away": {
+        "score": "82",
+        "names": {
+          "char6": "CLEM",
+          "short": "Clemson",
+          "seo": "clemson",
+          "full": "Clemson University"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Elite Eight&#174;",
+      "title": "Alabama Clemson",
+      "contestName": "",
+      "url": "/game/6232197",
+      "network": "TBS",
+      "home": {
+        "score": "89",
+        "names": {
+          "char6": "ALA",
+          "short": "Alabama",
+          "seo": "alabama",
+          "full": "University of Alabama"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:54PM ET",
+      "startTimeEpoch": "1711846440",
+      "bracketId": "502",
+      "gameState": "final",
+      "startDate": "03-30-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "WEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427590",
+      "away": {
+        "score": "66",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(27-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Elite Eight&#174;",
+      "title": "Purdue Tennessee",
+      "contestName": "",
+      "url": "/game/6232199",
+      "network": "CBS",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(32-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:20PM ET",
+      "startTimeEpoch": "1711909200",
+      "bracketId": "504",
+      "gameState": "final",
+      "startDate": "03-31-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "MIDWEST",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427591",
+      "away": {
+        "score": "76",
+        "names": {
+          "char6": "NC ST",
+          "short": "NC State",
+          "seo": "north-carolina-st",
+          "full": "North Carolina State University"
+        },
+        "winner": true,
+        "seed": "11",
+        "description": "(24-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Elite Eight&#174;",
+      "title": "Duke NC State",
+      "contestName": "",
+      "url": "/game/6232198",
+      "network": "CBS",
+      "home": {
+        "score": "64",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(27-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:10PM ET",
+      "startTimeEpoch": "1711919400",
+      "bracketId": "503",
+      "gameState": "final",
+      "startDate": "03-31-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "SOUTH",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427593",
+      "away": {
+        "score": "50",
+        "names": {
+          "char6": "NC ST",
+          "short": "NC State",
+          "seo": "north-carolina-st",
+          "full": "North Carolina State University"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(25-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FINAL FOUR&#174;",
+      "title": "Purdue NC State",
+      "contestName": "",
+      "url": "/game/6232201",
+      "network": "TBS",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(32-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1712441340",
+      "bracketId": "602",
+      "gameState": "final",
+      "startDate": "04-06-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427592",
+      "away": {
+        "score": "72",
+        "names": {
+          "char6": "ALA",
+          "short": "Alabama",
+          "seo": "alabama",
+          "full": "University of Alabama"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(24-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FINAL FOUR&#174;",
+      "title": "UConn Alabama",
+      "contestName": "",
+      "url": "/game/6232200",
+      "network": "TBS",
+      "home": {
+        "score": "86",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(35-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:51PM ET",
+      "startTimeEpoch": "1712451060",
+      "bracketId": "601",
+      "gameState": "final",
+      "startDate": "04-06-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2427594",
+      "away": {
+        "score": "60",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(33-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Championship",
+      "title": "UConn Purdue",
+      "contestName": "",
+      "url": "/game/6232202",
+      "network": "TBS",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(38-3)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:20PM ET",
+      "startTimeEpoch": "1712625600",
+      "bracketId": "701",
+      "gameState": "final",
+      "startDate": "04-08-2024",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  }
+]

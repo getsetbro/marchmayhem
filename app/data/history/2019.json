@@ -1,0 +1,3944 @@
+[
+  {
+    "game": {
+      "gameID": "9c658994-592b-4e31-a9dd-a6a4611bed9b",
+      "away": {
+        "score": "86",
+        "names": {
+          "char6": "MINN",
+          "short": "Minnesota",
+          "seo": "minnesota",
+          "full": "University of Minnesota, Twin Cities"
+        },
+        "winner": true,
+        "seed": "10",
+        "description": "(21-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Louisville Minnesota",
+      "url": "/game/3296529",
+      "network": "CBS",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "LOUIS",
+          "short": "Louisville",
+          "seo": "louisville",
+          "full": "University of Louisville"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(20-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1553184900",
+      "bracketId": "207",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "507d8600-5d94-403a-b2fd-c8b02f3d3ee5",
+      "away": {
+        "score": "74",
+        "names": {
+          "char6": "YALE",
+          "short": "Yale",
+          "seo": "yale",
+          "full": "Yale University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(22-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Ivy League",
+            "conferenceSeo": "ivy-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "LSU Yale",
+      "url": "/game/3296541",
+      "network": "truTV",
+      "home": {
+        "score": "79",
+        "names": {
+          "char6": "LSU",
+          "short": "LSU",
+          "seo": "lsu",
+          "full": "Louisiana State University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(26-6)",
+        "rank": "12",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1553186400",
+      "bracketId": "206",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "87e5805e-a5e0-4cb4-af43-05300525a1b4",
+      "away": {
+        "score": "77",
+        "names": {
+          "char6": "NM ST",
+          "short": "New Mexico St.",
+          "seo": "new-mexico-st",
+          "full": "New Mexico State University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(30-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WAC",
+            "conferenceSeo": "wac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Auburn New Mexico St.",
+      "url": "/game/3296572",
+      "network": "TNT",
+      "home": {
+        "score": "78",
+        "names": {
+          "char6": "AUBURN",
+          "short": "Auburn",
+          "seo": "auburn",
+          "full": "Auburn University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(26-9)",
+        "rank": "14",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "01:30PM ET",
+      "startTimeEpoch": "1553189400",
+      "bracketId": "227",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "ea35b2f2-685e-4913-b2f2-495e30600ee3",
+      "away": {
+        "score": "69",
+        "names": {
+          "char6": "VERMNT",
+          "short": "Vermont",
+          "seo": "vermont",
+          "full": "University of Vermont"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(27-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "America East",
+            "conferenceSeo": "america-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Florida St. Vermont",
+      "url": "/game/3296537",
+      "network": "TBS",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "FSU",
+          "short": "Florida St.",
+          "seo": "florida-st",
+          "full": "Florida State University"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(27-7)",
+        "rank": "10",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:00PM ET",
+      "startTimeEpoch": "1553191200",
+      "bracketId": "212",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "40c1f0e3-d565-410a-b5df-88def6e2e25d",
+      "away": {
+        "score": "65",
+        "names": {
+          "char6": "BRAD",
+          "short": "Bradley",
+          "seo": "bradley",
+          "full": "Bradley University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(20-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MVC",
+            "conferenceSeo": "mvc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Michigan St. Bradley",
+      "url": "/game/3296547",
+      "network": "CBS",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(28-6)",
+        "rank": "5",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:05PM ET",
+      "startTimeEpoch": "1553195100",
+      "bracketId": "208",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "7a2df4e0-1d47-4080-93dd-d418eca4af5d",
+      "away": {
+        "score": "77",
+        "names": {
+          "char6": "BELMNT",
+          "short": "Belmont",
+          "seo": "belmont",
+          "full": "Belmont University"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(27-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "OVC",
+            "conferenceSeo": "ovc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Maryland Belmont",
+      "url": "/game/3296575",
+      "network": "truTV",
+      "home": {
+        "score": "79",
+        "names": {
+          "char6": "MD",
+          "short": "Maryland",
+          "seo": "maryland",
+          "full": "University of Maryland, College Park"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(22-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:24PM ET",
+      "startTimeEpoch": "1553196240",
+      "bracketId": "205",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2f9f98c5-15c4-4312-982a-4ab8c7397f2d",
+      "away": {
+        "score": "53",
+        "names": {
+          "char6": "NOEAST",
+          "short": "Northeastern",
+          "seo": "northeastern",
+          "full": "Northeastern University"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "CAA",
+            "conferenceSeo": "caa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Kansas Northeastern",
+      "url": "/game/3296517",
+      "network": "TNT",
+      "home": {
+        "score": "87",
+        "names": {
+          "char6": "KANSAS",
+          "short": "Kansas",
+          "seo": "kansas",
+          "full": "University of Kansas"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(25-9)",
+        "rank": "17",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:24PM ET",
+      "startTimeEpoch": "1553199840",
+      "bracketId": "228",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "71940c5d-1cdd-44d7-babd-37d1318f8519",
+      "away": {
+        "score": "83",
+        "names": {
+          "char6": "MURRAY",
+          "short": "Murray St.",
+          "seo": "murray-st",
+          "full": "Murray State University"
+        },
+        "winner": true,
+        "seed": "12",
+        "description": "(27-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "OVC",
+            "conferenceSeo": "ovc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Marquette Murray St.",
+      "url": "/game/3296516",
+      "network": "TBS",
+      "home": {
+        "score": "64",
+        "names": {
+          "char6": "MARQ",
+          "short": "Marquette",
+          "seo": "marquette",
+          "full": "Marquette University"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(24-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:55PM ET",
+      "startTimeEpoch": "1553201700",
+      "bracketId": "211",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "fd3ed597-bba8-4836-822b-80f7deb3945b",
+      "away": {
+        "score": "70",
+        "names": {
+          "char6": "FLA",
+          "short": "Florida",
+          "seo": "florida",
+          "full": "University of Florida"
+        },
+        "winner": true,
+        "seed": "10",
+        "description": "(19-15)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Nevada Florida",
+      "url": "/game/3296526",
+      "network": "TNT",
+      "home": {
+        "score": "61",
+        "names": {
+          "char6": "NEVADA",
+          "short": "Nevada",
+          "seo": "nevada",
+          "full": "University of Nevada, Reno"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(29-4)",
+        "rank": "20",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:55PM ET",
+      "startTimeEpoch": "1553208900",
+      "bracketId": "215",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "89f5b694-2001-4ff5-bfbe-7a885cb6142d",
+      "away": {
+        "score": "44",
+        "names": {
+          "char6": "ABILCH",
+          "short": "Abilene Christian",
+          "seo": "abilene-christian",
+          "full": "Abilene Christian University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(27-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Southland",
+            "conferenceSeo": "southland"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Kentucky Abilene Christian",
+      "url": "/game/3296520",
+      "network": "CBS",
+      "home": {
+        "score": "79",
+        "names": {
+          "char6": "UK",
+          "short": "Kentucky",
+          "seo": "kentucky",
+          "full": "University of Kentucky"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(27-6)",
+        "rank": "7",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1553209800",
+      "bracketId": "232",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "f82a8c08-be82-42e0-9fcb-cb44a63beb6f",
+      "away": {
+        "score": "49",
+        "names": {
+          "char6": "FDU",
+          "short": "Fairleigh Dickinson",
+          "seo": "fairleigh-dickinson",
+          "full": "Fairleigh Dickinson University, Metropolitan Campus"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(21-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "NEC",
+            "conferenceSeo": "nec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Gonzaga Fairleigh Dickinson",
+      "url": "/game/3296536",
+      "network": "truTV",
+      "home": {
+        "score": "87",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(30-3)",
+        "rank": "4",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:27PM ET",
+      "startTimeEpoch": "1553210820",
+      "bracketId": "209",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "4c33d40a-cd01-482a-b048-e3be3658a069",
+      "away": {
+        "score": "57",
+        "names": {
+          "char6": "STMARY",
+          "short": "Saint Mary's (CA)",
+          "seo": "st-marys-ca",
+          "full": "Saint Mary's College of California"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Villanova Saint Mary's (CA)",
+      "url": "/game/3296527",
+      "network": "TBS",
+      "home": {
+        "score": "61",
+        "names": {
+          "char6": "NOVA",
+          "short": "Villanova",
+          "seo": "villanova",
+          "full": "Villanova University"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(25-9)",
+        "rank": "23",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:45PM ET",
+      "startTimeEpoch": "1553211900",
+      "bracketId": "221",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "07ebfdf1-e879-4862-a046-39d41a7c1092",
+      "away": {
+        "score": "68",
+        "names": {
+          "char6": "SETON",
+          "short": "Seton Hall",
+          "seo": "seton-hall",
+          "full": "Seton Hall University"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(20-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Wofford Seton Hall",
+      "url": "/game/3296525",
+      "network": "CBS",
+      "home": {
+        "score": "84",
+        "names": {
+          "char6": "WOFFRD",
+          "short": "Wofford",
+          "seo": "wofford",
+          "full": "Wofford College"
+        },
+        "winner": true,
+        "seed": "7",
+        "description": "(29-4)",
+        "rank": "19",
+        "conferences": [
+          {
+            "conferenceName": "SoCon",
+            "conferenceSeo": "socon"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:39PM ET",
+      "startTimeEpoch": "1553218740",
+      "bracketId": "231",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2ec0da44-b565-4d94-9677-fcf903021342",
+      "away": {
+        "score": "55",
+        "names": {
+          "char6": "MONT",
+          "short": "Montana",
+          "seo": "montana",
+          "full": "University of Montana"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Sky",
+            "conferenceSeo": "big-sky"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Michigan Montana",
+      "url": "/game/3296540",
+      "network": "TNT",
+      "home": {
+        "score": "74",
+        "names": {
+          "char6": "MICH",
+          "short": "Michigan",
+          "seo": "michigan",
+          "full": "University of Michigan"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(28-6)",
+        "rank": "8",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:47PM ET",
+      "startTimeEpoch": "1553219220",
+      "bracketId": "216",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "4eb6d6d8-73c2-46ed-a7f0-e6a7f52fe816",
+      "away": {
+        "score": "78",
+        "names": {
+          "char6": "BAYLOR",
+          "short": "Baylor",
+          "seo": "baylor",
+          "full": "Baylor University"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(19-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Syracuse Baylor",
+      "url": "/game/3296519",
+      "network": "truTV",
+      "home": {
+        "score": "69",
+        "names": {
+          "char6": "SYR",
+          "short": "Syracuse",
+          "seo": "syracuse",
+          "full": "Syracuse University"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(20-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:00PM ET",
+      "startTimeEpoch": "1553220000",
+      "bracketId": "210",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "d683117d-e47f-4941-a053-bcf5527acafa",
+      "away": {
+        "score": "48",
+        "names": {
+          "char6": "ODU",
+          "short": "Old Dominion",
+          "seo": "old-dominion",
+          "full": "Old Dominion University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "C-USA",
+            "conferenceSeo": "c-usa"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Purdue Old Dominion",
+      "url": "/game/3296567",
+      "network": "TBS",
+      "home": {
+        "score": "61",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(23-9)",
+        "rank": "13",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:13PM ET",
+      "startTimeEpoch": "1553220780",
+      "bracketId": "222",
+      "gameState": "final",
+      "startDate": "03-21-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "b1596d3e-52e6-49a1-a22d-4eaabe5c0846",
+      "away": {
+        "score": "79",
+        "names": {
+          "char6": "IOWA",
+          "short": "Iowa",
+          "seo": "iowa",
+          "full": "University of Iowa"
+        },
+        "winner": true,
+        "seed": "10",
+        "description": "(22-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Cincinnati Iowa",
+      "url": "/game/3296555",
+      "network": "CBS",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "CINCY",
+          "short": "Cincinnati",
+          "seo": "cincinnati",
+          "full": "University of Cincinnati"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(28-6)",
+        "rank": "22",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1553271300",
+      "bracketId": "223",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "b4682081-9e8b-4953-98ec-fe3092a2e99c",
+      "away": {
+        "score": "95",
+        "names": {
+          "char6": "OKLA",
+          "short": "Oklahoma",
+          "seo": "oklahoma",
+          "full": "University of Oklahoma"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(19-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Ole Miss Oklahoma",
+      "url": "/game/3296564",
+      "network": "truTV",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "MISS",
+          "short": "Ole Miss",
+          "seo": "ole-miss",
+          "full": "University of Mississippi"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(20-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1553272800",
+      "bracketId": "218",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "e337a94c-c8dc-4b2e-907c-877a6398b12f",
+      "away": {
+        "score": "57",
+        "names": {
+          "char6": "N KY",
+          "short": "Northern Ky.",
+          "seo": "northern-ky",
+          "full": "Northern Kentucky University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Horizon",
+            "conferenceSeo": "horizon"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Texas Tech Northern Ky.",
+      "url": "/game/3296571",
+      "network": "TNT",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "TXTECH",
+          "short": "Texas Tech",
+          "seo": "texas-tech",
+          "full": "Texas Tech University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(26-6)",
+        "rank": "9",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "01:30PM ET",
+      "startTimeEpoch": "1553275800",
+      "bracketId": "214",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "8a8d6bd1-b102-44c1-8c27-30ef03a51e6a",
+      "away": {
+        "score": "70",
+        "names": {
+          "char6": "UC IRV",
+          "short": "UC Irvine",
+          "seo": "uc-irvine",
+          "full": "University of California, Irvine"
+        },
+        "winner": true,
+        "seed": "13",
+        "description": "(30-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big West",
+            "conferenceSeo": "big-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Kansas St. UC Irvine",
+      "url": "/game/3296548",
+      "network": "TBS",
+      "home": {
+        "score": "64",
+        "names": {
+          "char6": "KAN ST",
+          "short": "Kansas St.",
+          "seo": "kansas-st",
+          "full": "Kansas State University"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(25-8)",
+        "rank": "18",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:00PM ET",
+      "startTimeEpoch": "1553277600",
+      "bracketId": "220",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "5de3e55d-798c-40e2-94ad-d88330df7754",
+      "away": {
+        "score": "70",
+        "names": {
+          "char6": "COLGAT",
+          "short": "Colgate",
+          "seo": "colgate",
+          "full": "Colgate University"
+        },
+        "winner": false,
+        "seed": "15",
+        "description": "(24-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Patriot",
+            "conferenceSeo": "patriot"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Tennessee Colgate",
+      "url": "/game/3296560",
+      "network": "CBS",
+      "home": {
+        "score": "77",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(29-5)",
+        "rank": "6",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:01PM ET",
+      "startTimeEpoch": "1553281260",
+      "bracketId": "224",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "d3512f84-0cdc-46a8-85ff-f94401254e0e",
+      "away": {
+        "score": "56",
+        "names": {
+          "char6": "G WEBB",
+          "short": "Gardner-Webb",
+          "seo": "gardner-webb",
+          "full": "Gardner-Webb University"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big South",
+            "conferenceSeo": "big-south"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Virginia Gardner-Webb",
+      "url": "/game/3296511",
+      "network": "truTV",
+      "home": {
+        "score": "71",
+        "names": {
+          "char6": "UVA",
+          "short": "Virginia",
+          "seo": "virginia",
+          "full": "University of Virginia"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(29-3)",
+        "rank": "2",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:13PM ET",
+      "startTimeEpoch": "1553281980",
+      "bracketId": "217",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2bf2678c-7fe0-466c-a964-b3bcfd93252a",
+      "away": {
+        "score": "74",
+        "names": {
+          "char6": "AZ ST",
+          "short": "Arizona St.",
+          "seo": "arizona-st",
+          "full": "Arizona State University"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Buffalo Arizona St.",
+      "url": "/game/3296551",
+      "network": "TNT",
+      "home": {
+        "score": "91",
+        "names": {
+          "char6": "BUFF",
+          "short": "Buffalo",
+          "seo": "buffalo",
+          "full": "University at Buffalo, the State University of New York"
+        },
+        "winner": true,
+        "seed": "6",
+        "description": "(31-3)",
+        "rank": "15",
+        "conferences": [
+          {
+            "conferenceName": "MAC",
+            "conferenceSeo": "mac"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:10PM ET",
+      "startTimeEpoch": "1553285400",
+      "bracketId": "213",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "b7ba63a3-a002-4e18-9f22-ba782c169dfb",
+      "away": {
+        "score": "72",
+        "names": {
+          "char6": "OREGN",
+          "short": "Oregon",
+          "seo": "oregon",
+          "full": "University of Oregon"
+        },
+        "winner": true,
+        "seed": "12",
+        "description": "(23-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Wisconsin Oregon",
+      "url": "/game/3296539",
+      "network": "TBS",
+      "home": {
+        "score": "54",
+        "names": {
+          "char6": "WISC",
+          "short": "Wisconsin",
+          "seo": "wisconsin",
+          "full": "University of Wisconsin-Madison"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(23-10)",
+        "rank": "21",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "04:43PM ET",
+      "startTimeEpoch": "1553287380",
+      "bracketId": "219",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "bc8d24fa-0bb2-4914-9571-6744342c4375",
+      "away": {
+        "score": "78",
+        "names": {
+          "char6": "WASH",
+          "short": "Washington",
+          "seo": "washington",
+          "full": "University of Washington"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(26-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Utah St. Washington",
+      "url": "/game/3296538",
+      "network": "TNT",
+      "home": {
+        "score": "61",
+        "names": {
+          "char6": "UT ST",
+          "short": "Utah St.",
+          "seo": "utah-st",
+          "full": "Utah State University"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(28-6)",
+        "rank": "25",
+        "conferences": [
+          {
+            "conferenceName": "Mountain West",
+            "conferenceSeo": "mountain-west"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:50PM ET",
+      "startTimeEpoch": "1553295000",
+      "bracketId": "226",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "42d3a9cd-b9af-43bc-b83c-ada352f3901c",
+      "away": {
+        "score": "62",
+        "names": {
+          "char6": "ND ST",
+          "short": "North Dakota St.",
+          "seo": "north-dakota-st",
+          "full": "North Dakota State University"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(19-15)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Summit League",
+            "conferenceSeo": "summit-league"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Duke North Dakota St.",
+      "url": "/game/3296565",
+      "network": "CBS",
+      "home": {
+        "score": "85",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(29-5)",
+        "rank": "1",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1553296200",
+      "bracketId": "201",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "c712cdca-769d-4195-93d8-aec132a0fdf3",
+      "away": {
+        "score": "55",
+        "names": {
+          "char6": "GA ST",
+          "short": "Georgia St.",
+          "seo": "georgia-st",
+          "full": "Georgia State University"
+        },
+        "winner": false,
+        "seed": "14",
+        "description": "(24-9)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Sun Belt",
+            "conferenceSeo": "sun-belt"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Houston Georgia St.",
+      "url": "/game/3296524",
+      "network": "TBS",
+      "home": {
+        "score": "84",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(31-3)",
+        "rank": "11",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:20PM ET",
+      "startTimeEpoch": "1553296800",
+      "bracketId": "230",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "920da5f9-ff04-4596-9523-1b580b68d318",
+      "away": {
+        "score": "80",
+        "names": {
+          "char6": "LIBRTY",
+          "short": "Liberty",
+          "seo": "liberty",
+          "full": "Liberty University"
+        },
+        "winner": true,
+        "seed": "12",
+        "description": "(28-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ASUN",
+            "conferenceSeo": "asun"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Mississippi St. Liberty",
+      "url": "/game/3296549",
+      "network": "truTV",
+      "home": {
+        "score": "76",
+        "names": {
+          "char6": "MISSST",
+          "short": "Mississippi St.",
+          "seo": "mississippi-st",
+          "full": "Mississippi State University"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:27PM ET",
+      "startTimeEpoch": "1553297220",
+      "bracketId": "203",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "4a40b2f8-c7b5-4711-8277-e9febd4021e1",
+      "away": {
+        "score": "73",
+        "names": {
+          "char6": "IONA",
+          "short": "Iona",
+          "seo": "iona",
+          "full": "Iona College"
+        },
+        "winner": false,
+        "seed": "16",
+        "description": "(17-15)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "MAAC",
+            "conferenceSeo": "maac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "North Carolina Iona",
+      "url": "/game/3296569",
+      "network": "TNT",
+      "home": {
+        "score": "88",
+        "names": {
+          "char6": "UNC",
+          "short": "North Carolina",
+          "seo": "north-carolina",
+          "full": "University of North Carolina, Chapel Hill"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(27-6)",
+        "rank": "3",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:30PM ET",
+      "startTimeEpoch": "1553304600",
+      "bracketId": "225",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "55cfcec8-36de-4917-a30b-473a98bee2bf",
+      "away": {
+        "score": "73",
+        "names": {
+          "char6": "UCF",
+          "short": "UCF",
+          "seo": "ucf",
+          "full": "University of Central Florida"
+        },
+        "winner": true,
+        "seed": "9",
+        "description": "(23-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "VCU UCF",
+      "url": "/game/3296546",
+      "network": "CBS",
+      "home": {
+        "score": "58",
+        "names": {
+          "char6": "VCU",
+          "short": "VCU",
+          "seo": "vcu",
+          "full": "Virginia Commonwealth University"
+        },
+        "winner": false,
+        "seed": "8",
+        "description": "(25-7)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:45PM ET",
+      "startTimeEpoch": "1553305500",
+      "bracketId": "202",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "3cb6b7fa-18d2-4225-bf17-48da9a11250c",
+      "away": {
+        "score": "62",
+        "names": {
+          "char6": "OHIOST",
+          "short": "Ohio St.",
+          "seo": "ohio-st",
+          "full": "The Ohio State University"
+        },
+        "winner": true,
+        "seed": "11",
+        "description": "(19-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Iowa St. Ohio St.",
+      "url": "/game/3296515",
+      "network": "TBS",
+      "home": {
+        "score": "59",
+        "names": {
+          "char6": "IOWAST",
+          "short": "Iowa St.",
+          "seo": "iowa-st",
+          "full": "Iowa State University"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(23-11)",
+        "rank": "24",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:46PM ET",
+      "startTimeEpoch": "1553305560",
+      "bracketId": "229",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "5c71531c-908e-4a7e-bdde-26be0c8be0d9",
+      "away": {
+        "score": "52",
+        "names": {
+          "char6": "ST LOU",
+          "short": "Saint Louis",
+          "seo": "saint-louis",
+          "full": "Saint Louis University"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(23-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Atlantic 10",
+            "conferenceSeo": "atlantic-10"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "First Round",
+      "title": "Virginia Tech Saint Louis",
+      "url": "/game/3296570",
+      "network": "truTV",
+      "home": {
+        "score": "66",
+        "names": {
+          "char6": "VT",
+          "short": "Virginia Tech",
+          "seo": "virginia-tech",
+          "full": "Virginia Polytechnic Institute and State University"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(24-8)",
+        "rank": "16",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:20PM ET",
+      "startTimeEpoch": "1553307600",
+      "bracketId": "204",
+      "gameState": "final",
+      "startDate": "03-22-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "ccfcf317-c7ce-4e82-a055-7650b9ceb2f7",
+      "away": {
+        "score": "67",
+        "names": {
+          "char6": "MD",
+          "short": "Maryland",
+          "seo": "maryland",
+          "full": "University of Maryland, College Park"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(23-10)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "LSU Maryland",
+      "url": "/game/3296523",
+      "network": "CBS",
+      "home": {
+        "score": "69",
+        "names": {
+          "char6": "LSU",
+          "short": "LSU",
+          "seo": "lsu",
+          "full": "Louisiana State University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(27-6)",
+        "rank": "12",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:10PM ET",
+      "startTimeEpoch": "1553357400",
+      "bracketId": "303",
+      "gameState": "final",
+      "startDate": "03-23-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "fe293eff-e1a7-4f1f-9f3d-a251fc8ca006",
+      "away": {
+        "score": "56",
+        "names": {
+          "char6": "WOFFRD",
+          "short": "Wofford",
+          "seo": "wofford",
+          "full": "Wofford College"
+        },
+        "winner": false,
+        "seed": "7",
+        "description": "(30-4)",
+        "rank": "19",
+        "conferences": [
+          {
+            "conferenceName": "SoCon",
+            "conferenceSeo": "socon"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Kentucky Wofford",
+      "url": "/game/3296577",
+      "network": "CBS",
+      "home": {
+        "score": "62",
+        "names": {
+          "char6": "UK",
+          "short": "Kentucky",
+          "seo": "kentucky",
+          "full": "University of Kentucky"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(28-6)",
+        "rank": "7",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:00PM ET",
+      "startTimeEpoch": "1553367600",
+      "bracketId": "316",
+      "gameState": "final",
+      "startDate": "03-23-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "fdcfe295-6c62-4cfb-8e77-6475cc0c5e09",
+      "away": {
+        "score": "49",
+        "names": {
+          "char6": "FLA",
+          "short": "Florida",
+          "seo": "florida",
+          "full": "University of Florida"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(20-15)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Michigan Florida",
+      "url": "/game/3296553",
+      "network": "CBS",
+      "home": {
+        "score": "64",
+        "names": {
+          "char6": "MICH",
+          "short": "Michigan",
+          "seo": "michigan",
+          "full": "University of Michigan"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(29-6)",
+        "rank": "8",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:25PM ET",
+      "startTimeEpoch": "1553376300",
+      "bracketId": "308",
+      "gameState": "final",
+      "startDate": "03-23-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "9dcff6f5-fccb-4b08-910e-7c48d95bc654",
+      "away": {
+        "score": "62",
+        "names": {
+          "char6": "MURRAY",
+          "short": "Murray St.",
+          "seo": "murray-st",
+          "full": "Murray State University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(28-4)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "OVC",
+            "conferenceSeo": "ovc"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Florida St. Murray St.",
+      "url": "/game/3296522",
+      "network": "TNT",
+      "home": {
+        "score": "90",
+        "names": {
+          "char6": "FSU",
+          "short": "Florida St.",
+          "seo": "florida-st",
+          "full": "Florida State University"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(28-7)",
+        "rank": "10",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1553379000",
+      "bracketId": "306",
+      "gameState": "final",
+      "startDate": "03-23-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "803b5a10-7b00-4a9a-a366-2d49a339f4f7",
+      "away": {
+        "score": "71",
+        "names": {
+          "char6": "BAYLOR",
+          "short": "Baylor",
+          "seo": "baylor",
+          "full": "Baylor University"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(20-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Gonzaga Baylor",
+      "url": "/game/3296531",
+      "network": "TBS",
+      "home": {
+        "score": "83",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(31-3)",
+        "rank": "4",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1553382600",
+      "bracketId": "305",
+      "gameState": "final",
+      "startDate": "03-23-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "b1e2b995-af81-4838-9f56-6acf6ccd089a",
+      "away": {
+        "score": "50",
+        "names": {
+          "char6": "MINN",
+          "short": "Minnesota",
+          "seo": "minnesota",
+          "full": "University of Minnesota, Twin Cities"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(22-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Michigan St. Minnesota",
+      "url": "/game/3296543",
+      "network": "CBS",
+      "home": {
+        "score": "70",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(29-6)",
+        "rank": "5",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:00PM ET",
+      "startTimeEpoch": "1553385600",
+      "bracketId": "304",
+      "gameState": "final",
+      "startDate": "03-23-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "dae1b765-42cc-4176-8f0f-71d32f46fc78",
+      "away": {
+        "score": "61",
+        "names": {
+          "char6": "NOVA",
+          "short": "Villanova",
+          "seo": "villanova",
+          "full": "Villanova University"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(26-9)",
+        "rank": "23",
+        "conferences": [
+          {
+            "conferenceName": "Big East",
+            "conferenceSeo": "big-east"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Purdue Villanova",
+      "url": "/game/3296512",
+      "network": "TNT",
+      "home": {
+        "score": "87",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(24-9)",
+        "rank": "13",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:40PM ET",
+      "startTimeEpoch": "1553388000",
+      "bracketId": "311",
+      "gameState": "final",
+      "startDate": "03-23-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "c505a614-91e7-4afe-b83c-25c20e192550",
+      "away": {
+        "score": "89",
+        "names": {
+          "char6": "AUBURN",
+          "short": "Auburn",
+          "seo": "auburn",
+          "full": "Auburn University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(27-9)",
+        "rank": "14",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Kansas Auburn",
+      "url": "/game/3296514",
+      "network": "TBS",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "KANSAS",
+          "short": "Kansas",
+          "seo": "kansas",
+          "full": "University of Kansas"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(26-9)",
+        "rank": "17",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:58PM ET",
+      "startTimeEpoch": "1553392680",
+      "bracketId": "314",
+      "gameState": "final",
+      "startDate": "03-23-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "22bcd655-3451-48e7-95a9-5f302b1b2a08",
+      "away": {
+        "score": "77",
+        "names": {
+          "char6": "IOWA",
+          "short": "Iowa",
+          "seo": "iowa",
+          "full": "University of Iowa"
+        },
+        "winner": false,
+        "seed": "10",
+        "description": "(23-11)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "Second Round",
+      "title": "Tennessee Iowa",
+      "contestName": "",
+      "url": "/game/3296550",
+      "network": "CBS",
+      "home": {
+        "score": "83",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(30-5)",
+        "rank": "6",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "12:10PM ET",
+      "startTimeEpoch": "1553443800",
+      "bracketId": "312",
+      "gameState": "final",
+      "startDate": "03-24-2019",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "a905cdd8-0f61-4667-933b-dc97a51ca955",
+      "away": {
+        "score": "59",
+        "names": {
+          "char6": "WASH",
+          "short": "Washington",
+          "seo": "washington",
+          "full": "University of Washington"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(27-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "North Carolina Washington",
+      "contestName": "",
+      "url": "/game/3296561",
+      "network": "CBS",
+      "home": {
+        "score": "81",
+        "names": {
+          "char6": "UNC",
+          "short": "North Carolina",
+          "seo": "north-carolina",
+          "full": "University of North Carolina, Chapel Hill"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(28-6)",
+        "rank": "3",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "03:13PM ET",
+      "startTimeEpoch": "1553454780",
+      "bracketId": "313",
+      "gameState": "final",
+      "startDate": "03-24-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "b392b5f4-3b7b-4b27-88c3-da32b76833a7",
+      "away": {
+        "score": "76",
+        "names": {
+          "char6": "UCF",
+          "short": "UCF",
+          "seo": "ucf",
+          "full": "University of Central Florida"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(24-8)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Duke UCF",
+      "contestName": "",
+      "url": "/game/3296534",
+      "network": "CBS",
+      "home": {
+        "score": "77",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(30-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:25PM ET",
+      "startTimeEpoch": "1553462700",
+      "bracketId": "301",
+      "gameState": "final",
+      "startDate": "03-24-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "3e9b2173-3af5-4120-bec8-f325075197ad",
+      "away": {
+        "score": "58",
+        "names": {
+          "char6": "BUFF",
+          "short": "Buffalo",
+          "seo": "buffalo",
+          "full": "University at Buffalo, the State University of New York"
+        },
+        "winner": false,
+        "seed": "6",
+        "description": "(32-3)",
+        "rank": "15",
+        "conferences": [
+          {
+            "conferenceName": "MAC",
+            "conferenceSeo": "mac"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Texas Tech Buffalo",
+      "contestName": "",
+      "url": "/game/3296518",
+      "network": "TNT",
+      "home": {
+        "score": "78",
+        "names": {
+          "char6": "TXTECH",
+          "short": "Texas Tech",
+          "seo": "texas-tech",
+          "full": "Texas Tech University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(27-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1553465400",
+      "bracketId": "307",
+      "gameState": "final",
+      "startDate": "03-24-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "b4cd2ad8-bd4d-45fc-bee9-a9c0e48be795",
+      "away": {
+        "score": "58",
+        "names": {
+          "char6": "LIBRTY",
+          "short": "Liberty",
+          "seo": "liberty",
+          "full": "Liberty University"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(29-6)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ASUN",
+            "conferenceSeo": "asun"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Virginia Tech Liberty",
+      "contestName": "",
+      "url": "/game/3296542",
+      "network": "TBS",
+      "home": {
+        "score": "67",
+        "names": {
+          "char6": "VT",
+          "short": "Virginia Tech",
+          "seo": "virginia-tech",
+          "full": "Virginia Polytechnic Institute and State University"
+        },
+        "winner": true,
+        "seed": "4",
+        "description": "(25-8)",
+        "rank": "16",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1553469000",
+      "bracketId": "302",
+      "gameState": "final",
+      "startDate": "03-24-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "ecc9da00-df9d-46f3-939a-a52655e43371",
+      "away": {
+        "score": "51",
+        "names": {
+          "char6": "OKLA",
+          "short": "Oklahoma",
+          "seo": "oklahoma",
+          "full": "University of Oklahoma"
+        },
+        "winner": false,
+        "seed": "9",
+        "description": "(20-13)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Virginia Oklahoma",
+      "contestName": "",
+      "url": "/game/3296563",
+      "network": "truTV",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "UVA",
+          "short": "Virginia",
+          "seo": "virginia",
+          "full": "University of Virginia"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(30-3)",
+        "rank": "2",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:07PM ET",
+      "startTimeEpoch": "1553472420",
+      "bracketId": "309",
+      "gameState": "final",
+      "startDate": "03-24-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "495d6e14-1258-40db-80ac-820fb8681180",
+      "away": {
+        "score": "59",
+        "names": {
+          "char6": "OHIOST",
+          "short": "Ohio St.",
+          "seo": "ohio-st",
+          "full": "The Ohio State University"
+        },
+        "winner": false,
+        "seed": "11",
+        "description": "(20-14)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Houston Ohio St.",
+      "contestName": "",
+      "url": "/game/3296544",
+      "network": "TNT",
+      "home": {
+        "score": "74",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(32-3)",
+        "rank": "11",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:55PM ET",
+      "startTimeEpoch": "1553475300",
+      "bracketId": "315",
+      "gameState": "final",
+      "startDate": "03-24-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "92255946-14c6-48c5-b280-10a91aea9024",
+      "away": {
+        "score": "54",
+        "names": {
+          "char6": "UC IRV",
+          "short": "UC Irvine",
+          "seo": "uc-irvine",
+          "full": "University of California, Irvine"
+        },
+        "winner": false,
+        "seed": "13",
+        "description": "(31-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Big West",
+            "conferenceSeo": "big-west"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Second Round",
+      "title": "Oregon UC Irvine",
+      "contestName": "",
+      "url": "/game/3296556",
+      "network": "TBS",
+      "home": {
+        "score": "73",
+        "names": {
+          "char6": "OREGN",
+          "short": "Oregon",
+          "seo": "oregon",
+          "full": "University of Oregon"
+        },
+        "winner": true,
+        "seed": "12",
+        "description": "(24-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:41PM ET",
+      "startTimeEpoch": "1553478060",
+      "bracketId": "310",
+      "gameState": "final",
+      "startDate": "03-24-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "c62cb85c-ce51-4656-b4f6-c1223230deec",
+      "away": {
+        "score": "58",
+        "names": {
+          "char6": "FSU",
+          "short": "Florida St.",
+          "seo": "florida-st",
+          "full": "Florida State University"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(29-7)",
+        "rank": "10",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Gonzaga Florida St.",
+      "url": "/game/3296521",
+      "network": "CBS",
+      "home": {
+        "score": "72",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(32-3)",
+        "rank": "4",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:09PM ET",
+      "startTimeEpoch": "1553814540",
+      "bracketId": "403",
+      "gameState": "final",
+      "startDate": "03-28-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "66abc887-7054-407c-8bbf-5436d63ac3ff",
+      "away": {
+        "score": "99",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(25-9)",
+        "rank": "13",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Tennessee Purdue",
+      "url": "/game/3296535",
+      "network": "TBS",
+      "home": {
+        "score": "94",
+        "names": {
+          "char6": "TENN",
+          "short": "Tennessee",
+          "seo": "tennessee",
+          "full": "University of Tennessee, Knoxville"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(31-5)",
+        "rank": "6",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:29PM ET",
+      "startTimeEpoch": "1553815740",
+      "bracketId": "406",
+      "gameState": "final",
+      "startDate": "03-28-2019",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "66717f69-7e0c-4a15-99e2-0a2cee02654d",
+      "away": {
+        "score": "63",
+        "names": {
+          "char6": "TXTECH",
+          "short": "Texas Tech",
+          "seo": "texas-tech",
+          "full": "Texas Tech University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(28-6)",
+        "rank": "9",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Michigan Texas Tech",
+      "url": "/game/3296562",
+      "network": "CBS",
+      "home": {
+        "score": "44",
+        "names": {
+          "char6": "MICH",
+          "short": "Michigan",
+          "seo": "michigan",
+          "full": "University of Michigan"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(30-6)",
+        "rank": "8",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:58PM ET",
+      "startTimeEpoch": "1553824680",
+      "bracketId": "404",
+      "gameState": "final",
+      "startDate": "03-28-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "838b17aa-0509-4678-9147-a25b3871074f",
+      "away": {
+        "score": "49",
+        "names": {
+          "char6": "OREGN",
+          "short": "Oregon",
+          "seo": "oregon",
+          "full": "University of Oregon"
+        },
+        "winner": false,
+        "seed": "12",
+        "description": "(25-12)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "Pac-12",
+            "conferenceSeo": "pac-12"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Virginia Oregon",
+      "url": "/game/3296574",
+      "network": "TBS",
+      "home": {
+        "score": "53",
+        "names": {
+          "char6": "UVA",
+          "short": "Virginia",
+          "seo": "virginia",
+          "full": "University of Virginia"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(31-3)",
+        "rank": "2",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:34PM ET",
+      "startTimeEpoch": "1553826840",
+      "bracketId": "405",
+      "gameState": "final",
+      "startDate": "03-28-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "58307436-a3d8-4363-bb18-31dcfa2196c8",
+      "away": {
+        "score": "63",
+        "names": {
+          "char6": "LSU",
+          "short": "LSU",
+          "seo": "lsu",
+          "full": "Louisiana State University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(28-6)",
+        "rank": "12",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Michigan St. LSU",
+      "url": "/game/3296573",
+      "network": "CBS",
+      "home": {
+        "score": "80",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(30-6)",
+        "rank": "5",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:09PM ET",
+      "startTimeEpoch": "1553900940",
+      "bracketId": "402",
+      "gameState": "final",
+      "startDate": "03-29-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "068d28e6-c090-4a7f-9754-067e2cad49c2",
+      "away": {
+        "score": "97",
+        "names": {
+          "char6": "AUBURN",
+          "short": "Auburn",
+          "seo": "auburn",
+          "full": "Auburn University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(28-9)",
+        "rank": "14",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "North Carolina Auburn",
+      "url": "/game/3296566",
+      "network": "TBS",
+      "home": {
+        "score": "80",
+        "names": {
+          "char6": "UNC",
+          "short": "North Carolina",
+          "seo": "north-carolina",
+          "full": "University of North Carolina, Chapel Hill"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(29-6)",
+        "rank": "3",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "07:29PM ET",
+      "startTimeEpoch": "1553902140",
+      "bracketId": "407",
+      "gameState": "final",
+      "startDate": "03-29-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "f07347bc-7ef1-4fde-b7cf-6ebd7940ba4a",
+      "away": {
+        "score": "73",
+        "names": {
+          "char6": "VT",
+          "short": "Virginia Tech",
+          "seo": "virginia-tech",
+          "full": "Virginia Polytechnic Institute and State University"
+        },
+        "winner": false,
+        "seed": "4",
+        "description": "(26-8)",
+        "rank": "16",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Duke Virginia Tech",
+      "url": "/game/3296559",
+      "network": "CBS",
+      "home": {
+        "score": "75",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(31-5)",
+        "rank": "",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:45PM ET",
+      "startTimeEpoch": "1553910300",
+      "bracketId": "401",
+      "gameState": "final",
+      "startDate": "03-29-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "eeced6f0-426e-405c-83e2-2fa66ba8ce0a",
+      "away": {
+        "score": "58",
+        "names": {
+          "char6": "HOU",
+          "short": "Houston",
+          "seo": "houston",
+          "full": "University of Houston"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(33-3)",
+        "rank": "11",
+        "conferences": [
+          {
+            "conferenceName": "AAC",
+            "conferenceSeo": "aac"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Sweet 16&#174;",
+      "title": "Kentucky Houston",
+      "url": "/game/3296576",
+      "network": "TBS",
+      "home": {
+        "score": "62",
+        "names": {
+          "char6": "UK",
+          "short": "Kentucky",
+          "seo": "kentucky",
+          "full": "University of Kentucky"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(29-6)",
+        "rank": "7",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "10:06PM ET",
+      "startTimeEpoch": "1553911560",
+      "bracketId": "408",
+      "gameState": "final",
+      "startDate": "03-29-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "2eb2df5b-d3ec-4e66-aad1-b0648fb1eb1a",
+      "away": {
+        "score": "75",
+        "names": {
+          "char6": "TXTECH",
+          "short": "Texas Tech",
+          "seo": "texas-tech",
+          "full": "Texas Tech University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(29-6)",
+        "rank": "9",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Elite Eight&#174;",
+      "title": "Gonzaga Texas Tech",
+      "url": "/game/3296532",
+      "network": "TBS",
+      "home": {
+        "score": "69",
+        "names": {
+          "char6": "GONZ",
+          "short": "Gonzaga",
+          "seo": "gonzaga",
+          "full": "Gonzaga University"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(33-3)",
+        "rank": "4",
+        "conferences": [
+          {
+            "conferenceName": "WCC",
+            "conferenceSeo": "wcc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1553983740",
+      "bracketId": "502",
+      "gameState": "final",
+      "startDate": "03-30-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "West",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "93228182-ea68-4f55-b5e8-1e6e02cab93a",
+      "away": {
+        "score": "75",
+        "names": {
+          "char6": "PURDUE",
+          "short": "Purdue",
+          "seo": "purdue",
+          "full": "Purdue University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(26-9)",
+        "rank": "13",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "Elite Eight&#174;",
+      "title": "Virginia Purdue",
+      "url": "/game/3296554",
+      "network": "TBS",
+      "home": {
+        "score": "80",
+        "names": {
+          "char6": "UVA",
+          "short": "Virginia",
+          "seo": "virginia",
+          "full": "University of Virginia"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(32-3)",
+        "rank": "2",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:49PM ET",
+      "startTimeEpoch": "1553993340",
+      "bracketId": "503",
+      "gameState": "final",
+      "startDate": "03-30-2019",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "South",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "f57832f2-dfa5-41cd-b194-8530592b1113",
+      "away": {
+        "score": "77",
+        "names": {
+          "char6": "AUBURN",
+          "short": "Auburn",
+          "seo": "auburn",
+          "full": "Auburn University"
+        },
+        "winner": true,
+        "seed": "5",
+        "description": "(29-9)",
+        "rank": "14",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "Elite Eight&#174;",
+      "title": "Kentucky Auburn",
+      "url": "/game/3296528",
+      "network": "CBS",
+      "home": {
+        "score": "71",
+        "names": {
+          "char6": "UK",
+          "short": "Kentucky",
+          "seo": "kentucky",
+          "full": "University of Kentucky"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(30-6)",
+        "rank": "7",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "02:20PM ET",
+      "startTimeEpoch": "1554056400",
+      "bracketId": "504",
+      "gameState": "final",
+      "startDate": "03-31-2019",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "Midwest",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "e232a2cf-154d-4620-8c57-0798b22a3ee8",
+      "away": {
+        "score": "68",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": true,
+        "seed": "2",
+        "description": "(31-6)",
+        "rank": "5",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "Elite Eight&#174;",
+      "title": "Duke Michigan St.",
+      "url": "/game/3296530",
+      "network": "CBS",
+      "home": {
+        "score": "67",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": false,
+        "seed": "1",
+        "description": "(32-5)",
+        "rank": "1",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "05:05PM ET",
+      "startTimeEpoch": "1554066300",
+      "bracketId": "501",
+      "gameState": "final",
+      "startDate": "03-31-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "East",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "36966dd9-1a58-417d-a17b-cf7d6dcd70b0",
+      "away": {
+        "score": "62",
+        "names": {
+          "char6": "AUBURN",
+          "short": "Auburn",
+          "seo": "auburn",
+          "full": "Auburn University"
+        },
+        "winner": false,
+        "seed": "5",
+        "description": "(30-9)",
+        "rank": "14",
+        "conferences": [
+          {
+            "conferenceName": "SEC",
+            "conferenceSeo": "sec"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FINAL FOUR&#174;",
+      "title": "Virginia Auburn",
+      "url": "/game/3296568",
+      "network": "CBS",
+      "home": {
+        "score": "63",
+        "names": {
+          "char6": "UVA",
+          "short": "Virginia",
+          "seo": "virginia",
+          "full": "University of Virginia"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(33-3)",
+        "rank": "2",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1554588540",
+      "bracketId": "602",
+      "gameState": "final",
+      "startDate": "04-06-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "fd26d679-fa43-47cb-9db4-f6bc6d7fb454",
+      "away": {
+        "score": "61",
+        "names": {
+          "char6": "TXTECH",
+          "short": "Texas Tech",
+          "seo": "texas-tech",
+          "full": "Texas Tech University"
+        },
+        "winner": true,
+        "seed": "3",
+        "description": "(30-6)",
+        "rank": "9",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "FINAL FOUR&#174;",
+      "title": "Michigan St. Texas Tech",
+      "url": "/game/3296513",
+      "network": "CBS",
+      "home": {
+        "score": "51",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": false,
+        "seed": "2",
+        "description": "(32-6)",
+        "rank": "5",
+        "conferences": [
+          {
+            "conferenceName": "Big Ten",
+            "conferenceSeo": "big-ten"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "08:49PM ET",
+      "startTimeEpoch": "1554598140",
+      "bracketId": "601",
+      "gameState": "final",
+      "startDate": "04-06-2019",
+      "currentPeriod": "FINAL",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  },
+  {
+    "game": {
+      "gameID": "0ccfff1a-9a39-48dc-a31d-4fde1c5e5348",
+      "away": {
+        "score": "77",
+        "names": {
+          "char6": "TXTECH",
+          "short": "Texas Tech",
+          "seo": "texas-tech",
+          "full": "Texas Tech University"
+        },
+        "winner": false,
+        "seed": "3",
+        "description": "(31-8)",
+        "rank": "9",
+        "conferences": [
+          {
+            "conferenceName": "Big 12",
+            "conferenceSeo": "big-12"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "finalMessage": "FINAL (OT)",
+      "bracketRound": "Championship",
+      "title": "Virginia Texas Tech",
+      "url": "/game/3296557",
+      "network": "CBS",
+      "home": {
+        "score": "85",
+        "names": {
+          "char6": "UVA",
+          "short": "Virginia",
+          "seo": "virginia",
+          "full": "University of Virginia"
+        },
+        "winner": true,
+        "seed": "1",
+        "description": "(36-3)",
+        "rank": "2",
+        "conferences": [
+          {
+            "conferenceName": "ACC",
+            "conferenceSeo": "acc"
+          },
+          {
+            "conferenceName": "Top 25",
+            "conferenceSeo": "top-25"
+          }
+        ]
+      },
+      "liveVideoEnabled": true,
+      "startTime": "09:20PM ET",
+      "startTimeEpoch": "1554772800",
+      "bracketId": "701",
+      "gameState": "final",
+      "startDate": "04-08-2019",
+      "currentPeriod": "FINAL (OT)",
+      "videoState": "final",
+      "bracketRegion": "",
+      "contestClock": "0:00"
+    }
+  }
+]

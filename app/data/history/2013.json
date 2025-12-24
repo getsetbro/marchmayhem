@@ -1,0 +1,3656 @@
+[
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Horizon League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Horizon",
+          "conferenceSeo": "horizon"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "VALPO",
+          "full": "Valparaiso University",
+          "seo": "valparaiso",
+          "short": "Valparaiso"
+        },
+        "rank": "",
+        "score": "54",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "206",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICHST",
+          "full": "Michigan State University",
+          "seo": "michigan-st",
+          "short": "Michigan St."
+        },
+        "rank": "9",
+        "score": "65",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-21-2013",
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1363882500",
+      "title": "Michigan St. Valparaiso",
+      "url": "/game/basketball-men/d1/2013/03/21/valparaiso-michigan-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Patriot League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Patriot League",
+          "conferenceSeo": "patriot"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "BUCKNL",
+          "full": "Bucknell University",
+          "seo": "bucknell",
+          "short": "Bucknell"
+        },
+        "rank": "",
+        "score": "56",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "229",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "",
+        "score": "68",
+        "seed": "6",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-21-2013",
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1363884000",
+      "title": "Butler Bucknell",
+      "url": "/game/basketball-men/d1/2013/03/21/bucknell-butler",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "WICHST",
+          "full": "Wichita State University",
+          "seo": "wichita-st",
+          "short": "Wichita St."
+        },
+        "rank": "",
+        "score": "73",
+        "seed": "9",
+        "winner": true
+      },
+      "bracketId": "210",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "PITT",
+          "full": "University of Pittsburgh",
+          "seo": "pittsburgh",
+          "short": "Pittsburgh"
+        },
+        "rank": "20",
+        "score": "55",
+        "seed": "8",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-21-2013",
+      "startTime": "01:40PM ET",
+      "startTimeEpoch": "1363887600",
+      "title": "Pittsburgh Wichita St.",
+      "url": "/game/basketball-men/d1/2013/03/21/wichita-st-pittsburgh",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Western Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "WAC",
+          "conferenceSeo": "western-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "NM ST",
+          "full": "New Mexico State University",
+          "seo": "new-mexico-st",
+          "short": "New Mexico St."
+        },
+        "rank": "",
+        "score": "44",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "204",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "ST LOU",
+          "full": "Saint Louis University",
+          "seo": "saint-louis",
+          "short": "Saint Louis"
+        },
+        "rank": "13",
+        "score": "64",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-21-2013",
+      "startTime": "02:10PM ET",
+      "startTimeEpoch": "1363889400",
+      "title": "Saint Louis New Mexico St.",
+      "url": "/game/basketball-men/d1/2013/03/21/new-mexico-st-saint-louis",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "STMARY",
+          "full": "St. Mary's College of California",
+          "seo": "st-marys-ca",
+          "short": "St. Mary's (CA)"
+        },
+        "rank": "",
+        "score": "52",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "205",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MEM",
+          "full": "University of Memphis",
+          "seo": "memphis",
+          "short": "Memphis"
+        },
+        "rank": "19",
+        "score": "54",
+        "seed": "6",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-21-2013",
+      "startTime": "02:47PM ET",
+      "startTimeEpoch": "1363891620",
+      "title": "Memphis St. Mary's (CA)",
+      "url": "/game/basketball-men/d1/2013/03/21/st-marys-ca-memphis",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "DAVID",
+          "full": "Davidson College",
+          "seo": "davidson",
+          "short": "Davidson"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "230",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MARQ",
+          "full": "Marquette University",
+          "seo": "marquette",
+          "short": "Marquette"
+        },
+        "rank": "15",
+        "score": "59",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-21-2013",
+      "startTime": "03:17PM ET",
+      "startTimeEpoch": "1363893420",
+      "title": "Marquette Davidson",
+      "url": "/game/basketball-men/d1/2013/03/21/davidson-marquette",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southwestern Athletic Conf.",
+          "conferenceDivision": "d1",
+          "conferenceName": "SWAC",
+          "conferenceSeo": "southwestern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SOUTHR",
+          "full": "Southern University, Baton Rouge",
+          "seo": "southern-u",
+          "short": "Southern U."
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "209",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "1",
+        "score": "64",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-21-2013",
+      "startTime": "04:45PM ET",
+      "startTimeEpoch": "1363898700",
+      "title": "Gonzaga Southern U.",
+      "url": "/game/basketball-men/d1/2013/03/21/southern-u-gonzaga",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OREGN",
+          "full": "University of Oregon",
+          "seo": "oregon",
+          "short": "Oregon"
+        },
+        "rank": "25",
+        "score": "68",
+        "seed": "12",
+        "winner": true
+      },
+      "bracketId": "203",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OKLAST",
+          "full": "Oklahoma State University",
+          "seo": "oklahoma-st",
+          "short": "Oklahoma St."
+        },
+        "rank": "17",
+        "score": "55",
+        "seed": "5",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-21-2013",
+      "startTime": "04:49PM ET",
+      "startTimeEpoch": "1363898940",
+      "title": "Oklahoma St. Oregon",
+      "url": "/game/basketball-men/d1/2013/03/21/oregon-oklahoma-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mid-Eastern Athletic Conf.",
+          "conferenceDivision": "d1",
+          "conferenceName": "MEAC",
+          "conferenceSeo": "mid-eastern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "NC A&T",
+          "full": "North Carolina A&T State University",
+          "seo": "nc-at",
+          "short": "N.C. A&T"
+        },
+        "rank": "",
+        "score": "48",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "201",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "2",
+        "score": "79",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-21-2013",
+      "startTime": "07:00PM ET",
+      "startTimeEpoch": "1363906800",
+      "title": "Louisville N.C. A&T",
+      "url": "/game/basketball-men/d1/2013/03/21/nc-at-louisville",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "The Summit League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Summit",
+          "conferenceSeo": "summit"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SDAKST",
+          "full": "South Dakota State University",
+          "seo": "south-dakota-st",
+          "short": "South Dakota St."
+        },
+        "rank": "",
+        "score": "56",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "220",
+      "bracketRegion": "South",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "10",
+        "score": "71",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-21-2013",
+      "startTime": "07:15PM ET",
+      "startTimeEpoch": "1363907700",
+      "title": "Michigan South Dakota St.",
+      "url": "/game/basketball-men/d1/2013/03/21/south-dakota-st-michigan",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Ohio Valley Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Ohio Valley",
+          "conferenceSeo": "ovc"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "BELMNT",
+          "full": "Belmont University",
+          "seo": "belmont",
+          "short": "Belmont"
+        },
+        "rank": "",
+        "score": "64",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "213",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "21",
+        "score": "81",
+        "seed": "6",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-21-2013",
+      "startTime": "07:30PM ET",
+      "startTimeEpoch": "1363908600",
+      "title": "Arizona Belmont",
+      "url": "/game/basketball-men/d1/2013/03/21/belmont-arizona",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "CAL",
+          "full": "University of California, Berkeley",
+          "seo": "california",
+          "short": "California"
+        },
+        "rank": "",
+        "score": "64",
+        "seed": "12",
+        "winner": true
+      },
+      "bracketId": "227",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mountain West Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MWC",
+          "conferenceSeo": "mountain-west"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "UNLV",
+          "full": "University of Nevada, Las Vegas",
+          "seo": "unlv",
+          "short": "UNLV"
+        },
+        "rank": "",
+        "score": "61",
+        "seed": "5",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-21-2013",
+      "startTime": "07:45PM ET",
+      "startTimeEpoch": "1363909500",
+      "title": "UNLV California",
+      "url": "/game/basketball-men/d1/2013/03/21/california-unlv",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mid-American Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MAC",
+          "conferenceSeo": "mid-american"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "AKRON",
+          "full": "University of Akron",
+          "seo": "akron",
+          "short": "Akron"
+        },
+        "rank": "",
+        "score": "42",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "219",
+      "bracketRegion": "South",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "VCU",
+          "full": "Virginia Commonwealth University",
+          "seo": "vcu",
+          "short": "VCU"
+        },
+        "rank": "",
+        "score": "88",
+        "seed": "5",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-21-2013",
+      "startTime": "09:36PM ET",
+      "startTimeEpoch": "1363916160",
+      "title": "VCU Akron",
+      "url": "/game/basketball-men/d1/2013/03/21/akron-vcu",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MIZZOU",
+          "full": "University of Missouri, Columbia",
+          "seo": "missouri",
+          "short": "Missouri"
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "202",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mountain West Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MWC",
+          "conferenceSeo": "mountain-west"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "CO ST",
+          "full": "Colorado State University",
+          "seo": "colorado-st",
+          "short": "Colorado St."
+        },
+        "rank": "",
+        "score": "84",
+        "seed": "8",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-21-2013",
+      "startTime": "09:36PM ET",
+      "startTimeEpoch": "1363916160",
+      "title": "Colorado St. Missouri",
+      "url": "/game/basketball-men/d1/2013/03/21/missouri-colorado-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "The Ivy League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Ivy League",
+          "conferenceSeo": "ivy"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "HARV",
+          "full": "Harvard University",
+          "seo": "harvard",
+          "short": "Harvard"
+        },
+        "rank": "",
+        "score": "68",
+        "seed": "14",
+        "winner": true
+      },
+      "bracketId": "214",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mountain West Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MWC",
+          "conferenceSeo": "mountain-west"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "N MEX",
+          "full": "University of New Mexico",
+          "seo": "new-mexico",
+          "short": "New Mexico"
+        },
+        "rank": "10",
+        "score": "62",
+        "seed": "3",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-21-2013",
+      "startTime": "10:12PM ET",
+      "startTimeEpoch": "1363918320",
+      "title": "New Mexico Harvard",
+      "url": "/game/basketball-men/d1/2013/03/21/harvard-new-mexico",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Sky Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Sky",
+          "conferenceSeo": "big-sky"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MONT",
+          "full": "University of Montana",
+          "seo": "montana",
+          "short": "Montana"
+        },
+        "rank": "",
+        "score": "34",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "228",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SYR",
+          "full": "Syracuse University",
+          "seo": "syracuse",
+          "short": "Syracuse"
+        },
+        "rank": "16",
+        "score": "81",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-21-2013",
+      "startTime": "10:41PM ET",
+      "startTimeEpoch": "1363920060",
+      "title": "Syracuse Montana",
+      "url": "/game/basketball-men/d1/2013/03/21/montana-syracuse",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "America East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "ALBANY",
+          "full": "University at Albany",
+          "seo": "albany-ny",
+          "short": "Albany (NY)"
+        },
+        "rank": "",
+        "score": "61",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "208",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "6",
+        "score": "73",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-22-2013",
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1363968900",
+      "title": "Duke Albany (NY)",
+      "url": "/game/basketball-men/d1/2013/03/22/albany-ny-duke",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MISS",
+          "full": "University of Mississippi",
+          "seo": "ole-miss",
+          "short": "Ole Miss"
+        },
+        "rank": "",
+        "score": "57",
+        "seed": "12",
+        "winner": true
+      },
+      "bracketId": "211",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "WISC",
+          "full": "University of Wisconsin, Madison",
+          "seo": "wisconsin",
+          "short": "Wisconsin"
+        },
+        "rank": "18",
+        "score": "46",
+        "seed": "5",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-22-2013",
+      "startTime": "12:40PM ET",
+      "startTimeEpoch": "1363970400",
+      "title": "Wisconsin Ole Miss",
+      "url": "/game/basketball-men/d1/2013/03/22/ole-miss-wisconsin",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "TEMPLE",
+          "full": "Temple University",
+          "seo": "temple",
+          "short": "Temple"
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "9",
+        "winner": true
+      },
+      "bracketId": "226",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "NC ST",
+          "full": "North Carolina State University",
+          "seo": "north-carolina-st",
+          "short": "North Carolina St."
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "8",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-22-2013",
+      "startTime": "01:40PM ET",
+      "startTimeEpoch": "1363974000",
+      "title": "North Carolina St. Temple",
+      "url": "/game/basketball-men/d1/2013/03/22/temple-north-carolina-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "PACIF",
+          "full": "University of the Pacific",
+          "seo": "pacific",
+          "short": "Pacific"
+        },
+        "rank": "",
+        "score": "49",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "232",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MIAMI",
+          "full": "University of Miami (Florida)",
+          "seo": "miami-fl",
+          "short": "Miami (FL)"
+        },
+        "rank": "5",
+        "score": "78",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-22-2013",
+      "startTime": "02:10PM ET",
+      "startTimeEpoch": "1363975800",
+      "title": "Miami (FL) Pacific",
+      "url": "/game/basketball-men/d1/2013/03/22/pacific-miami-fl",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "CINCY",
+          "full": "University of Cincinnati",
+          "seo": "cincinnati",
+          "short": "Cincinnati"
+        },
+        "rank": "",
+        "score": "63",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "207",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "CREIGH",
+          "full": "Creighton University",
+          "seo": "creighton",
+          "short": "Creighton"
+        },
+        "rank": "22",
+        "score": "67",
+        "seed": "7",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-22-2013",
+      "startTime": "03:00PM ET",
+      "startTimeEpoch": "1363978800",
+      "title": "Creighton Cincinnati",
+      "url": "/game/basketball-men/d1/2013/03/22/cincinnati-creighton",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "LASALL",
+          "full": "La Salle University",
+          "seo": "la-salle",
+          "short": "La Salle"
+        },
+        "rank": "",
+        "score": "63",
+        "seed": "13",
+        "winner": true
+      },
+      "bracketId": "212",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "KAN ST",
+          "full": "Kansas State University",
+          "seo": "kansas-st",
+          "short": "Kansas St."
+        },
+        "rank": "12",
+        "score": "61",
+        "seed": "4",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-22-2013",
+      "startTime": "03:15PM ET",
+      "startTimeEpoch": "1363979700",
+      "title": "Kansas St. La Salle",
+      "url": "/game/basketball-men/d1/2013/03/22/la-salle-kansas-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Colonial Athletic Association",
+          "conferenceDivision": "d1",
+          "conferenceName": "CAA",
+          "conferenceSeo": "colonial"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "JMU",
+          "full": "James Madison University",
+          "seo": "james-madison",
+          "short": "James Madison"
+        },
+        "rank": "",
+        "score": "62",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "225",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "IND",
+          "full": "Indiana University, Bloomington",
+          "seo": "indiana",
+          "short": "Indiana"
+        },
+        "rank": "",
+        "score": "83",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-22-2013",
+      "startTime": "04:22PM ET",
+      "startTimeEpoch": "1363983720",
+      "title": "Indiana James Madison",
+      "url": "/game/basketball-men/d1/2013/03/22/james-madison-indiana",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "COLO",
+          "full": "University of Colorado, Boulder",
+          "seo": "colorado",
+          "short": "Colorado"
+        },
+        "rank": "",
+        "score": "49",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "231",
+      "bracketRegion": "East",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "ILL",
+          "full": "University of Illinois, Champaign",
+          "seo": "illinois",
+          "short": "Illinois"
+        },
+        "rank": "",
+        "score": "57",
+        "seed": "7",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-22-2013",
+      "startTime": "04:44PM ET",
+      "startTimeEpoch": "1363985040",
+      "title": "Illinois Colorado",
+      "url": "/game/basketball-men/d1/2013/03/22/colorado-illinois",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Sun Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic Sun",
+          "conferenceSeo": "atlantic-sun"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "FGCU",
+          "full": "Florida Gulf Coast University",
+          "seo": "fgcu",
+          "short": "FGCU"
+        },
+        "rank": "",
+        "score": "78",
+        "seed": "15",
+        "winner": true
+      },
+      "bracketId": "224",
+      "bracketRegion": "South",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "GTOWN",
+          "full": "Georgetown University",
+          "seo": "georgetown",
+          "short": "Georgetown"
+        },
+        "rank": "8",
+        "score": "68",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-22-2013",
+      "startTime": "06:50PM ET",
+      "startTimeEpoch": "1363992600",
+      "title": "Georgetown FGCU",
+      "url": "/game/basketball-men/d1/2013/03/22/fgcu-georgetown",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Metro Atlantic Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Metro Atlantic",
+          "conferenceSeo": "metro-atlantic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "IONA",
+          "full": "Iona College",
+          "seo": "iona",
+          "short": "Iona"
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "216",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OHIOST",
+          "full": "The Ohio State University",
+          "seo": "ohio-st",
+          "short": "Ohio St."
+        },
+        "rank": "7",
+        "score": "95",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-22-2013",
+      "startTime": "07:15PM ET",
+      "startTimeEpoch": "1363994100",
+      "title": "Ohio St. Iona",
+      "url": "/game/basketball-men/d1/2013/03/22/iona-ohio-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "NOVA",
+          "full": "Villanova University",
+          "seo": "villanova",
+          "short": "Villanova"
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "218",
+      "bracketRegion": "South",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "",
+        "score": "78",
+        "seed": "8",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-22-2013",
+      "startTime": "07:20PM ET",
+      "startTimeEpoch": "1363994400",
+      "title": "North Carolina Villanova",
+      "url": "/game/basketball-men/d1/2013/03/22/villanova-north-carolina",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southland Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Southland",
+          "conferenceSeo": "southland"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "NW ST",
+          "full": "Northwestern State University",
+          "seo": "northwestern-st",
+          "short": "Northwestern St."
+        },
+        "rank": "",
+        "score": "47",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "222",
+      "bracketRegion": "South",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "14",
+        "score": "79",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-22-2013",
+      "startTime": "07:40PM ET",
+      "startTimeEpoch": "1363995600",
+      "title": "Florida Northwestern St.",
+      "url": "/game/basketball-men/d1/2013/03/22/northwestern-st-florida",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OKLA",
+          "full": "University of Oklahoma",
+          "seo": "oklahoma",
+          "short": "Oklahoma"
+        },
+        "rank": "",
+        "score": "55",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "223",
+      "bracketRegion": "South",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mountain West Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MWC",
+          "conferenceSeo": "mountain-west"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SDSU",
+          "full": "San Diego State University",
+          "seo": "san-diego-st",
+          "short": "San Diego St."
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "7",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-22-2013",
+      "startTime": "09:48PM ET",
+      "startTimeEpoch": "1364003280",
+      "title": "San Diego St. Oklahoma",
+      "url": "/game/basketball-men/d1/2013/03/22/oklahoma-san-diego-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "IOWAST",
+          "full": "Iowa State University",
+          "seo": "iowa-st",
+          "short": "Iowa St."
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "10",
+        "winner": true
+      },
+      "bracketId": "215",
+      "bracketRegion": "West",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "N DAME",
+          "full": "University of Notre Dame",
+          "seo": "notre-dame",
+          "short": "Notre Dame"
+        },
+        "rank": "23",
+        "score": "58",
+        "seed": "7",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-22-2013",
+      "startTime": "09:59PM ET",
+      "startTimeEpoch": "1364003940",
+      "title": "Notre Dame Iowa St.",
+      "url": "/game/basketball-men/d1/2013/03/22/iowa-st-notre-dame",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Conference USA",
+          "conferenceDivision": "d1",
+          "conferenceName": "C-USA",
+          "conferenceSeo": "conference-usa"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "W KY",
+          "full": "Western Kentucky University",
+          "seo": "western-ky",
+          "short": "Western Ky."
+        },
+        "rank": "",
+        "score": "57",
+        "seed": "16",
+        "winner": false
+      },
+      "bracketId": "217",
+      "bracketRegion": "South",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "3",
+        "score": "64",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-22-2013",
+      "startTime": "10:07PM ET",
+      "startTimeEpoch": "1364004420",
+      "title": "Kansas Western Ky.",
+      "url": "/game/basketball-men/d1/2013/03/22/western-ky-kansas",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MINN",
+          "full": "University of Minnesota, Twin Cities",
+          "seo": "minnesota",
+          "short": "Minnesota"
+        },
+        "rank": "",
+        "score": "83",
+        "seed": "11",
+        "winner": true
+      },
+      "bracketId": "221",
+      "bracketRegion": "South",
+      "bracketRound": "Second Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "UCLA",
+          "full": "University of California, Los Angeles",
+          "seo": "ucla",
+          "short": "UCLA"
+        },
+        "rank": "24",
+        "score": "63",
+        "seed": "6",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-22-2013",
+      "startTime": "10:20PM ET",
+      "startTimeEpoch": "1364005200",
+      "title": "UCLA Minnesota",
+      "url": "/game/basketball-men/d1/2013/03/22/minnesota-ucla",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "VCU",
+          "full": "Virginia Commonwealth University",
+          "seo": "vcu",
+          "short": "VCU"
+        },
+        "rank": "",
+        "score": "53",
+        "seed": "5",
+        "winner": false
+      },
+      "bracketId": "310",
+      "bracketRegion": "South",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "10",
+        "score": "78",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-23-2013",
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1364055300",
+      "title": "Michigan VCU",
+      "url": "/game/basketball-men/d1/2013/03/23/vcu-michigan",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MEM",
+          "full": "University of Memphis",
+          "seo": "memphis",
+          "short": "Memphis"
+        },
+        "rank": "19",
+        "score": "48",
+        "seed": "6",
+        "winner": false
+      },
+      "bracketId": "303",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICHST",
+          "full": "Michigan State University",
+          "seo": "michigan-st",
+          "short": "Michigan St."
+        },
+        "rank": "9",
+        "score": "70",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-23-2013",
+      "startTime": "02:45PM ET",
+      "startTimeEpoch": "1364064300",
+      "title": "Michigan St. Memphis",
+      "url": "/game/basketball-men/d1/2013/03/23/memphis-michigan-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mountain West Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MWC",
+          "conferenceSeo": "mountain-west"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "CO ST",
+          "full": "Colorado State University",
+          "seo": "colorado-st",
+          "short": "Colorado St."
+        },
+        "rank": "",
+        "score": "56",
+        "seed": "8",
+        "winner": false
+      },
+      "bracketId": "301",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "2",
+        "score": "82",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-23-2013",
+      "startTime": "05:20PM ET",
+      "startTimeEpoch": "1364073600",
+      "title": "Louisville Colorado St.",
+      "url": "/game/basketball-men/d1/2013/03/23/colorado-st-louisville",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "The Ivy League",
+          "conferenceDivision": "d1",
+          "conferenceName": "Ivy League",
+          "conferenceSeo": "ivy"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "HARV",
+          "full": "Harvard University",
+          "seo": "harvard",
+          "short": "Harvard"
+        },
+        "rank": "",
+        "score": "51",
+        "seed": "14",
+        "winner": false
+      },
+      "bracketId": "307",
+      "bracketRegion": "West",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "21",
+        "score": "74",
+        "seed": "6",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-23-2013",
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1364076600",
+      "title": "Arizona Harvard",
+      "url": "/game/basketball-men/d1/2013/03/23/harvard-arizona",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OREGN",
+          "full": "University of Oregon",
+          "seo": "oregon",
+          "short": "Oregon"
+        },
+        "rank": "25",
+        "score": "74",
+        "seed": "12",
+        "winner": true
+      },
+      "bracketId": "302",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "ST LOU",
+          "full": "Saint Louis University",
+          "seo": "saint-louis",
+          "short": "Saint Louis"
+        },
+        "rank": "13",
+        "score": "57",
+        "seed": "4",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-23-2013",
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1364080200",
+      "title": "Saint Louis Oregon",
+      "url": "/game/basketball-men/d1/2013/03/23/oregon-saint-louis",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "BUTLER",
+          "full": "Butler University",
+          "seo": "butler",
+          "short": "Butler"
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "6",
+        "winner": false
+      },
+      "bracketId": "315",
+      "bracketRegion": "East",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MARQ",
+          "full": "Marquette University",
+          "seo": "marquette",
+          "short": "Marquette"
+        },
+        "rank": "15",
+        "score": "74",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-23-2013",
+      "startTime": "08:03PM ET",
+      "startTimeEpoch": "1364083380",
+      "title": "Marquette Butler",
+      "url": "/game/basketball-men/d1/2013/03/23/butler-marquette",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "WICHST",
+          "full": "Wichita State University",
+          "seo": "wichita-st",
+          "short": "Wichita St."
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "9",
+        "winner": true
+      },
+      "bracketId": "305",
+      "bracketRegion": "West",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "West Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "West Coast",
+          "conferenceSeo": "west-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "GONZ",
+          "full": "Gonzaga University",
+          "seo": "gonzaga",
+          "short": "Gonzaga"
+        },
+        "rank": "1",
+        "score": "70",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-23-2013",
+      "startTime": "08:45PM ET",
+      "startTimeEpoch": "1364085900",
+      "title": "Gonzaga Wichita St.",
+      "url": "/game/basketball-men/d1/2013/03/23/wichita-st-gonzaga",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "CAL",
+          "full": "University of California, Berkeley",
+          "seo": "california",
+          "short": "California"
+        },
+        "rank": "",
+        "score": "60",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "314",
+      "bracketRegion": "East",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SYR",
+          "full": "Syracuse University",
+          "seo": "syracuse",
+          "short": "Syracuse"
+        },
+        "rank": "16",
+        "score": "66",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-23-2013",
+      "startTime": "09:50PM ET",
+      "startTimeEpoch": "1364089800",
+      "title": "Syracuse California",
+      "url": "/game/basketball-men/d1/2013/03/23/california-syracuse",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "IOWAST",
+          "full": "Iowa State University",
+          "seo": "iowa-st",
+          "short": "Iowa St."
+        },
+        "rank": "",
+        "score": "75",
+        "seed": "10",
+        "winner": false
+      },
+      "bracketId": "308",
+      "bracketRegion": "West",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OHIOST",
+          "full": "The Ohio State University",
+          "seo": "ohio-st",
+          "short": "Ohio St."
+        },
+        "rank": "7",
+        "score": "78",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-24-2013",
+      "startTime": "12:15PM ET",
+      "startTimeEpoch": "1364141700",
+      "title": "Ohio St. Iowa St.",
+      "url": "/game/basketball-men/d1/2013/03/24/iowa-st-ohio-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "TEMPLE",
+          "full": "Temple University",
+          "seo": "temple",
+          "short": "Temple"
+        },
+        "rank": "",
+        "score": "52",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "313",
+      "bracketRegion": "East",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "IND",
+          "full": "Indiana University, Bloomington",
+          "seo": "indiana",
+          "short": "Indiana"
+        },
+        "rank": "4",
+        "score": "58",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-24-2013",
+      "startTime": "03:06PM ET",
+      "startTimeEpoch": "1364151960",
+      "title": "Indiana Temple",
+      "url": "/game/basketball-men/d1/2013/03/24/temple-indiana",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "UNC",
+          "full": "University of North Carolina, Chapel Hill",
+          "seo": "north-carolina",
+          "short": "North Carolina"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "8",
+        "winner": false
+      },
+      "bracketId": "309",
+      "bracketRegion": "South",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "3",
+        "score": "70",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-24-2013",
+      "startTime": "05:25PM ET",
+      "startTimeEpoch": "1364160300",
+      "title": "Kansas North Carolina",
+      "url": "/game/basketball-men/d1/2013/03/24/north-carolina-kansas",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MINN",
+          "full": "University of Minnesota, Twin Cities",
+          "seo": "minnesota",
+          "short": "Minnesota"
+        },
+        "rank": "",
+        "score": "64",
+        "seed": "11",
+        "winner": false
+      },
+      "bracketId": "311",
+      "bracketRegion": "South",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "14",
+        "score": "78",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-24-2013",
+      "startTime": "06:10PM ET",
+      "startTimeEpoch": "1364163000",
+      "title": "Florida Minnesota",
+      "url": "/game/basketball-men/d1/2013/03/24/minnesota-florida",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Sun Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic Sun",
+          "conferenceSeo": "atlantic-sun"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "FGCU",
+          "full": "Florida Gulf Coast University",
+          "seo": "fgcu",
+          "short": "FGCU"
+        },
+        "rank": "",
+        "score": "81",
+        "seed": "15",
+        "winner": true
+      },
+      "bracketId": "312",
+      "bracketRegion": "South",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Mountain West Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "MWC",
+          "conferenceSeo": "mountain-west"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SDSU",
+          "full": "San Diego State University",
+          "seo": "san-diego-st",
+          "short": "San Diego St."
+        },
+        "rank": "",
+        "score": "71",
+        "seed": "7",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-24-2013",
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1364166600",
+      "title": "San Diego St. FGCU",
+      "url": "/game/basketball-men/d1/2013/03/24/fgcu-san-diego-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "LASALL",
+          "full": "La Salle University",
+          "seo": "la-salle",
+          "short": "La Salle"
+        },
+        "rank": "",
+        "score": "76",
+        "seed": "13",
+        "winner": true
+      },
+      "bracketId": "306",
+      "bracketRegion": "West",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MISS",
+          "full": "University of Mississippi",
+          "seo": "ole-miss",
+          "short": "Ole Miss"
+        },
+        "rank": "",
+        "score": "74",
+        "seed": "12",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "truTV",
+      "startDate": "03-24-2013",
+      "startTime": "08:09PM ET",
+      "startTimeEpoch": "1364170140",
+      "title": "Ole Miss La Salle",
+      "url": "/game/basketball-men/d1/2013/03/24/la-salle-ole-miss",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "ILL",
+          "full": "University of Illinois, Champaign",
+          "seo": "illinois",
+          "short": "Illinois"
+        },
+        "rank": "",
+        "score": "59",
+        "seed": "7",
+        "winner": false
+      },
+      "bracketId": "316",
+      "bracketRegion": "East",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MIAMI",
+          "full": "University of Miami (Florida)",
+          "seo": "miami-fl",
+          "short": "Miami (FL)"
+        },
+        "rank": "5",
+        "score": "63",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TNT",
+      "startDate": "03-24-2013",
+      "startTime": "09:04PM ET",
+      "startTimeEpoch": "1364173440",
+      "title": "Miami (FL) Illinois",
+      "url": "/game/basketball-men/d1/2013/03/24/illinois-miami-fl",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "CREIGH",
+          "full": "Creighton University",
+          "seo": "creighton",
+          "short": "Creighton"
+        },
+        "rank": "22",
+        "score": "50",
+        "seed": "7",
+        "winner": false
+      },
+      "bracketId": "304",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Third Round",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "6",
+        "score": "66",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-24-2013",
+      "startTime": "09:47PM ET",
+      "startTimeEpoch": "1364176020",
+      "title": "Duke Creighton",
+      "url": "/game/basketball-men/d1/2013/03/24/creighton-duke",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MARQ",
+          "full": "Marquette University",
+          "seo": "marquette",
+          "short": "Marquette"
+        },
+        "rank": "15",
+        "score": "71",
+        "seed": "3",
+        "winner": true
+      },
+      "bracketId": "408",
+      "bracketRegion": "East",
+      "bracketRound": "NCAA Sweet Sixteen",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MIAMI",
+          "full": "University of Miami (Florida)",
+          "seo": "miami-fl",
+          "short": "Miami (FL)"
+        },
+        "rank": "5",
+        "score": "61",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-28-2013",
+      "startTime": "07:15PM ET",
+      "startTimeEpoch": "1364512500",
+      "title": "Miami (FL) Marquette",
+      "url": "/game/basketball-men/d1/2013/03/28/marquette-miami-fl",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "ARIZ",
+          "full": "University of Arizona",
+          "seo": "arizona",
+          "short": "Arizona"
+        },
+        "rank": "21",
+        "score": "70",
+        "seed": "6",
+        "winner": false
+      },
+      "bracketId": "404",
+      "bracketRegion": "West",
+      "bracketRound": "NCAA Sweet Sixteen",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OHIOST",
+          "full": "The Ohio State University",
+          "seo": "ohio-st",
+          "short": "Ohio St."
+        },
+        "rank": "7",
+        "score": "73",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-28-2013",
+      "startTime": "07:47PM ET",
+      "startTimeEpoch": "1364514420",
+      "title": "Ohio St. Arizona",
+      "url": "/game/basketball-men/d1/2013/03/28/arizona-ohio-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SYR",
+          "full": "Syracuse University",
+          "seo": "syracuse",
+          "short": "Syracuse"
+        },
+        "rank": "16",
+        "score": "61",
+        "seed": "4",
+        "winner": true
+      },
+      "bracketId": "407",
+      "bracketRegion": "East",
+      "bracketRound": "NCAA Sweet Sixteen",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "IND",
+          "full": "Indiana University, Bloomington",
+          "seo": "indiana",
+          "short": "Indiana"
+        },
+        "rank": "4",
+        "score": "50",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-28-2013",
+      "startTime": "09:52PM ET",
+      "startTimeEpoch": "1364521920",
+      "title": "Indiana Syracuse",
+      "url": "/game/basketball-men/d1/2013/03/28/syracuse-indiana",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic 10 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "LASALL",
+          "full": "La Salle University",
+          "seo": "la-salle",
+          "short": "La Salle"
+        },
+        "rank": "",
+        "score": "58",
+        "seed": "13",
+        "winner": false
+      },
+      "bracketId": "403",
+      "bracketRegion": "West",
+      "bracketRound": "NCAA Sweet Sixteen",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "WICHST",
+          "full": "Wichita State University",
+          "seo": "wichita-st",
+          "short": "Wichita St."
+        },
+        "rank": "",
+        "score": "72",
+        "seed": "9",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-28-2013",
+      "startTime": "10:34PM ET",
+      "startTimeEpoch": "1364524440",
+      "title": "Wichita St. La Salle",
+      "url": "/game/basketball-men/d1/2013/03/28/la-salle-wichita-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Pac-12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Pac-12",
+          "conferenceSeo": "pac-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OREGN",
+          "full": "University of Oregon",
+          "seo": "oregon",
+          "short": "Oregon"
+        },
+        "rank": "25",
+        "score": "69",
+        "seed": "12",
+        "winner": false
+      },
+      "bracketId": "401",
+      "bracketRegion": "Midwest",
+      "bracketRound": "NCAA Sweet Sixteen",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "2",
+        "score": "77",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-29-2013",
+      "startTime": "07:15PM ET",
+      "startTimeEpoch": "1364598900",
+      "title": "Louisville Oregon",
+      "url": "/game/basketball-men/d1/2013/03/29/oregon-louisville",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "10",
+        "score": "87",
+        "seed": "4",
+        "winner": true
+      },
+      "bracketId": "405",
+      "bracketRegion": "South",
+      "bracketRound": "NCAA Sweet Sixteen",
+      "contestClock": "0:00",
+      "currentPeriod": "Final/OT",
+      "finalMessage": "Final/OT",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big 12 Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big 12",
+          "conferenceSeo": "big-12"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "KANSAS",
+          "full": "University of Kansas",
+          "seo": "kansas",
+          "short": "Kansas"
+        },
+        "rank": "3",
+        "score": "85",
+        "seed": "1",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-29-2013",
+      "startTime": "07:37PM ET",
+      "startTimeEpoch": "1364600220",
+      "title": "Kansas Michigan",
+      "url": "/game/basketball-men/d1/2013/03/29/michigan-kansas",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICHST",
+          "full": "Michigan State University",
+          "seo": "michigan-st",
+          "short": "Michigan St."
+        },
+        "rank": "9",
+        "score": "61",
+        "seed": "3",
+        "winner": false
+      },
+      "bracketId": "402",
+      "bracketRegion": "Midwest",
+      "bracketRound": "NCAA Sweet Sixteen",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "6",
+        "score": "71",
+        "seed": "2",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-29-2013",
+      "startTime": "09:58PM ET",
+      "startTimeEpoch": "1364608680",
+      "title": "Duke Michigan St.",
+      "url": "/game/basketball-men/d1/2013/03/29/michigan-st-duke",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Sun Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Atlantic Sun",
+          "conferenceSeo": "atlantic-sun"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "FGCU",
+          "full": "Florida Gulf Coast University",
+          "seo": "fgcu",
+          "short": "FGCU"
+        },
+        "rank": "",
+        "score": "50",
+        "seed": "15",
+        "winner": false
+      },
+      "bracketId": "406",
+      "bracketRegion": "South",
+      "bracketRound": "NCAA Sweet Sixteen",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "14",
+        "score": "62",
+        "seed": "3",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "TBS",
+      "startDate": "03-29-2013",
+      "startTime": "10:38PM ET",
+      "startTimeEpoch": "1364611080",
+      "title": "Florida FGCU",
+      "url": "/game/basketball-men/d1/2013/03/29/fgcu-florida",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SYR",
+          "full": "Syracuse University",
+          "seo": "syracuse",
+          "short": "Syracuse"
+        },
+        "rank": "16",
+        "score": "55",
+        "seed": "4",
+        "winner": true
+      },
+      "bracketId": "504",
+      "bracketRegion": "East",
+      "bracketRound": "Elite Eight",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big East Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MARQ",
+          "full": "Marquette University",
+          "seo": "marquette",
+          "short": "Marquette"
+        },
+        "rank": "15",
+        "score": "39",
+        "seed": "3",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-30-2013",
+      "startTime": "04:30PM ET",
+      "startTimeEpoch": "1364675400",
+      "title": "Marquette Syracuse",
+      "url": "/game/basketball-men/d1/2013/03/30/syracuse-marquette",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "WICHST",
+          "full": "Wichita State University",
+          "seo": "wichita-st",
+          "short": "Wichita St."
+        },
+        "rank": "",
+        "score": "70",
+        "seed": "9",
+        "winner": true
+      },
+      "bracketId": "502",
+      "bracketRegion": "West",
+      "bracketRound": "Elite Eight",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "OHIOST",
+          "full": "The Ohio State University",
+          "seo": "ohio-st",
+          "short": "Ohio St."
+        },
+        "rank": "7",
+        "score": "66",
+        "seed": "2",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-30-2013",
+      "startTime": "07:10PM ET",
+      "startTimeEpoch": "1364685000",
+      "title": "Ohio St. Wichita St.",
+      "url": "/game/basketball-men/d1/2013/03/30/wichita-st-ohio-st",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "10",
+        "score": "79",
+        "seed": "4",
+        "winner": true
+      },
+      "bracketId": "503",
+      "bracketRegion": "South",
+      "bracketRound": "Elite Eight",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Southeastern Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "SEC",
+          "conferenceSeo": "southeastern"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "FLA",
+          "full": "University of Florida",
+          "seo": "florida",
+          "short": "Florida"
+        },
+        "rank": "14",
+        "score": "59",
+        "seed": "3",
+        "winner": false
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-31-2013",
+      "startTime": "02:23PM ET",
+      "startTimeEpoch": "1364754180",
+      "title": "Florida Michigan",
+      "url": "/game/basketball-men/d1/2013/03/31/michigan-florida",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "DUKE",
+          "full": "Duke University",
+          "seo": "duke",
+          "short": "Duke"
+        },
+        "rank": "6",
+        "score": "63",
+        "seed": "2",
+        "winner": false
+      },
+      "bracketId": "501",
+      "bracketRegion": "Midwest",
+      "bracketRound": "Elite Eight",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "2",
+        "score": "85",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "03-31-2013",
+      "startTime": "05:05PM ET",
+      "startTimeEpoch": "1364763900",
+      "title": "Louisville Duke",
+      "url": "/game/basketball-men/d1/2013/03/31/duke-louisville",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "American Athletic Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "AAC",
+          "conferenceSeo": "american-athletic"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "WICHST",
+          "full": "Wichita State University",
+          "seo": "wichita-st",
+          "short": "Wichita St."
+        },
+        "rank": "",
+        "score": "68",
+        "seed": "9",
+        "winner": false
+      },
+      "bracketId": "601",
+      "bracketRegion": "",
+      "bracketRound": "Final Four",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "2",
+        "score": "72",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "04-06-2013",
+      "startTime": "06:09PM ET",
+      "startTimeEpoch": "1365286140",
+      "title": "Louisville Wichita St.",
+      "url": "/game/basketball-men/d1/2013/04/06/wichita-st-louisville",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "SYR",
+          "full": "Syracuse University",
+          "seo": "syracuse",
+          "short": "Syracuse"
+        },
+        "rank": "16",
+        "score": "56",
+        "seed": "4",
+        "winner": false
+      },
+      "bracketId": "602",
+      "bracketRegion": "",
+      "bracketRound": "Final Four",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(0-0)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "10",
+        "score": "61",
+        "seed": "4",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "04-06-2013",
+      "startTime": "09:21PM ET",
+      "startTimeEpoch": "1365297660",
+      "title": "Michigan Syracuse",
+      "url": "/game/basketball-men/d1/2013/04/06/syracuse-michigan",
+      "videoState": "pre"
+    }
+  },
+  {
+    "game": {
+      "away": {
+        "conferenceNames": {
+          "conferenceDisplay": "Big Ten Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        },
+        "description": "(31-8)",
+        "names": {
+          "char6": "MICH",
+          "full": "University of Michigan",
+          "seo": "michigan",
+          "short": "Michigan"
+        },
+        "rank": "10",
+        "score": "76",
+        "seed": "4",
+        "winner": false
+      },
+      "bracketId": "701",
+      "bracketRegion": "",
+      "bracketRound": "National Championship",
+      "contestClock": "0:00",
+      "currentPeriod": "Final",
+      "finalMessage": "Final",
+      "gameID": "",
+      "gameState": "final",
+      "home": {
+        "conferenceNames": {
+          "conferenceDisplay": "Atlantic Coast Conference",
+          "conferenceDivision": "d1",
+          "conferenceName": "ACC",
+          "conferenceSeo": "atlantic-coast"
+        },
+        "description": "(35-5)",
+        "names": {
+          "char6": "LOUIS",
+          "full": "University of Louisville",
+          "seo": "louisville",
+          "short": "Louisville"
+        },
+        "rank": "2",
+        "score": "82",
+        "seed": "1",
+        "winner": true
+      },
+      "liveVideoEnabled": true,
+      "network": "CBS",
+      "startDate": "04-08-2013",
+      "startTime": "09:23PM ET",
+      "startTimeEpoch": "1365470580",
+      "title": "Louisville Michigan",
+      "url": "/game/basketball-men/d1/2013/04/08/michigan-louisville",
+      "videoState": "pre"
+    }
+  }
+]
