@@ -1,0 +1,1023 @@
+{
+  "year": 2023,
+  "matchups": [
+    {
+      "matchup": 1,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Alabama",
+        "seo": "alabama",
+        "fullName": "University of Alabama"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "A&M-Corpus Christi",
+        "seo": "am-corpus-chris",
+        "fullName": "Texas A&M University-Corpus Christi"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131077"
+    },
+    {
+      "matchup": 2,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 8,
+        "name": "Maryland",
+        "seo": "maryland",
+        "fullName": "University of Maryland, College Park"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "West Virginia",
+        "seo": "west-virginia",
+        "fullName": "West Virginia University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131078"
+    },
+    {
+      "matchup": 3,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 5,
+        "name": "San Diego St.",
+        "seo": "san-diego-st",
+        "fullName": "San Diego State University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Col. of Charleston",
+        "seo": "col-of-charleston",
+        "fullName": "College of Charleston (South Carolina)"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131079"
+    },
+    {
+      "matchup": 4,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 4,
+        "name": "Virginia",
+        "seo": "virginia",
+        "fullName": "University of Virginia"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Furman",
+        "seo": "furman",
+        "fullName": "Furman University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131080"
+    },
+    {
+      "matchup": 5,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 6,
+        "name": "Creighton",
+        "seo": "creighton",
+        "fullName": "Creighton University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "NC State",
+        "seo": "north-carolina-st",
+        "fullName": "North Carolina State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131081"
+    },
+    {
+      "matchup": 6,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Baylor",
+        "seo": "baylor",
+        "fullName": "Baylor University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "UC Santa Barbara",
+        "seo": "uc-santa-barbara",
+        "fullName": "University of California, Santa Barbara"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131082"
+    },
+    {
+      "matchup": 7,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 7,
+        "name": "Missouri",
+        "seo": "missouri",
+        "fullName": "University of Missouri, Columbia"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Utah St.",
+        "seo": "utah-st",
+        "fullName": "Utah State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131083"
+    },
+    {
+      "matchup": 8,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 2,
+        "name": "Arizona",
+        "seo": "arizona",
+        "fullName": "University of Arizona"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Princeton",
+        "seo": "princeton",
+        "fullName": "Princeton University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131084"
+    },
+    {
+      "matchup": 9,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 1,
+        "name": "Purdue",
+        "seo": "purdue",
+        "fullName": "Purdue University"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "FDU",
+        "seo": "fairleigh-dickinson",
+        "fullName": "Fairleigh Dickinson University, Metropolitan Campus"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131085"
+    },
+    {
+      "matchup": 10,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 8,
+        "name": "Memphis",
+        "seo": "memphis",
+        "fullName": "University of Memphis"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Fla. Atlantic",
+        "seo": "fla-atlantic",
+        "fullName": "Florida Atlantic University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131086"
+    },
+    {
+      "matchup": 11,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 5,
+        "name": "Duke",
+        "seo": "duke",
+        "fullName": "Duke University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Oral Roberts",
+        "seo": "oral-roberts",
+        "fullName": "Oral Roberts University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131087"
+    },
+    {
+      "matchup": 12,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 4,
+        "name": "Tennessee",
+        "seo": "tennessee",
+        "fullName": "University of Tennessee, Knoxville"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Louisiana",
+        "seo": "la-lafayette",
+        "fullName": "University of Louisiana at Lafayette"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131088"
+    },
+    {
+      "matchup": 13,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 6,
+        "name": "Kentucky",
+        "seo": "kentucky",
+        "fullName": "University of Kentucky"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Providence",
+        "seo": "providence",
+        "fullName": "Providence College"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131089"
+    },
+    {
+      "matchup": 14,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 3,
+        "name": "Kansas St.",
+        "seo": "kansas-st",
+        "fullName": "Kansas State University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Montana St.",
+        "seo": "montana-st",
+        "fullName": "Montana State University-Bozeman"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131090"
+    },
+    {
+      "matchup": 15,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 7,
+        "name": "Michigan St.",
+        "seo": "michigan-st",
+        "fullName": "Michigan State University"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Southern California",
+        "seo": "southern-california",
+        "fullName": "University of Southern California"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131091"
+    },
+    {
+      "matchup": 16,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 2,
+        "name": "Marquette",
+        "seo": "marquette",
+        "fullName": "Marquette University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Vermont",
+        "seo": "vermont",
+        "fullName": "University of Vermont"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131092"
+    },
+    {
+      "matchup": 17,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Houston",
+        "seo": "houston",
+        "fullName": "University of Houston"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Northern Ky.",
+        "seo": "northern-ky",
+        "fullName": "Northern Kentucky University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131093"
+    },
+    {
+      "matchup": 18,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 8,
+        "name": "Iowa",
+        "seo": "iowa",
+        "fullName": "University of Iowa"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Auburn",
+        "seo": "auburn",
+        "fullName": "Auburn University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131094"
+    },
+    {
+      "matchup": 19,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 5,
+        "name": "Miami (FL)",
+        "seo": "miami-fl",
+        "fullName": "University of Miami (Florida)"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Drake",
+        "seo": "drake",
+        "fullName": "Drake University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131095"
+    },
+    {
+      "matchup": 20,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 4,
+        "name": "Indiana",
+        "seo": "indiana",
+        "fullName": "Indiana University, Bloomington"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Kent St.",
+        "seo": "kent-st",
+        "fullName": "Kent State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131096"
+    },
+    {
+      "matchup": 21,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 6,
+        "name": "Iowa St.",
+        "seo": "iowa-st",
+        "fullName": "Iowa State University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Pittsburgh",
+        "seo": "pittsburgh",
+        "fullName": "University of Pittsburgh"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131097"
+    },
+    {
+      "matchup": 22,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 3,
+        "name": "Xavier",
+        "seo": "xavier",
+        "fullName": "Xavier University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Kennesaw St.",
+        "seo": "kennesaw-st",
+        "fullName": "Kennesaw State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131098"
+    },
+    {
+      "matchup": 23,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 7,
+        "name": "Texas A&M",
+        "seo": "texas-am",
+        "fullName": "Texas A&M University, College Station"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Penn St.",
+        "seo": "penn-st",
+        "fullName": "Pennsylvania State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131099"
+    },
+    {
+      "matchup": 24,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Texas",
+        "seo": "texas",
+        "fullName": "University of Texas at Austin"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Colgate",
+        "seo": "colgate",
+        "fullName": "Colgate University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131100"
+    },
+    {
+      "matchup": 25,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 1,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Howard",
+        "seo": "howard",
+        "fullName": "Howard University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131101"
+    },
+    {
+      "matchup": 26,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 8,
+        "name": "Arkansas",
+        "seo": "arkansas",
+        "fullName": "University of Arkansas, Fayetteville"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Illinois",
+        "seo": "illinois",
+        "fullName": "University of Illinois Urbana-Champaign"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131102"
+    },
+    {
+      "matchup": 27,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 5,
+        "name": "Saint Mary's (CA)",
+        "seo": "st-marys-ca",
+        "fullName": "Saint Mary's College of California"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "VCU",
+        "seo": "vcu",
+        "fullName": "Virginia Commonwealth University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131103"
+    },
+    {
+      "matchup": 28,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 4,
+        "name": "UConn",
+        "seo": "uconn",
+        "fullName": "University of Connecticut"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Iona",
+        "seo": "iona",
+        "fullName": "Iona University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131104"
+    },
+    {
+      "matchup": 29,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 6,
+        "name": "TCU",
+        "seo": "tcu",
+        "fullName": "Texas Christian University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Arizona St.",
+        "seo": "arizona-st",
+        "fullName": "Arizona State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131105"
+    },
+    {
+      "matchup": 30,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 3,
+        "name": "Gonzaga",
+        "seo": "gonzaga",
+        "fullName": "Gonzaga University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Grand Canyon",
+        "seo": "grand-canyon",
+        "fullName": "Grand Canyon University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131106"
+    },
+    {
+      "matchup": 31,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 7,
+        "name": "Northwestern",
+        "seo": "northwestern",
+        "fullName": "Northwestern University"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Boise St.",
+        "seo": "boise-st",
+        "fullName": "Boise State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131107"
+    },
+    {
+      "matchup": 32,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 2,
+        "name": "UCLA",
+        "seo": "ucla",
+        "fullName": "University of California, Los Angeles"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "UNC Asheville",
+        "seo": "unc-asheville",
+        "fullName": "University of North Carolina Asheville"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131108"
+    },
+    {
+      "matchup": 33,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Alabama",
+        "seo": "alabama",
+        "fullName": "University of Alabama"
+      },
+      "teamBottom": {
+        "seed": 8,
+        "name": "Maryland",
+        "seo": "maryland",
+        "fullName": "University of Maryland, College Park"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131109"
+    },
+    {
+      "matchup": 34,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 5,
+        "name": "San Diego St.",
+        "seo": "san-diego-st",
+        "fullName": "San Diego State University"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Furman",
+        "seo": "furman",
+        "fullName": "Furman University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131110"
+    },
+    {
+      "matchup": 35,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Baylor",
+        "seo": "baylor",
+        "fullName": "Baylor University"
+      },
+      "teamBottom": {
+        "seed": 6,
+        "name": "Creighton",
+        "seo": "creighton",
+        "fullName": "Creighton University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131111"
+    },
+    {
+      "matchup": 36,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 7,
+        "name": "Missouri",
+        "seo": "missouri",
+        "fullName": "University of Missouri, Columbia"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Princeton",
+        "seo": "princeton",
+        "fullName": "Princeton University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131112"
+    },
+    {
+      "matchup": 37,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 38,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 39,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 40,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 41,
+      "round": 2,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Houston",
+        "seo": "houston",
+        "fullName": "University of Houston"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Auburn",
+        "seo": "auburn",
+        "fullName": "Auburn University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131117"
+    },
+    {
+      "matchup": 42,
+      "round": 2,
+      "region": 3,
+      "teamTop": {
+        "seed": 4,
+        "name": "Indiana",
+        "seo": "indiana",
+        "fullName": "Indiana University, Bloomington"
+      },
+      "teamBottom": {
+        "seed": 5,
+        "name": "Miami (FL)",
+        "seo": "miami-fl",
+        "fullName": "University of Miami (Florida)"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131118"
+    },
+    {
+      "matchup": 43,
+      "round": 2,
+      "region": 3,
+      "teamTop": {
+        "seed": 3,
+        "name": "Xavier",
+        "seo": "xavier",
+        "fullName": "Xavier University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Pittsburgh",
+        "seo": "pittsburgh",
+        "fullName": "University of Pittsburgh"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131119"
+    },
+    {
+      "matchup": 44,
+      "round": 2,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Texas",
+        "seo": "texas",
+        "fullName": "University of Texas at Austin"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Penn St.",
+        "seo": "penn-st",
+        "fullName": "Pennsylvania State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131120"
+    },
+    {
+      "matchup": 45,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 46,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 47,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 48,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 49,
+      "round": 3,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Alabama",
+        "seo": "alabama",
+        "fullName": "University of Alabama"
+      },
+      "teamBottom": {
+        "seed": 5,
+        "name": "San Diego St.",
+        "seo": "san-diego-st",
+        "fullName": "San Diego State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131125"
+    },
+    {
+      "matchup": 50,
+      "round": 3,
+      "region": 1,
+      "teamTop": {
+        "seed": 6,
+        "name": "Creighton",
+        "seo": "creighton",
+        "fullName": "Creighton University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Princeton",
+        "seo": "princeton",
+        "fullName": "Princeton University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131126"
+    },
+    {
+      "matchup": 51,
+      "round": 3,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 52,
+      "round": 3,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 53,
+      "round": 3,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 54,
+      "round": 3,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 55,
+      "round": 3,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 56,
+      "round": 3,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 57,
+      "round": 4,
+      "region": 1,
+      "teamTop": {
+        "seed": 5,
+        "name": "San Diego St.",
+        "seo": "san-diego-st",
+        "fullName": "San Diego State University"
+      },
+      "teamBottom": {
+        "seed": 6,
+        "name": "Creighton",
+        "seo": "creighton",
+        "fullName": "Creighton University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/6131133"
+    },
+    {
+      "matchup": 58,
+      "round": 4,
+      "region": 2,
+      "teamTop": {
+        "seed": 3,
+        "name": "Kansas St.",
+        "seo": "kansas-st",
+        "fullName": "Kansas State University"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Fla. Atlantic",
+        "seo": "fla-atlantic",
+        "fullName": "Florida Atlantic University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131134"
+    },
+    {
+      "matchup": 59,
+      "round": 4,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Texas",
+        "seo": "texas",
+        "fullName": "University of Texas at Austin"
+      },
+      "teamBottom": {
+        "seed": 5,
+        "name": "Miami (FL)",
+        "seo": "miami-fl",
+        "fullName": "University of Miami (Florida)"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131135"
+    },
+    {
+      "matchup": 60,
+      "round": 4,
+      "region": 4,
+      "teamTop": {
+        "seed": 3,
+        "name": "Gonzaga",
+        "seo": "gonzaga",
+        "fullName": "Gonzaga University"
+      },
+      "teamBottom": {
+        "seed": 4,
+        "name": "UConn",
+        "seo": "uconn",
+        "fullName": "University of Connecticut"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/6131136"
+    },
+    {
+      "matchup": 61,
+      "round": 5,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 62,
+      "round": 5,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 63,
+      "round": 6,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 64,
+      "round": 6,
+      "region": 6,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    }
+  ]
+}

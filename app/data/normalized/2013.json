@@ -1,0 +1,1023 @@
+{
+  "year": 2013,
+  "matchups": [
+    {
+      "matchup": 1,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Western Ky.",
+        "seo": "western-ky",
+        "fullName": "Western Kentucky University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/western-ky-kansas"
+    },
+    {
+      "matchup": 2,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 8,
+        "name": "North Carolina",
+        "seo": "north-carolina",
+        "fullName": "University of North Carolina, Chapel Hill"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Villanova",
+        "seo": "villanova",
+        "fullName": "Villanova University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/villanova-north-carolina"
+    },
+    {
+      "matchup": 3,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 5,
+        "name": "VCU",
+        "seo": "vcu",
+        "fullName": "Virginia Commonwealth University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Akron",
+        "seo": "akron",
+        "fullName": "University of Akron"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/akron-vcu"
+    },
+    {
+      "matchup": 4,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 4,
+        "name": "Michigan",
+        "seo": "michigan",
+        "fullName": "University of Michigan"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "South Dakota St.",
+        "seo": "south-dakota-st",
+        "fullName": "South Dakota State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/south-dakota-st-michigan"
+    },
+    {
+      "matchup": 5,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 6,
+        "name": "UCLA",
+        "seo": "ucla",
+        "fullName": "University of California, Los Angeles"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Minnesota",
+        "seo": "minnesota",
+        "fullName": "University of Minnesota, Twin Cities"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/minnesota-ucla"
+    },
+    {
+      "matchup": 6,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Florida",
+        "seo": "florida",
+        "fullName": "University of Florida"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Northwestern St.",
+        "seo": "northwestern-st",
+        "fullName": "Northwestern State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/northwestern-st-florida"
+    },
+    {
+      "matchup": 7,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 7,
+        "name": "San Diego St.",
+        "seo": "san-diego-st",
+        "fullName": "San Diego State University"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Oklahoma",
+        "seo": "oklahoma",
+        "fullName": "University of Oklahoma"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/oklahoma-san-diego-st"
+    },
+    {
+      "matchup": 8,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 2,
+        "name": "Georgetown",
+        "seo": "georgetown",
+        "fullName": "Georgetown University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "FGCU",
+        "seo": "fgcu",
+        "fullName": "Florida Gulf Coast University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/fgcu-georgetown"
+    },
+    {
+      "matchup": 9,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 1,
+        "name": "Indiana",
+        "seo": "indiana",
+        "fullName": "Indiana University, Bloomington"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "James Madison",
+        "seo": "james-madison",
+        "fullName": "James Madison University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/james-madison-indiana"
+    },
+    {
+      "matchup": 10,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 8,
+        "name": "North Carolina St.",
+        "seo": "north-carolina-st",
+        "fullName": "North Carolina State University"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Temple",
+        "seo": "temple",
+        "fullName": "Temple University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/temple-north-carolina-st"
+    },
+    {
+      "matchup": 11,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 5,
+        "name": "UNLV",
+        "seo": "unlv",
+        "fullName": "University of Nevada, Las Vegas"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "California",
+        "seo": "california",
+        "fullName": "University of California, Berkeley"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/california-unlv"
+    },
+    {
+      "matchup": 12,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 4,
+        "name": "Syracuse",
+        "seo": "syracuse",
+        "fullName": "Syracuse University"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Montana",
+        "seo": "montana",
+        "fullName": "University of Montana"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/montana-syracuse"
+    },
+    {
+      "matchup": 13,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 6,
+        "name": "Butler",
+        "seo": "butler",
+        "fullName": "Butler University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Bucknell",
+        "seo": "bucknell",
+        "fullName": "Bucknell University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/bucknell-butler"
+    },
+    {
+      "matchup": 14,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 3,
+        "name": "Marquette",
+        "seo": "marquette",
+        "fullName": "Marquette University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Davidson",
+        "seo": "davidson",
+        "fullName": "Davidson College"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/davidson-marquette"
+    },
+    {
+      "matchup": 15,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 7,
+        "name": "Illinois",
+        "seo": "illinois",
+        "fullName": "University of Illinois, Champaign"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Colorado",
+        "seo": "colorado",
+        "fullName": "University of Colorado, Boulder"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/colorado-illinois"
+    },
+    {
+      "matchup": 16,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 2,
+        "name": "Miami (FL)",
+        "seo": "miami-fl",
+        "fullName": "University of Miami (Florida)"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Pacific",
+        "seo": "pacific",
+        "fullName": "University of the Pacific"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/pacific-miami-fl"
+    },
+    {
+      "matchup": 17,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Louisville",
+        "seo": "louisville",
+        "fullName": "University of Louisville"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "N.C. A&T",
+        "seo": "nc-at",
+        "fullName": "North Carolina A&T State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/nc-at-louisville"
+    },
+    {
+      "matchup": 18,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 8,
+        "name": "Colorado St.",
+        "seo": "colorado-st",
+        "fullName": "Colorado State University"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Missouri",
+        "seo": "missouri",
+        "fullName": "University of Missouri, Columbia"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/missouri-colorado-st"
+    },
+    {
+      "matchup": 19,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 5,
+        "name": "Oklahoma St.",
+        "seo": "oklahoma-st",
+        "fullName": "Oklahoma State University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Oregon",
+        "seo": "oregon",
+        "fullName": "University of Oregon"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/oregon-oklahoma-st"
+    },
+    {
+      "matchup": 20,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 4,
+        "name": "Saint Louis",
+        "seo": "saint-louis",
+        "fullName": "Saint Louis University"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "New Mexico St.",
+        "seo": "new-mexico-st",
+        "fullName": "New Mexico State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/new-mexico-st-saint-louis"
+    },
+    {
+      "matchup": 21,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 6,
+        "name": "Memphis",
+        "seo": "memphis",
+        "fullName": "University of Memphis"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "St. Mary's (CA)",
+        "seo": "st-marys-ca",
+        "fullName": "St. Mary's College of California"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/st-marys-ca-memphis"
+    },
+    {
+      "matchup": 22,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 3,
+        "name": "Michigan St.",
+        "seo": "michigan-st",
+        "fullName": "Michigan State University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Valparaiso",
+        "seo": "valparaiso",
+        "fullName": "Valparaiso University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/valparaiso-michigan-st"
+    },
+    {
+      "matchup": 23,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 7,
+        "name": "Creighton",
+        "seo": "creighton",
+        "fullName": "Creighton University"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Cincinnati",
+        "seo": "cincinnati",
+        "fullName": "University of Cincinnati"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/cincinnati-creighton"
+    },
+    {
+      "matchup": 24,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Duke",
+        "seo": "duke",
+        "fullName": "Duke University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Albany (NY)",
+        "seo": "albany-ny",
+        "fullName": "University at Albany"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/albany-ny-duke"
+    },
+    {
+      "matchup": 25,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 1,
+        "name": "Gonzaga",
+        "seo": "gonzaga",
+        "fullName": "Gonzaga University"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Southern U.",
+        "seo": "southern-u",
+        "fullName": "Southern University, Baton Rouge"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/southern-u-gonzaga"
+    },
+    {
+      "matchup": 26,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 8,
+        "name": "Pittsburgh",
+        "seo": "pittsburgh",
+        "fullName": "University of Pittsburgh"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Wichita St.",
+        "seo": "wichita-st",
+        "fullName": "Wichita State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/wichita-st-pittsburgh"
+    },
+    {
+      "matchup": 27,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 5,
+        "name": "Wisconsin",
+        "seo": "wisconsin",
+        "fullName": "University of Wisconsin, Madison"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Ole Miss",
+        "seo": "ole-miss",
+        "fullName": "University of Mississippi"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/ole-miss-wisconsin"
+    },
+    {
+      "matchup": 28,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 4,
+        "name": "Kansas St.",
+        "seo": "kansas-st",
+        "fullName": "Kansas State University"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "La Salle",
+        "seo": "la-salle",
+        "fullName": "La Salle University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/la-salle-kansas-st"
+    },
+    {
+      "matchup": 29,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 6,
+        "name": "Arizona",
+        "seo": "arizona",
+        "fullName": "University of Arizona"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Belmont",
+        "seo": "belmont",
+        "fullName": "Belmont University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/belmont-arizona"
+    },
+    {
+      "matchup": 30,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 3,
+        "name": "New Mexico",
+        "seo": "new-mexico",
+        "fullName": "University of New Mexico"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Harvard",
+        "seo": "harvard",
+        "fullName": "Harvard University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/21/harvard-new-mexico"
+    },
+    {
+      "matchup": 31,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 7,
+        "name": "Notre Dame",
+        "seo": "notre-dame",
+        "fullName": "University of Notre Dame"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Iowa St.",
+        "seo": "iowa-st",
+        "fullName": "Iowa State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/iowa-st-notre-dame"
+    },
+    {
+      "matchup": 32,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 2,
+        "name": "Ohio St.",
+        "seo": "ohio-st",
+        "fullName": "The Ohio State University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Iona",
+        "seo": "iona",
+        "fullName": "Iona College"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/22/iona-ohio-st"
+    },
+    {
+      "matchup": 33,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 8,
+        "name": "North Carolina",
+        "seo": "north-carolina",
+        "fullName": "University of North Carolina, Chapel Hill"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/24/north-carolina-kansas"
+    },
+    {
+      "matchup": 34,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 4,
+        "name": "Michigan",
+        "seo": "michigan",
+        "fullName": "University of Michigan"
+      },
+      "teamBottom": {
+        "seed": 5,
+        "name": "VCU",
+        "seo": "vcu",
+        "fullName": "Virginia Commonwealth University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/23/vcu-michigan"
+    },
+    {
+      "matchup": 35,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Florida",
+        "seo": "florida",
+        "fullName": "University of Florida"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Minnesota",
+        "seo": "minnesota",
+        "fullName": "University of Minnesota, Twin Cities"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/24/minnesota-florida"
+    },
+    {
+      "matchup": 36,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 7,
+        "name": "San Diego St.",
+        "seo": "san-diego-st",
+        "fullName": "San Diego State University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "FGCU",
+        "seo": "fgcu",
+        "fullName": "Florida Gulf Coast University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/24/fgcu-san-diego-st"
+    },
+    {
+      "matchup": 37,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 38,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 39,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 40,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 41,
+      "round": 2,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Louisville",
+        "seo": "louisville",
+        "fullName": "University of Louisville"
+      },
+      "teamBottom": {
+        "seed": 8,
+        "name": "Colorado St.",
+        "seo": "colorado-st",
+        "fullName": "Colorado State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/23/colorado-st-louisville"
+    },
+    {
+      "matchup": 42,
+      "round": 2,
+      "region": 3,
+      "teamTop": {
+        "seed": 4,
+        "name": "Saint Louis",
+        "seo": "saint-louis",
+        "fullName": "Saint Louis University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Oregon",
+        "seo": "oregon",
+        "fullName": "University of Oregon"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/23/oregon-saint-louis"
+    },
+    {
+      "matchup": 43,
+      "round": 2,
+      "region": 3,
+      "teamTop": {
+        "seed": 3,
+        "name": "Michigan St.",
+        "seo": "michigan-st",
+        "fullName": "Michigan State University"
+      },
+      "teamBottom": {
+        "seed": 6,
+        "name": "Memphis",
+        "seo": "memphis",
+        "fullName": "University of Memphis"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/23/memphis-michigan-st"
+    },
+    {
+      "matchup": 44,
+      "round": 2,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Duke",
+        "seo": "duke",
+        "fullName": "Duke University"
+      },
+      "teamBottom": {
+        "seed": 7,
+        "name": "Creighton",
+        "seo": "creighton",
+        "fullName": "Creighton University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/24/creighton-duke"
+    },
+    {
+      "matchup": 45,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 46,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 47,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 48,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 49,
+      "round": 3,
+      "region": 1,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 50,
+      "round": 3,
+      "region": 1,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 51,
+      "round": 3,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 52,
+      "round": 3,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 53,
+      "round": 3,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Louisville",
+        "seo": "louisville",
+        "fullName": "University of Louisville"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Oregon",
+        "seo": "oregon",
+        "fullName": "University of Oregon"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/29/oregon-louisville"
+    },
+    {
+      "matchup": 54,
+      "round": 3,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Duke",
+        "seo": "duke",
+        "fullName": "Duke University"
+      },
+      "teamBottom": {
+        "seed": 3,
+        "name": "Michigan St.",
+        "seo": "michigan-st",
+        "fullName": "Michigan State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/29/michigan-st-duke"
+    },
+    {
+      "matchup": 55,
+      "round": 3,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 56,
+      "round": 3,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 57,
+      "round": 4,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Florida",
+        "seo": "florida",
+        "fullName": "University of Florida"
+      },
+      "teamBottom": {
+        "seed": 4,
+        "name": "Michigan",
+        "seo": "michigan",
+        "fullName": "University of Michigan"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/31/michigan-florida"
+    },
+    {
+      "matchup": 58,
+      "round": 4,
+      "region": 2,
+      "teamTop": {
+        "seed": 3,
+        "name": "Marquette",
+        "seo": "marquette",
+        "fullName": "Marquette University"
+      },
+      "teamBottom": {
+        "seed": 4,
+        "name": "Syracuse",
+        "seo": "syracuse",
+        "fullName": "Syracuse University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/30/syracuse-marquette"
+    },
+    {
+      "matchup": 59,
+      "round": 4,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Louisville",
+        "seo": "louisville",
+        "fullName": "University of Louisville"
+      },
+      "teamBottom": {
+        "seed": 2,
+        "name": "Duke",
+        "seo": "duke",
+        "fullName": "Duke University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2013/03/31/duke-louisville"
+    },
+    {
+      "matchup": 60,
+      "round": 4,
+      "region": 4,
+      "teamTop": {
+        "seed": 2,
+        "name": "Ohio St.",
+        "seo": "ohio-st",
+        "fullName": "The Ohio State University"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Wichita St.",
+        "seo": "wichita-st",
+        "fullName": "Wichita State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2013/03/30/wichita-st-ohio-st"
+    },
+    {
+      "matchup": 61,
+      "round": 5,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 62,
+      "round": 5,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 63,
+      "round": 6,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 64,
+      "round": 6,
+      "region": 6,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    }
+  ]
+}

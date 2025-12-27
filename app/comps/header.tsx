@@ -2,12 +2,9 @@ import { TOURNAMENT_DATES } from "../data/tournament-dates";
 
 interface HeaderProps {
   year?: string | number;
-  showResults?: boolean;
-  onToggleResults?: () => void;
-  hasHistory?: boolean;
 }
 
-export default function Header({ year = 2025, showResults, onToggleResults, hasHistory }: HeaderProps) {
+export default function Header({ year = 2025 }: HeaderProps) {
   const currentYear = year.toString();
   const startDateStr = TOURNAMENT_DATES[currentYear]?.[0] || TOURNAMENT_DATES["2025"][0];
   const startDate = new Date(startDateStr);
@@ -41,28 +38,6 @@ export default function Header({ year = 2025, showResults, onToggleResults, hasH
 
   return (
     <header>
-      <section className="flex items-center justify-between mb-4 px-4">
-        <nav className="year-nav flex justify-center gap-2 flex-wrap">
-          {[2025, 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2011].map((y) => (
-            <a
-              key={y}
-              href={y === 2025 ? "/" : `/bracket/${y}`}
-              className={`px-2 py-1 text-white rounded no-underline text-xs font-bold ${y.toString() === currentYear ? "bg-[#666]" : "bg-[#333]"}`}
-            >
-              {y}
-            </a>
-          ))}
-        </nav>
-
-        {hasHistory && onToggleResults && (
-          <button
-            onClick={onToggleResults}
-            className={`px-4 py-2 text-sm font-bold text-white rounded border-none cursor-pointer ${showResults ? "bg-[#444]" : "bg-[#0070f3]"}`}
-          >
-            {showResults ? "Hide Results" : "Check Bracket"}
-          </button>
-        )}
-      </section>
       <ol>
         {[
           { name: "Round 1", date: r1Str },

@@ -10,6 +10,13 @@ export interface Team {
   state?: string;
   lat?: number;
   lng?: number;
+  // Additional properties expected by TeamInfoModal
+  full_name?: string;
+  masc?: string;
+  record?: string;
+  conference?: string;
+  team_url?: string;
+  ncaa_url?: string;
 }
 
 export interface Matchup {
@@ -32,17 +39,32 @@ const REGION_NAMES = ["", "South", "East", "Midwest", "West", "Final Four", "Cha
 function getTeamFromMetadata(seo: string, seed: number, teamData?: any): Team {
   const meta = TEAM_METADATA[seo];
   const name = teamData?.names?.short || seo;
+  // Use the full official name from NCAA data (e.g., "University of Maryland, College Park")
+  const fullName = teamData?.names?.full || (meta?.city ? `${meta.city} ${meta?.mascot || ''}`.trim() : name);
+
+  // Extract conference from team data if available
+  const conference = teamData?.conferences?.[0]?.conferenceName || undefined;
+
+  // Extract record from description (e.g., "(25-7)" -> "25-7")
+  const recordMatch = teamData?.description?.match(/\(([^)]+)\)/);
+  const record = recordMatch ? recordMatch[1] : undefined;
 
   return {
     seed,
     name,
     seo,
     colors: meta?.colors,
-    logo: meta?.logo,
+    logo: meta?.logo || `https://a.espncdn.com/i/teamlogos/ncaa/500/${seo}.png`,
     city: meta?.city,
     state: meta?.state,
     lat: meta?.lat,
     lng: meta?.lng,
+    full_name: fullName,
+    masc: meta?.mascot,
+    record,
+    conference,
+    team_url: seo ? `https://www.ncaa.com/schools/${seo}` : undefined,
+    ncaa_url: teamData?.url ? `https://www.ncaa.com${teamData.url}` : undefined,
   };
 }
 
@@ -54,13 +76,15 @@ function bracketIdToMatchup(bracketId: number, bracketRegion: string): { matchup
   // Similar pattern for East (starts at different offset), etc.
 
   const regionMap: Record<string, number> = {
-    "South": 1,
-    "East": 2,
-    "Midwest": 3,
-    "West": 4,
+    "south": 1,
+    "southeast": 1,  // 2011 used Southeast instead of South
+    "east": 2,
+    "midwest": 3,
+    "southwest": 3,  // 2011 used Southwest instead of Midwest
+    "west": 4,
   };
 
-  const region = regionMap[bracketRegion] || 1;
+  const region = regionMap[bracketRegion.toLowerCase()] || 1;
 
   // Simplified mapping - the bracketId structure varies by year
   // We'll compute based on the last two digits
@@ -243,9 +267,14 @@ export function parseBracketFromHistory(historyData: any[]): Matchup[] {
   }
 
   // Process Round 1 games to populate initial bracket
+  // Note: NCAA naming varied over the years:
+  // - 2021+: "First Round" or "FIRST ROUND"
+  // - 2011-2015: "Second Round" (because "First Round" meant the play-in "First Four" games)
+  const firstRoundNames = ["first round", "second round"];
+
   for (const item of historyData) {
     const game = item.game;
-    if (!game || game.bracketRound !== "First Round") continue;
+    if (!game || !firstRoundNames.includes(game.bracketRound?.toLowerCase())) continue;
 
     const bracketId = parseInt(game.bracketId, 10);
     const bracketRegion = game.bracketRegion;
@@ -261,12 +290,14 @@ export function parseBracketFromHistory(historyData: any[]): Matchup[] {
 
     // Find the correct matchup based on seeds and region
     const regionMap: Record<string, number> = {
-      "South": 1,
-      "East": 2,
-      "Midwest": 3,
-      "West": 4,
+      "south": 1,
+      "southeast": 1,  // 2011 used Southeast instead of South
+      "east": 2,
+      "midwest": 3,
+      "southwest": 3,  // 2011 used Southwest instead of Midwest
+      "west": 4,
     };
-    const region = regionMap[bracketRegion] || 1;
+    const region = regionMap[bracketRegion.toLowerCase()] || 1;
 
     // Seed pairs in order: 1v16, 8v9, 5v12, 4v13, 6v11, 3v14, 7v10, 2v15
     const seedPairs = [
@@ -309,8 +340,27 @@ export function parseBracketFromHistory(historyData: any[]): Matchup[] {
 export function getHistoryRecord(historyData: any[]): Record<number, string> {
   const history: Record<number, string> = {};
 
-  // For now, return empty - this would need more sophisticated mapping
-  // to determine which team won each matchup
+  for (const item of historyData) {
+    const game = item.game;
+    if (!game || game.gameState !== "final") continue;
+
+    // Get winner
+    const winner = game.home?.winner ? game.home : game.away?.winner ? game.away : null;
+    if (!winner) continue;
+    const winnerName = winner.names?.short || "";
+
+    // Use bracketId and region to determine matchup number
+    const bracketId = parseInt(game.bracketId, 10);
+    const bracketRegion = game.bracketRegion || "";
+
+    if (isNaN(bracketId)) continue;
+
+    const { matchup } = bracketIdToMatchup(bracketId, bracketRegion);
+
+    if (matchup > 0 && matchup <= 63) {
+      history[matchup] = winnerName;
+    }
+  }
 
   return history;
 }

@@ -1,0 +1,1023 @@
+{
+  "year": 2016,
+  "matchups": [
+    {
+      "matchup": 1,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Austin Peay",
+        "seo": "austin-peay",
+        "fullName": "Austin Peay State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/austin-peay-kansas"
+    },
+    {
+      "matchup": 2,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 8,
+        "name": "Colorado",
+        "seo": "colorado",
+        "fullName": "University of Colorado, Boulder"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "UConn",
+        "seo": "uconn",
+        "fullName": "University of Connecticut"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/uconn-colorado"
+    },
+    {
+      "matchup": 3,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 5,
+        "name": "Maryland",
+        "seo": "maryland",
+        "fullName": "University of Maryland, College Park"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "South Dakota St.",
+        "seo": "south-dakota-st",
+        "fullName": "South Dakota State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/south-dakota-st-maryland"
+    },
+    {
+      "matchup": 4,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 4,
+        "name": "California",
+        "seo": "california",
+        "fullName": "University of California, Berkeley"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Hawaii",
+        "seo": "hawaii",
+        "fullName": "University of Hawaii, Manoa"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/hawaii-california"
+    },
+    {
+      "matchup": 5,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 6,
+        "name": "Arizona",
+        "seo": "arizona",
+        "fullName": "University of Arizona"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Wichita St.",
+        "seo": "wichita-st",
+        "fullName": "Wichita State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/wichita-st-arizona"
+    },
+    {
+      "matchup": 6,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Miami (FL)",
+        "seo": "miami-fl",
+        "fullName": "University of Miami (Florida)"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Buffalo",
+        "seo": "buffalo",
+        "fullName": "University at Buffalo, the State University of New York"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/buffalo-miami-fl"
+    },
+    {
+      "matchup": 7,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 7,
+        "name": "Iowa",
+        "seo": "iowa",
+        "fullName": "University of Iowa"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Temple",
+        "seo": "temple",
+        "fullName": "Temple University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/temple-iowa"
+    },
+    {
+      "matchup": 8,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 2,
+        "name": "Villanova",
+        "seo": "villanova",
+        "fullName": "Villanova University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "UNC Asheville",
+        "seo": "unc-asheville",
+        "fullName": "University of North Carolina, Asheville"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/unc-asheville-villanova"
+    },
+    {
+      "matchup": 9,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 1,
+        "name": "North Carolina",
+        "seo": "north-carolina",
+        "fullName": "University of North Carolina, Chapel Hill"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "FGCU",
+        "seo": "fgcu",
+        "fullName": "Florida Gulf Coast University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/fgcu-north-carolina"
+    },
+    {
+      "matchup": 10,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 8,
+        "name": "Southern California",
+        "seo": "southern-california",
+        "fullName": "University of Southern California"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Providence",
+        "seo": "providence",
+        "fullName": "Providence College"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/providence-southern-california"
+    },
+    {
+      "matchup": 11,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 5,
+        "name": "Indiana",
+        "seo": "indiana",
+        "fullName": "Indiana University, Bloomington"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Chattanooga",
+        "seo": "chattanooga",
+        "fullName": "University of Tennessee at Chattanooga"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/chattanooga-indiana"
+    },
+    {
+      "matchup": 12,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 4,
+        "name": "Kentucky",
+        "seo": "kentucky",
+        "fullName": "University of Kentucky"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Stony Brook",
+        "seo": "stony-brook",
+        "fullName": "Stony Brook University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/stony-brook-kentucky"
+    },
+    {
+      "matchup": 13,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 6,
+        "name": "Notre Dame",
+        "seo": "notre-dame",
+        "fullName": "University of Notre Dame"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Michigan",
+        "seo": "michigan",
+        "fullName": "University of Michigan"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/michigan-notre-dame"
+    },
+    {
+      "matchup": 14,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 3,
+        "name": "West Virginia",
+        "seo": "west-virginia",
+        "fullName": "West Virginia University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Stephen F. Austin",
+        "seo": "stephen-f-austin",
+        "fullName": "Stephen F. Austin State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/stephen-f-austin-west-virginia"
+    },
+    {
+      "matchup": 15,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 7,
+        "name": "Wisconsin",
+        "seo": "wisconsin",
+        "fullName": "University of Wisconsin, Madison"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Pittsburgh",
+        "seo": "pittsburgh",
+        "fullName": "University of Pittsburgh"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/pittsburgh-wisconsin"
+    },
+    {
+      "matchup": 16,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 2,
+        "name": "Xavier",
+        "seo": "xavier",
+        "fullName": "Xavier University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Weber St.",
+        "seo": "weber-st",
+        "fullName": "Weber State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/weber-st-xavier"
+    },
+    {
+      "matchup": 17,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Virginia",
+        "seo": "virginia",
+        "fullName": "University of Virginia"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Hampton",
+        "seo": "hampton",
+        "fullName": "Hampton University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/hampton-virginia"
+    },
+    {
+      "matchup": 18,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 8,
+        "name": "Texas Tech",
+        "seo": "texas-tech",
+        "fullName": "Texas Tech University"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Butler",
+        "seo": "butler",
+        "fullName": "Butler University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/butler-texas-tech"
+    },
+    {
+      "matchup": 19,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 5,
+        "name": "Purdue",
+        "seo": "purdue",
+        "fullName": "Purdue University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "UALR",
+        "seo": "ualr",
+        "fullName": "University of Arkansas, Little Rock"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/ualr-purdue"
+    },
+    {
+      "matchup": 20,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 4,
+        "name": "Iowa St.",
+        "seo": "iowa-st",
+        "fullName": "Iowa State University"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Iona",
+        "seo": "iona",
+        "fullName": "Iona College"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/iona-iowa-st"
+    },
+    {
+      "matchup": 21,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 6,
+        "name": "Seton Hall",
+        "seo": "seton-hall",
+        "fullName": "Seton Hall University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Gonzaga",
+        "seo": "gonzaga",
+        "fullName": "Gonzaga University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/gonzaga-seton-hall"
+    },
+    {
+      "matchup": 22,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 3,
+        "name": "Utah",
+        "seo": "utah",
+        "fullName": "University of Utah"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Fresno St.",
+        "seo": "fresno-st",
+        "fullName": "California State University, Fresno"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/fresno-st-utah"
+    },
+    {
+      "matchup": 23,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 7,
+        "name": "Dayton",
+        "seo": "dayton",
+        "fullName": "University of Dayton"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Syracuse",
+        "seo": "syracuse",
+        "fullName": "Syracuse University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/syracuse-dayton"
+    },
+    {
+      "matchup": 24,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Michigan St.",
+        "seo": "michigan-st",
+        "fullName": "Michigan State University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Middle Tenn.",
+        "seo": "middle-tenn",
+        "fullName": "Middle Tennessee State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/middle-tenn-michigan-st"
+    },
+    {
+      "matchup": 25,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 1,
+        "name": "Oregon",
+        "seo": "oregon",
+        "fullName": "University of Oregon"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Holy Cross",
+        "seo": "holy-cross",
+        "fullName": "College of the Holy Cross"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/holy-cross-oregon"
+    },
+    {
+      "matchup": 26,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 8,
+        "name": "Saint Joseph's",
+        "seo": "saint-josephs",
+        "fullName": "Saint Joseph's University"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Cincinnati",
+        "seo": "cincinnati",
+        "fullName": "University of Cincinnati"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/cincinnati-saint-josephs"
+    },
+    {
+      "matchup": 27,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 5,
+        "name": "Baylor",
+        "seo": "baylor",
+        "fullName": "Baylor University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Yale",
+        "seo": "yale",
+        "fullName": "Yale University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/yale-baylor"
+    },
+    {
+      "matchup": 28,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 4,
+        "name": "Duke",
+        "seo": "duke",
+        "fullName": "Duke University"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "UNC Wilmington",
+        "seo": "unc-wilmington",
+        "fullName": "University of North Carolina Wilmington"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/17/unc-wilmington-duke"
+    },
+    {
+      "matchup": 29,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 6,
+        "name": "Texas",
+        "seo": "texas",
+        "fullName": "University of Texas at Austin"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "UNI",
+        "seo": "uni",
+        "fullName": "University of Northern Iowa"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/uni-texas"
+    },
+    {
+      "matchup": 30,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 3,
+        "name": "Texas A&M",
+        "seo": "texas-am",
+        "fullName": "Texas A&M University, College Station"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Green Bay",
+        "seo": "green-bay",
+        "fullName": "University of Wisconsin, Green Bay"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/green-bay-texas-am"
+    },
+    {
+      "matchup": 31,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 7,
+        "name": "Oregon St.",
+        "seo": "oregon-st",
+        "fullName": "Oregon State University"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "VCU",
+        "seo": "vcu",
+        "fullName": "Virginia Commonwealth University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/vcu-oregon-st"
+    },
+    {
+      "matchup": 32,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 2,
+        "name": "Oklahoma",
+        "seo": "oklahoma",
+        "fullName": "University of Oklahoma"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Bakersfield",
+        "seo": "bakersfield",
+        "fullName": "California State University, Bakersfield"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/18/bakersfield-oklahoma"
+    },
+    {
+      "matchup": 33,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "UConn",
+        "seo": "uconn",
+        "fullName": "University of Connecticut"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/19/uconn-kansas"
+    },
+    {
+      "matchup": 34,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 5,
+        "name": "Maryland",
+        "seo": "maryland",
+        "fullName": "University of Maryland, College Park"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Hawaii",
+        "seo": "hawaii",
+        "fullName": "University of Hawaii, Manoa"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/20/hawaii-maryland"
+    },
+    {
+      "matchup": 35,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Miami (FL)",
+        "seo": "miami-fl",
+        "fullName": "University of Miami (Florida)"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Wichita St.",
+        "seo": "wichita-st",
+        "fullName": "Wichita State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/19/wichita-st-miami-fl"
+    },
+    {
+      "matchup": 36,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 2,
+        "name": "Villanova",
+        "seo": "villanova",
+        "fullName": "Villanova University"
+      },
+      "teamBottom": {
+        "seed": 7,
+        "name": "Iowa",
+        "seo": "iowa",
+        "fullName": "University of Iowa"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/20/iowa-villanova"
+    },
+    {
+      "matchup": 37,
+      "round": 2,
+      "region": 2,
+      "teamTop": {
+        "seed": 1,
+        "name": "North Carolina",
+        "seo": "north-carolina",
+        "fullName": "University of North Carolina, Chapel Hill"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Providence",
+        "seo": "providence",
+        "fullName": "Providence College"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/19/providence-north-carolina"
+    },
+    {
+      "matchup": 38,
+      "round": 2,
+      "region": 2,
+      "teamTop": {
+        "seed": 4,
+        "name": "Kentucky",
+        "seo": "kentucky",
+        "fullName": "University of Kentucky"
+      },
+      "teamBottom": {
+        "seed": 5,
+        "name": "Indiana",
+        "seo": "indiana",
+        "fullName": "Indiana University, Bloomington"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/19/indiana-kentucky"
+    },
+    {
+      "matchup": 39,
+      "round": 2,
+      "region": 2,
+      "teamTop": {
+        "seed": 6,
+        "name": "Notre Dame",
+        "seo": "notre-dame",
+        "fullName": "University of Notre Dame"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Stephen F. Austin",
+        "seo": "stephen-f-austin",
+        "fullName": "Stephen F. Austin State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/20/stephen-f-austin-notre-dame"
+    },
+    {
+      "matchup": 40,
+      "round": 2,
+      "region": 2,
+      "teamTop": {
+        "seed": 2,
+        "name": "Xavier",
+        "seo": "xavier",
+        "fullName": "Xavier University"
+      },
+      "teamBottom": {
+        "seed": 7,
+        "name": "Wisconsin",
+        "seo": "wisconsin",
+        "fullName": "University of Wisconsin, Madison"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/20/wisconsin-xavier"
+    },
+    {
+      "matchup": 41,
+      "round": 2,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 42,
+      "round": 2,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 43,
+      "round": 2,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 44,
+      "round": 2,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 45,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 46,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 47,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 48,
+      "round": 2,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 49,
+      "round": 3,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 5,
+        "name": "Maryland",
+        "seo": "maryland",
+        "fullName": "University of Maryland, College Park"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/24/maryland-kansas"
+    },
+    {
+      "matchup": 50,
+      "round": 3,
+      "region": 1,
+      "teamTop": {
+        "seed": 2,
+        "name": "Villanova",
+        "seo": "villanova",
+        "fullName": "Villanova University"
+      },
+      "teamBottom": {
+        "seed": 3,
+        "name": "Miami (FL)",
+        "seo": "miami-fl",
+        "fullName": "University of Miami (Florida)"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/24/miami-fl-villanova"
+    },
+    {
+      "matchup": 51,
+      "round": 3,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 52,
+      "round": 3,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 53,
+      "round": 3,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 54,
+      "round": 3,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 55,
+      "round": 3,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 56,
+      "round": 3,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 57,
+      "round": 4,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 2,
+        "name": "Villanova",
+        "seo": "villanova",
+        "fullName": "Villanova University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/26/villanova-kansas"
+    },
+    {
+      "matchup": 58,
+      "round": 4,
+      "region": 2,
+      "teamTop": {
+        "seed": 1,
+        "name": "North Carolina",
+        "seo": "north-carolina",
+        "fullName": "University of North Carolina, Chapel Hill"
+      },
+      "teamBottom": {
+        "seed": 6,
+        "name": "Notre Dame",
+        "seo": "notre-dame",
+        "fullName": "University of Notre Dame"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2016/03/27/notre-dame-north-carolina"
+    },
+    {
+      "matchup": 59,
+      "round": 4,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Virginia",
+        "seo": "virginia",
+        "fullName": "University of Virginia"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Syracuse",
+        "seo": "syracuse",
+        "fullName": "Syracuse University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/27/syracuse-virginia"
+    },
+    {
+      "matchup": 60,
+      "round": 4,
+      "region": 4,
+      "teamTop": {
+        "seed": 1,
+        "name": "Oregon",
+        "seo": "oregon",
+        "fullName": "University of Oregon"
+      },
+      "teamBottom": {
+        "seed": 2,
+        "name": "Oklahoma",
+        "seo": "oklahoma",
+        "fullName": "University of Oklahoma"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2016/03/26/oklahoma-oregon"
+    },
+    {
+      "matchup": 61,
+      "round": 5,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 62,
+      "round": 5,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 63,
+      "round": 6,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 64,
+      "round": 6,
+      "region": 6,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    }
+  ]
+}

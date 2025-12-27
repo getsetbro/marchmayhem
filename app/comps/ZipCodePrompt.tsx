@@ -62,7 +62,7 @@ export default function ZipCodePrompt() {
             value={zip}
             onChange={(e) => setZip(e.target.value)}
             placeholder="Zip Code (e.g. 90210)"
-            className="p-3 rounded bg-[#333] border border-gray-600 text-white text-center text-lg focus:border-blue-500 outline-none"
+            className="p-3 rounded bg-[#222] border border-gray-600 text-white text-center text-lg focus:border-blue-500 outline-none"
             maxLength={5}
             autoFocus
           />

@@ -49,8 +49,15 @@ const TeamCard = ({ team, userLoc, onSelect }: { team: Team, userLoc: { lat: num
       onClick={() => onSelect?.(team)}
     >
       <div className="text-center flex flex-col items-center">
-        <img src={team.logo} alt={team.name} className="w-[300px] h-[300px] object-contain mb-2 bg-white rounded-lg p-2" onError={(e) => (e.currentTarget.style.display = 'none')} />
-        <h3 className="text-xl font-bold mt-2 mb-1">{team.full_name || team.name}</h3>
+        <h3 className="text-xl font-bold mb-2">{team.full_name || team.name}</h3>
+        <img
+          src={team.logo || 'https://a.espncdn.com/i/teamlogos/ncaa/500/ncaa.png'}
+          alt={team.name}
+          className="w-[300px] h-[300px] object-contain mb-2 bg-white rounded-lg p-2"
+          onError={(e) => {
+            e.currentTarget.src = 'https://a.espncdn.com/i/teamlogos/ncaa/500/ncaa.png';
+          }}
+        />
         {team.masc && <div className="text-[#aaa] text-[0.95rem] mb-1 italic">{team.masc}</div>}
         {(team.city || team.state) && (
           <div className="text-[#888] text-[0.85rem] mb-2 flex flex-col gap-0.5">
@@ -60,17 +67,18 @@ const TeamCard = ({ team, userLoc, onSelect }: { team: Team, userLoc: { lat: num
             )}
           </div>
         )}
-        <div className="flex gap-2 mt-1.5">
-          <span className="inline-block px-1.5 py-0.5 rounded text-[0.8rem] font-bold bg-[#444] text-[#ddd]">Seed #{team.seed}</span>
-        </div>
       </div>
       <div className="w-full mt-4 flex flex-col gap-2">
+        <div className="flex justify-between border-b border-[#333] pb-1 text-[0.9rem]">
+          <span className="text-[#888]">Seed</span>
+          <span className="font-bold">#{team.seed}</span>
+        </div>
         {team.colors && team.colors.length > 0 && (
           <div className="flex justify-between border-b border-[#333] pb-1 text-[0.9rem]">
             <span className="text-[#888]">Colors</span>
             <div className="flex gap-1.5">
               {team.colors.map((c, i) => (
-                <span key={i} className="w-8 h-8 rounded-full border-2 border-[#555] inline-block shadow-[0_2px_4px_rgba(0,0,0,0.3)]" style={{ backgroundColor: c }} title={c} />
+                <span key={i} className="w-8 h-8 rounded-full inline-block shadow-[0_2px_6px_rgba(0,0,0,0.4),inset_0_0_0_1px_rgba(255,255,255,0.1)]" style={{ backgroundColor: c }} title={c} />
               ))}
             </div>
           </div>
@@ -99,17 +107,21 @@ const TeamCard = ({ team, userLoc, onSelect }: { team: Team, userLoc: { lat: num
           )}
         </div>
         <div className="mt-4 text-center">
-          {team.team_url && (
-            <a
-              href={team.team_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block bg-[#0070f3] text-white px-3 py-1.5 no-underline rounded-md text-[0.85rem] transition-colors hover:bg-[#005bb5]"
-              onClick={(e) => e.stopPropagation()}
-            >
-              View Team
-            </a>
-          )}
+          <a
+            href={team.team_url || '#'}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`inline-block px-3 py-1.5 no-underline rounded-md text-[0.85rem] transition-colors ${team.team_url
+              ? 'bg-[#0070f3] text-white hover:bg-[#005bb5] cursor-pointer'
+              : 'bg-[#555] text-[#888] cursor-not-allowed pointer-events-none'
+              }`}
+            onClick={(e) => {
+              e.stopPropagation();
+              if (!team.team_url) e.preventDefault();
+            }}
+          >
+            View Team
+          </a>
         </div>
       </div>
     </div>
@@ -142,13 +154,22 @@ export default function TeamInfoModal({ team1, team2, onClose, onTeamSelect }: T
           <TeamCard team={team2} userLoc={userLoc} onSelect={onTeamSelect} />
         </div>
 
-        {team1.ncaa_url && (
-          <div className="mt-6 text-center">
-            <a href={team1.ncaa_url} target="_blank" rel="noopener noreferrer" className="inline-block bg-[#333] text-white px-4 py-2 no-underline rounded-md text-[0.9rem] transition-colors hover:bg-[#555] border border-[#555]">
-              View Matchup on NCAA.com
-            </a>
-          </div>
-        )}
+        <div className="mt-6 text-center">
+          <a
+            href={team1.ncaa_url || '#'}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`inline-block px-4 py-2 no-underline rounded-md text-[0.9rem] transition-colors border ${team1.ncaa_url
+              ? 'bg-[#333] text-white hover:bg-[#555] border-[#555] cursor-pointer'
+              : 'bg-[#222] text-[#666] border-[#444] cursor-not-allowed pointer-events-none'
+              }`}
+            onClick={(e) => {
+              if (!team1.ncaa_url) e.preventDefault();
+            }}
+          >
+            View Matchup on NCAA.com
+          </a>
+        </div>
 
       </div>
     </div>

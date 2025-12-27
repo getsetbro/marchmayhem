@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import TeamInfoModal from "./TeamInfoModal";
+import MatchupInfoButton from "./MatchupInfoButton";
 
 interface BracketProps {
   initialMatches?: any[];
@@ -20,69 +21,88 @@ export default function Bracket({ initialMatches = DEFAULT_MATCHES, history, sho
   }, [JSON.stringify(initialMatches)]);
 
   const handleChoice = (match: any, team: any) => {
-    const update = matchings.map((matching) => {
-      if (matching.matchup === match.updates[0]) {
-        return { ...matching, [match.updates[1]]: team };
-      } else {
-        return matching;
+    if (!match.updates) return;
+
+    const [nextMatchId, slot] = match.updates;
+    if (!nextMatchId) return;
+
+    // Find what was previously picked for this matchup's slot
+    const nextMatch = matchings.find((m) => m.matchup === nextMatchId);
+    const oldPick = nextMatch?.[slot];
+
+    // If we're picking the same team, do nothing
+    if (oldPick?.name === team?.name) return;
+
+    // Build list of teams to clear from downstream matchups
+    // If we're changing a pick, we need to clear the old pick from all future rounds
+    const teamsToClear: string[] = [];
+    if (oldPick?.name) {
+      teamsToClear.push(oldPick.name);
+    }
+
+    let update = matchings.map((matching) => {
+      // Update the immediate next matchup
+      if (matching.matchup === nextMatchId) {
+        return { ...matching, [slot]: team };
       }
+      return matching;
     });
+
+    // If there's a team to clear, cascade through all downstream matchups
+    if (teamsToClear.length > 0) {
+      // Repeatedly scan for matchups containing teams to clear
+      let changed = true;
+      while (changed) {
+        changed = false;
+        update = update.map((matching) => {
+          let newMatching = { ...matching };
+          // Check if tt or tb contains a team we need to clear
+          if (matching.tt && teamsToClear.includes(matching.tt.name)) {
+            newMatching.tt = null;
+            changed = true;
+          }
+          if (matching.tb && teamsToClear.includes(matching.tb.name)) {
+            newMatching.tb = null;
+            changed = true;
+          }
+          return newMatching;
+        });
+      }
+    }
+
     setMatchings(update);
   };
 
   const getMatchStatus = (match: any) => {
-    if (!showResults || !history || !history[match.matchup]) return "";
+    if (!showResults) return "";
 
-    // To know if the user picked correctly, we need to know who they picked.
-    // The pick is stored in the *next* match's slot.
-    // match.updates = [nextMatchId, slot] (e.g. [33, 'tt'])
+    // The match.winner field tells us who actually won ('top' or 'bottom')
+    if (!match.winner) return "";  // Game not played yet
+
+    // Get the user's pick from the next matchup
     if (!match.updates) return "";
     const [nextMatchId, slot] = match.updates;
-    if (!nextMatchId) return ""; // Final/Winner slot might handle differently
+    if (!nextMatchId) return "";
 
     const nextMatch = matchings.find((m) => m.matchup === nextMatchId);
     if (!nextMatch) return "";
 
-    const userPick = nextMatch[slot]; // This is a Team object or null
-    if (!userPick) return ""; // User hasn't picked yet
+    const userPick = nextMatch[slot];
+    if (!userPick) return "";  // User hasn't picked yet
 
-    const actualWinnerName = history[match.matchup];
-    if (userPick.name === actualWinnerName) return "border-2 border-green-500 rounded";
+    // Determine who actually won
+    const actualWinner = match.winner === 'top' ? match.tt : match.tb;
+    if (!actualWinner) return "";
+
+    // Compare user pick with actual winner
+    if (userPick.name === actualWinner.name) {
+      return "border-2 border-green-500 rounded";
+    }
     return "border-2 border-red-500 rounded";
-  };
-
-  /* Refactored Info Button for Matchup */
-  const MatchupInfoButton = ({ match }: { match: any }) => {
-    if (!match.tt || !match.tb) return null; // Only show if both teams exist
-
-    return (
-      <button
-        className="bg-[#444] text-white border border-[#777] rounded-full w-[18px] h-[18px] text-[11px] leading-[16px] text-center cursor-pointer z-10 flex items-center justify-center p-0 ml-1 shrink-0 hover:bg-[#0070f3] hover:border-[#0070f3]"
-        onClick={(e) => {
-          e.stopPropagation();
-          setSelectedMatch(match);
-        }}
-        aria-label="Matchup Info"
-      >
-        i
-      </button>
-    );
   };
 
   return (
     <>
-
-      {selectedMatch && selectedMatch.tt && selectedMatch.tb && (
-        <TeamInfoModal
-          team1={selectedMatch.tt}
-          team2={selectedMatch.tb}
-          onClose={() => setSelectedMatch(null)}
-          onTeamSelect={(team) => {
-            handleChoice(selectedMatch, team);
-            setSelectedMatch(null);
-          }}
-        />
-      )}
 
       <div className={`bracket ${showResults ? "showing-results" : ""}`}>
         <div className="region-1 region">
@@ -96,28 +116,28 @@ export default function Bracket({ initialMatches = DEFAULT_MATCHES, history, sho
                   className={`matchup matchup-${match.matchup} relative flex items-center pr-1 ${status}`}
                 >
                   <ul className="flex-1 min-w-0">
-                    <li className="team team-top bg-[#04314c]">
+                    <li className="team team-top">
                       <button
                         type="button"
                         onClick={() => {
                           handleChoice(match, match.tt);
                         }}
                       >
-                        <span>{match.tt?.seed} {match.tt?.name}</span>
+                        {match.tt?.seed} {match.tt?.name}
                       </button>
                     </li>
-                    <li className="team team-bottom bg-[#333]">
+                    <li className="team team-bottom">
                       <button
                         type="button"
                         onClick={() => {
                           handleChoice(match, match.tb);
                         }}
                       >
-                        <span>{match.tb?.seed} {match.tb?.name}</span>
+                        {match.tb?.seed} {match.tb?.name}
                       </button>
                     </li>
                   </ul>
-                  <MatchupInfoButton match={match} />
+                  <MatchupInfoButton match={match} onInfoClick={setSelectedMatch} />
                 </div>
               );
             })}
@@ -133,28 +153,28 @@ export default function Bracket({ initialMatches = DEFAULT_MATCHES, history, sho
                   className={`matchup matchup-${match.matchup} relative flex items-center pr-1 ${status}`}
                 >
                   <ul className="flex-1 min-w-0">
-                    <li className="team team-top bg-[#04314c]">
+                    <li className="team team-top">
                       <button
                         type="button"
                         onClick={() => {
                           handleChoice(match, match.tt);
                         }}
                       >
-                        <span>{match.tt?.seed} {match.tt?.name}</span>
+                        {match.tt?.seed} {match.tt?.name}
                       </button>
                     </li>
-                    <li className="team team-bottom bg-[#333]">
+                    <li className="team team-bottom">
                       <button
                         type="button"
                         onClick={() => {
                           handleChoice(match, match.tb);
                         }}
                       >
-                        <span>{match.tb?.seed} {match.tb?.name}</span>
+                        {match.tb?.seed} {match.tb?.name}
                       </button>
                     </li>
                   </ul>
-                  <MatchupInfoButton match={match} />
+                  <MatchupInfoButton match={match} onInfoClick={setSelectedMatch} />
                 </div>
               );
             })}
@@ -170,28 +190,28 @@ export default function Bracket({ initialMatches = DEFAULT_MATCHES, history, sho
                   className={`matchup matchup-${match.matchup} relative flex items-center pr-1 ${status}`}
                 >
                   <ul className="flex-1 min-w-0">
-                    <li className="team team-top bg-[#04314c]">
+                    <li className="team team-top">
                       <button
                         type="button"
                         onClick={() => {
                           handleChoice(match, match.tt);
                         }}
                       >
-                        <span>{match.tt?.seed} {match.tt?.name}</span>
+                        {match.tt?.seed} {match.tt?.name}
                       </button>
                     </li>
-                    <li className="team team-bottom bg-[#333]">
+                    <li className="team team-bottom">
                       <button
                         type="button"
                         onClick={() => {
                           handleChoice(match, match.tb);
                         }}
                       >
-                        <span>{match.tb?.seed} {match.tb?.name}</span>
+                        {match.tb?.seed} {match.tb?.name}
                       </button>
                     </li>
                   </ul>
-                  <MatchupInfoButton match={match} />
+                  <MatchupInfoButton match={match} onInfoClick={setSelectedMatch} />
                 </div>
               );
             })}
@@ -207,28 +227,28 @@ export default function Bracket({ initialMatches = DEFAULT_MATCHES, history, sho
                   className={`matchup matchup-${match.matchup} relative flex items-center pr-1 ${status}`}
                 >
                   <ul className="flex-1 min-w-0">
-                    <li className="team team-top bg-[#04314c]">
+                    <li className="team team-top">
                       <button
                         type="button"
                         onClick={() => {
                           handleChoice(match, match.tt);
                         }}
                       >
-                        <span>{match.tt?.seed} {match.tt?.name}</span>
+                        {match.tt?.seed} {match.tt?.name}
                       </button>
                     </li>
-                    <li className="team team-bottom bg-[#333]">
+                    <li className="team team-bottom">
                       <button
                         type="button"
                         onClick={() => {
                           handleChoice(match, match.tb);
                         }}
                       >
-                        <span>{match.tb?.seed} {match.tb?.name}</span>
+                        {match.tb?.seed} {match.tb?.name}
                       </button>
                     </li>
                   </ul>
-                  <MatchupInfoButton match={match} />
+                  <MatchupInfoButton match={match} onInfoClick={setSelectedMatch} />
                 </div>
               );
             })}
@@ -244,28 +264,24 @@ export default function Bracket({ initialMatches = DEFAULT_MATCHES, history, sho
                   className={`matchup matchup-${match.matchup} relative flex items-center pr-1 ${status}`}
                 >
                   <ul className="flex-1 min-w-0">
-                    <li className="team team-top bg-[#04314c]">
+                    <li className="team team-top">
                       <button
                         type="button"
-                        onClick={() => {
-                          handleChoice(match, match.tt);
-                        }}
+                        onClick={() => { handleChoice(match, match.tt); }}
                       >
-                        <span>{match.tt?.seed} {match.tt?.name}</span>
+                        {match.tt?.seed} {match.tt?.name}
                       </button>
                     </li>
-                    <li className="team team-bottom bg-[#333]">
+                    <li className="team team-bottom">
                       <button
                         type="button"
-                        onClick={() => {
-                          handleChoice(match, match.tb);
-                        }}
+                        onClick={() => { handleChoice(match, match.tb); }}
                       >
-                        <span>{match.tb?.seed} {match.tb?.name}</span>
+                        {match.tb?.seed} {match.tb?.name}
                       </button>
                     </li>
                   </ul>
-                  <MatchupInfoButton match={match} />
+                  <MatchupInfoButton match={match} onInfoClick={setSelectedMatch} />
                 </div>
               );
             })}
@@ -290,7 +306,7 @@ export default function Bracket({ initialMatches = DEFAULT_MATCHES, history, sho
 
               return (
                 <ul className={`matchup matchup-64 ${status}`} key={match.matchup}>
-                  <li className="team winner bg-[#0a6fac]">
+                  <li className="team winner border-2 border-gray-800 justify-center">
                     {match.tt?.seed} {match.tt?.name}
                   </li>
                 </ul>
@@ -298,6 +314,18 @@ export default function Bracket({ initialMatches = DEFAULT_MATCHES, history, sho
             })}
         </div>
       </div>
+
+      {selectedMatch && selectedMatch.tt && selectedMatch.tb && (
+        <TeamInfoModal
+          team1={selectedMatch.tt}
+          team2={selectedMatch.tb}
+          onClose={() => setSelectedMatch(null)}
+          onTeamSelect={(team) => {
+            handleChoice(selectedMatch, team);
+            setSelectedMatch(null);
+          }}
+        />
+      )}
     </>
   );
 }

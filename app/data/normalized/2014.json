@@ -1,0 +1,1023 @@
+{
+  "year": 2014,
+  "matchups": [
+    {
+      "matchup": 1,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Florida",
+        "seo": "florida",
+        "fullName": "University of Florida"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Albany (NY)",
+        "seo": "albany-ny",
+        "fullName": "University at Albany"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/albany-ny-florida"
+    },
+    {
+      "matchup": 2,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 8,
+        "name": "Colorado",
+        "seo": "colorado",
+        "fullName": "University of Colorado, Boulder"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Pittsburgh",
+        "seo": "pittsburgh",
+        "fullName": "University of Pittsburgh"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/pittsburgh-colorado"
+    },
+    {
+      "matchup": 3,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 5,
+        "name": "VCU",
+        "seo": "vcu",
+        "fullName": "Virginia Commonwealth University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Stephen F. Austin",
+        "seo": "stephen-f-austin",
+        "fullName": "Stephen F. Austin State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/stephen-f-austin-vcu"
+    },
+    {
+      "matchup": 4,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 4,
+        "name": "UCLA",
+        "seo": "ucla",
+        "fullName": "University of California, Los Angeles"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Tulsa",
+        "seo": "tulsa",
+        "fullName": "University of Tulsa"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/tulsa-ucla"
+    },
+    {
+      "matchup": 5,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 6,
+        "name": "Ohio St.",
+        "seo": "ohio-st",
+        "fullName": "The Ohio State University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Dayton",
+        "seo": "dayton",
+        "fullName": "University of Dayton"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/dayton-ohio-st"
+    },
+    {
+      "matchup": 6,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Syracuse",
+        "seo": "syracuse",
+        "fullName": "Syracuse University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Western Mich.",
+        "seo": "western-mich",
+        "fullName": "Western Michigan University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/western-mich-syracuse"
+    },
+    {
+      "matchup": 7,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 7,
+        "name": "New Mexico",
+        "seo": "new-mexico",
+        "fullName": "University of New Mexico"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Stanford",
+        "seo": "stanford",
+        "fullName": "Stanford University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/stanford-new-mexico"
+    },
+    {
+      "matchup": 8,
+      "round": 1,
+      "region": 1,
+      "teamTop": {
+        "seed": 2,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Eastern Ky.",
+        "seo": "eastern-ky",
+        "fullName": "Eastern Kentucky University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/eastern-ky-kansas"
+    },
+    {
+      "matchup": 9,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 1,
+        "name": "Virginia",
+        "seo": "virginia",
+        "fullName": "University of Virginia"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Coastal Caro.",
+        "seo": "coastal-caro",
+        "fullName": "Coastal Carolina University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/coastal-caro-virginia"
+    },
+    {
+      "matchup": 10,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 8,
+        "name": "Memphis",
+        "seo": "memphis",
+        "fullName": "University of Memphis"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "George Washington",
+        "seo": "george-washington",
+        "fullName": "George Washington University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/george-washington-memphis"
+    },
+    {
+      "matchup": 11,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 5,
+        "name": "Cincinnati",
+        "seo": "cincinnati",
+        "fullName": "University of Cincinnati"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Harvard",
+        "seo": "harvard",
+        "fullName": "Harvard University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/harvard-cincinnati"
+    },
+    {
+      "matchup": 12,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 4,
+        "name": "Michigan St.",
+        "seo": "michigan-st",
+        "fullName": "Michigan State University"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Delaware",
+        "seo": "delaware",
+        "fullName": "University of Delaware"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/delaware-michigan-st"
+    },
+    {
+      "matchup": 13,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 6,
+        "name": "North Carolina",
+        "seo": "north-carolina",
+        "fullName": "University of North Carolina, Chapel Hill"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Providence",
+        "seo": "providence",
+        "fullName": "Providence College"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/providence-north-carolina"
+    },
+    {
+      "matchup": 14,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 3,
+        "name": "Iowa St.",
+        "seo": "iowa-st",
+        "fullName": "Iowa State University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "N.C. Central",
+        "seo": "nc-central",
+        "fullName": "North Carolina Central University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/nc-central-iowa-st"
+    },
+    {
+      "matchup": 15,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 7,
+        "name": "UConn",
+        "seo": "uconn",
+        "fullName": "University of Connecticut"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Saint Joseph's",
+        "seo": "saint-josephs",
+        "fullName": "Saint Joseph's University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/saint-josephs-uconn"
+    },
+    {
+      "matchup": 16,
+      "round": 1,
+      "region": 2,
+      "teamTop": {
+        "seed": 2,
+        "name": "Villanova",
+        "seo": "villanova",
+        "fullName": "Villanova University"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Milwaukee",
+        "seo": "milwaukee",
+        "fullName": "University of Wisconsin, Milwaukee"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/milwaukee-villanova"
+    },
+    {
+      "matchup": 17,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 1,
+        "name": "Wichita St.",
+        "seo": "wichita-st",
+        "fullName": "Wichita State University"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Cal Poly",
+        "seo": "cal-poly",
+        "fullName": "California Polytechnic State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/cal-poly-wichita-st"
+    },
+    {
+      "matchup": 18,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 8,
+        "name": "Kentucky",
+        "seo": "kentucky",
+        "fullName": "University of Kentucky"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Kansas St.",
+        "seo": "kansas-st",
+        "fullName": "Kansas State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/kansas-st-kentucky"
+    },
+    {
+      "matchup": 19,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 5,
+        "name": "Saint Louis",
+        "seo": "saint-louis",
+        "fullName": "Saint Louis University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "North Carolina St.",
+        "seo": "north-carolina-st",
+        "fullName": "North Carolina State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/north-carolina-st-saint-louis"
+    },
+    {
+      "matchup": 20,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 4,
+        "name": "Louisville",
+        "seo": "louisville",
+        "fullName": "University of Louisville"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "Manhattan",
+        "seo": "manhattan",
+        "fullName": "Manhattan College"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/manhattan-louisville"
+    },
+    {
+      "matchup": 21,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 6,
+        "name": "Massachusetts",
+        "seo": "massachusetts",
+        "fullName": "University of Massachusetts, Amherst"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Tennessee",
+        "seo": "tennessee",
+        "fullName": "University of Tennessee, Knoxville"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/tennessee-massachusetts"
+    },
+    {
+      "matchup": 22,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 3,
+        "name": "Duke",
+        "seo": "duke",
+        "fullName": "Duke University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Mercer",
+        "seo": "mercer",
+        "fullName": "Mercer University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/mercer-duke"
+    },
+    {
+      "matchup": 23,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 7,
+        "name": "Texas",
+        "seo": "texas",
+        "fullName": "University of Texas at Austin"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Arizona St.",
+        "seo": "arizona-st",
+        "fullName": "Arizona State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/arizona-st-texas"
+    },
+    {
+      "matchup": 24,
+      "round": 1,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Michigan",
+        "seo": "michigan",
+        "fullName": "University of Michigan"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "Wofford",
+        "seo": "wofford",
+        "fullName": "Wofford College"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/wofford-michigan"
+    },
+    {
+      "matchup": 25,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 1,
+        "name": "Arizona",
+        "seo": "arizona",
+        "fullName": "University of Arizona"
+      },
+      "teamBottom": {
+        "seed": 16,
+        "name": "Weber St.",
+        "seo": "weber-st",
+        "fullName": "Weber State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/weber-st-arizona"
+    },
+    {
+      "matchup": 26,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 8,
+        "name": "Gonzaga",
+        "seo": "gonzaga",
+        "fullName": "Gonzaga University"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Oklahoma St.",
+        "seo": "oklahoma-st",
+        "fullName": "Oklahoma State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/oklahoma-st-gonzaga"
+    },
+    {
+      "matchup": 27,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 5,
+        "name": "Oklahoma",
+        "seo": "oklahoma",
+        "fullName": "University of Oklahoma"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "North Dakota St.",
+        "seo": "north-dakota-st",
+        "fullName": "North Dakota State University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/north-dakota-st-oklahoma"
+    },
+    {
+      "matchup": 28,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 4,
+        "name": "San Diego St.",
+        "seo": "san-diego-st",
+        "fullName": "San Diego State University"
+      },
+      "teamBottom": {
+        "seed": 13,
+        "name": "New Mexico St.",
+        "seo": "new-mexico-st",
+        "fullName": "New Mexico State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/new-mexico-st-san-diego-st"
+    },
+    {
+      "matchup": 29,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 6,
+        "name": "Baylor",
+        "seo": "baylor",
+        "fullName": "Baylor University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Nebraska",
+        "seo": "nebraska",
+        "fullName": "University of Nebraska, Lincoln"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/nebraska-baylor"
+    },
+    {
+      "matchup": 30,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 3,
+        "name": "Creighton",
+        "seo": "creighton",
+        "fullName": "Creighton University"
+      },
+      "teamBottom": {
+        "seed": 14,
+        "name": "Louisiana",
+        "seo": "la-lafayette",
+        "fullName": "University of Louisiana at Lafayette"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/21/la-lafayette-creighton"
+    },
+    {
+      "matchup": 31,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 7,
+        "name": "Oregon",
+        "seo": "oregon",
+        "fullName": "University of Oregon"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "BYU",
+        "seo": "byu",
+        "fullName": "Brigham Young University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/byu-oregon"
+    },
+    {
+      "matchup": 32,
+      "round": 1,
+      "region": 4,
+      "teamTop": {
+        "seed": 2,
+        "name": "Wisconsin",
+        "seo": "wisconsin",
+        "fullName": "University of Wisconsin, Madison"
+      },
+      "teamBottom": {
+        "seed": 15,
+        "name": "American",
+        "seo": "american",
+        "fullName": "American University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/20/american-wisconsin"
+    },
+    {
+      "matchup": 33,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Florida",
+        "seo": "florida",
+        "fullName": "University of Florida"
+      },
+      "teamBottom": {
+        "seed": 9,
+        "name": "Pittsburgh",
+        "seo": "pittsburgh",
+        "fullName": "University of Pittsburgh"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/22/pittsburgh-florida"
+    },
+    {
+      "matchup": 34,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 4,
+        "name": "UCLA",
+        "seo": "ucla",
+        "fullName": "University of California, Los Angeles"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "Stephen F. Austin",
+        "seo": "stephen-f-austin",
+        "fullName": "Stephen F. Austin State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/23/stephen-f-austin-ucla"
+    },
+    {
+      "matchup": 35,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 3,
+        "name": "Syracuse",
+        "seo": "syracuse",
+        "fullName": "Syracuse University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Dayton",
+        "seo": "dayton",
+        "fullName": "University of Dayton"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/22/dayton-syracuse"
+    },
+    {
+      "matchup": 36,
+      "round": 2,
+      "region": 1,
+      "teamTop": {
+        "seed": 2,
+        "name": "Kansas",
+        "seo": "kansas",
+        "fullName": "University of Kansas"
+      },
+      "teamBottom": {
+        "seed": 10,
+        "name": "Stanford",
+        "seo": "stanford",
+        "fullName": "Stanford University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/23/stanford-kansas"
+    },
+    {
+      "matchup": 37,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 38,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 39,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 40,
+      "round": 2,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 41,
+      "round": 2,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 42,
+      "round": 2,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 43,
+      "round": 2,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 44,
+      "round": 2,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 45,
+      "round": 2,
+      "region": 4,
+      "teamTop": {
+        "seed": 1,
+        "name": "Arizona",
+        "seo": "arizona",
+        "fullName": "University of Arizona"
+      },
+      "teamBottom": {
+        "seed": 8,
+        "name": "Gonzaga",
+        "seo": "gonzaga",
+        "fullName": "Gonzaga University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/23/gonzaga-arizona"
+    },
+    {
+      "matchup": 46,
+      "round": 2,
+      "region": 4,
+      "teamTop": {
+        "seed": 4,
+        "name": "San Diego St.",
+        "seo": "san-diego-st",
+        "fullName": "San Diego State University"
+      },
+      "teamBottom": {
+        "seed": 12,
+        "name": "North Dakota St.",
+        "seo": "north-dakota-st",
+        "fullName": "North Dakota State University"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/22/north-dakota-st-san-diego-st"
+    },
+    {
+      "matchup": 47,
+      "round": 2,
+      "region": 4,
+      "teamTop": {
+        "seed": 3,
+        "name": "Creighton",
+        "seo": "creighton",
+        "fullName": "Creighton University"
+      },
+      "teamBottom": {
+        "seed": 6,
+        "name": "Baylor",
+        "seo": "baylor",
+        "fullName": "Baylor University"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/23/baylor-creighton"
+    },
+    {
+      "matchup": 48,
+      "round": 2,
+      "region": 4,
+      "teamTop": {
+        "seed": 2,
+        "name": "Wisconsin",
+        "seo": "wisconsin",
+        "fullName": "University of Wisconsin, Madison"
+      },
+      "teamBottom": {
+        "seed": 7,
+        "name": "Oregon",
+        "seo": "oregon",
+        "fullName": "University of Oregon"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/22/oregon-wisconsin"
+    },
+    {
+      "matchup": 49,
+      "round": 3,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Florida",
+        "seo": "florida",
+        "fullName": "University of Florida"
+      },
+      "teamBottom": {
+        "seed": 4,
+        "name": "UCLA",
+        "seo": "ucla",
+        "fullName": "University of California, Los Angeles"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/27/ucla-florida"
+    },
+    {
+      "matchup": 50,
+      "round": 3,
+      "region": 1,
+      "teamTop": {
+        "seed": 10,
+        "name": "Stanford",
+        "seo": "stanford",
+        "fullName": "Stanford University"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Dayton",
+        "seo": "dayton",
+        "fullName": "University of Dayton"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/27/dayton-stanford"
+    },
+    {
+      "matchup": 51,
+      "round": 3,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 52,
+      "round": 3,
+      "region": 2,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 53,
+      "round": 3,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 54,
+      "round": 3,
+      "region": 3,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 55,
+      "round": 3,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 56,
+      "round": 3,
+      "region": 4,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 57,
+      "round": 4,
+      "region": 1,
+      "teamTop": {
+        "seed": 1,
+        "name": "Florida",
+        "seo": "florida",
+        "fullName": "University of Florida"
+      },
+      "teamBottom": {
+        "seed": 11,
+        "name": "Dayton",
+        "seo": "dayton",
+        "fullName": "University of Dayton"
+      },
+      "winner": "top",
+      "gameUrl": "/game/basketball-men/d1/2014/03/29/dayton-florida"
+    },
+    {
+      "matchup": 58,
+      "round": 4,
+      "region": 2,
+      "teamTop": {
+        "seed": 4,
+        "name": "Michigan St.",
+        "seo": "michigan-st",
+        "fullName": "Michigan State University"
+      },
+      "teamBottom": {
+        "seed": 7,
+        "name": "UConn",
+        "seo": "uconn",
+        "fullName": "University of Connecticut"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/30/uconn-michigan-st"
+    },
+    {
+      "matchup": 59,
+      "round": 4,
+      "region": 3,
+      "teamTop": {
+        "seed": 2,
+        "name": "Michigan",
+        "seo": "michigan",
+        "fullName": "University of Michigan"
+      },
+      "teamBottom": {
+        "seed": 8,
+        "name": "Kentucky",
+        "seo": "kentucky",
+        "fullName": "University of Kentucky"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/30/kentucky-michigan"
+    },
+    {
+      "matchup": 60,
+      "round": 4,
+      "region": 4,
+      "teamTop": {
+        "seed": 1,
+        "name": "Arizona",
+        "seo": "arizona",
+        "fullName": "University of Arizona"
+      },
+      "teamBottom": {
+        "seed": 2,
+        "name": "Wisconsin",
+        "seo": "wisconsin",
+        "fullName": "University of Wisconsin, Madison"
+      },
+      "winner": "bottom",
+      "gameUrl": "/game/basketball-men/d1/2014/03/29/wisconsin-arizona"
+    },
+    {
+      "matchup": 61,
+      "round": 5,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 62,
+      "round": 5,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 63,
+      "round": 6,
+      "region": 5,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    },
+    {
+      "matchup": 64,
+      "round": 6,
+      "region": 6,
+      "teamTop": null,
+      "teamBottom": null,
+      "winner": null
+    }
+  ]
+}
